@@ -1,0 +1,71 @@
+//创建用户表
+create table tbl_customers (
+	id int(10)  unsigned not null auto_increment comment 'id 主键' , 
+	person  varchar(32) NOT NULL DEFAULT '' comment '姓名' ,
+	emil varchar(32)  DEFAULT NULL comment '邮箱',
+	phone varchar(32) DEFAULT NULL COMMENT '手机号',
+	country varchar(64) DEFAULT NULL COMMENT '国家',
+	province varchar(64) DEFAULT NULL COMMENT '省',
+	city varchar(64) DEFAULT NULL COMMENT '市',
+	address varchar(128) DEFAULT NULL COMMENT '详细地址',
+	addressEN varchar(128) DEFAULT NULL COMMENT '英文地址',
+	zip varchar(32)  DEFAULT NULL comment '邮编',
+	sex varchar(5)  DEFAULT NULL comment '性别',
+	birthday varchar(16)  DEFAULT NULL comment '出生日期',
+	primary key (id),
+	UNIQUE (id)
+
+);
+
+//现有商品表
+
+create table tbl_good (
+	commodityLinkage int(32)  unsigned not null comment '编号' , 
+	commodityBrand  varchar(32) NOT NULL DEFAULT '' comment '品牌' ,
+	commodity_CN varchar(32)  DEFAULT NULL comment '中文名称',
+	commodity_EN varchar(32) DEFAULT NULL COMMENT '英文名称',
+	commodityPrice decimal(10,2) DEFAULT NULL COMMENT '价格',
+	commodityCurrency varchar(16) DEFAULT NULL COMMENT '币种',
+	HSCODE varchar(32) DEFAULT NULL COMMENT '行邮税号',
+	rate decimal(5,2) DEFAULT NULL COMMENT '税率',
+	primary key (commodityLinkage),
+	UNIQUE (commodityLinkage)
+);
+
+
+
+//订单中商品
+create table tbl_order_good (
+	merchantOrderId varchar(32)   not null comment '订单号',
+	commodityLinkage varchar(32)   not null comment '商品编号', 
+	commodity_CN varchar(32)  DEFAULT NULL comment '商品中文名',
+	commodityNum  int(20) DEFAULT NULL comment '商品数量',
+	commodityUnitPrice decimal(10,2) DEFAULT NULL COMMENT '商品单价',
+	commodityCurrency varchar(16) DEFAULT NULL COMMENT '商品币种',
+	commodityAmount decimal(10,2) DEFAULT NULL COMMENT '商品总价',
+	HSCODE varchar(32) DEFAULT NULL COMMENT '行邮税号',
+	rate decimal(5,2) DEFAULT NULL COMMENT '行邮税率',
+	tax decimal(10,2) DEFAULT NULL COMMENT '税额',
+	primary key (merchantOrderId)
+);
+
+
+//订单详情
+
+create table tbl_order (
+	merchantOrderId varchar(32)   not null comment '订单号',
+	orderCommitTime varchar(32)   not null comment '订单日期', 
+	trackingID varchar(32)   not null comment '分运单号', 
+	package  int(20) DEFAULT NULL comment '件数',
+	grossWeight decimal(10,2) DEFAULT NULL COMMENT '重量',
+	weightUnit decimal(10,2) DEFAULT NULL COMMENT '重量单位',
+	totalAmount decimal(10,2) DEFAULT NULL COMMENT '订单商品总金额',
+	totalTax decimal(10,2) DEFAULT NULL COMMENT '税额',
+	expressPrice decimal(10,2) DEFAULT NULL COMMENT '运费金额',
+	payCUR varchar(16) DEFAULT NULL COMMENT '币种',
+	personName  varchar(32) NOT NULL DEFAULT '' comment '收货人' ,
+	mobile varchar(32) DEFAULT NULL COMMENT '收货人手机号',
+	emil varchar(32)  DEFAULT NULL comment '收货人邮箱',
+	address varchar(64)  DEFAULT NULL comment '收货人详细'
+);
+
