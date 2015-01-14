@@ -31,3 +31,4 @@ tar –xvf file.tar //解压 tar包
 
 　　unzip file.zip //解压zip
 　　
+速度时发生范德萨
