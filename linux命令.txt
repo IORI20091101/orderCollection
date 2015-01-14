@@ -30,3 +30,6 @@ tar –xvf file.tar //解压 tar包
 　　unrar e file.rar //解压rar
 
 　　unzip file.zip //解压zip
+　　
+　　
+　　测试merg
