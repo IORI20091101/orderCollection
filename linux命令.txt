@@ -8,6 +8,8 @@ ctrl+l清屏
 
 ls -s生成软链接
 
+ls -l 查看文件
+
 sudo mv xxx.txt /down/dee 移动文件到某个目录下
 
 vi touch xxx.txt 创建文件
@@ -16,6 +18,8 @@ man 命令详解
 
 cat xxx.txt 查看文件不修改
 
+
+rm －rf ＊／xxx.xml
 
 
 

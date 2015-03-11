@@ -1,0 +1,24 @@
+
+纪录开发过程中遇到的问题
+
+首先跑项目，需要注意一下几个问题，将settings.xml放到～／.m2文件夹下，如果没有就新建 注意这里不需要管理员权限
+首先import 从svn中倒入 项目，然后在项目上右击再impor 找到exiting maven project 检出子项目
+建立一个新的工作区间首先要全局改变编码偏好设置里面的gerneral －－>workspace 的编码改成utf8 
+  editors －－》text editor－－》spelling的编码改成utf8
+修改全集的idk偏好设置里面 搜索jre 修改当前的jdk 一般jdk6没有问题 install jdk 输入需要版本的jdk路径例如/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home
+
+然后如果mvn clean install的时候报错可以删掉 .m2下面点reponsity下面的依赖rm －rf ＊ 删除后运行项目会自动去重新下载错误就解决了
+一般删除Users/toshiba/.m2/repository/org就可以
+再就是在项目上面右击 maven —>update depencies… 更新依赖
+
+遇到莫名奇妙的问题project－－》 clean
+         再就是删掉所有子项目中的target
+
+重复以上步骤基本能解决所有问题
+
+注意龙贷项目先跑longdai－adbc 然后longdai－service  最后longdai－web 
+
+labi-2.0 虽然报错，但是labi－web下能跑起来
+
+
+nodejs使用jade缩进会导致各种问题
