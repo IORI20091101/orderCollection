@@ -1,6 +1,6 @@
 git命令大全 repository
 
-git config --global user.name "dongzhi" 
+git config --global user.name "dongzhi"
 git config --global user.email "sundongzhi11014111@126.com"    创建使用者的名字及邮箱--global全局设置
 
 pwd 用来显示当前目录
@@ -78,7 +78,7 @@ $ git remote rm origin
 
 然后在执行：$ git remote add origin git@github.com:defnngj/hello-world.git 就不会报错误了
 
- 
+
 
 2. 在执行
 
@@ -155,7 +155,7 @@ stash@{0}: WIP on dev: 6224937 add merge
 工作现场还在，Git把stash内容存在某个地方了，但是需要恢复一下，有两个办法：
 
  git stash apply stash@{0}
- 
+
 一是用git stash apply恢复，但是恢复后，stash内容并不删除，你需要用git stash drop来删除；
 
 另一种方式是用git stash pop，恢复的同时把stash内容也删了：
@@ -182,6 +182,8 @@ git pull也失败了，原因是没有指定本地dev分支与远程origin/dev�
 $ git branch --set-upstream dev origin/dev
 
 
+
+git push -f 强制推送，如果本地库恢复到1.0 远程库是2.0 可以用此命令强制推送到远程版本库
 
 
 git tag v1.0 打标签

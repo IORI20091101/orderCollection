@@ -1,0 +1,1 @@
+在装有python的系统中执行 python -m SimpleHTTPServer 8888  可以启动一个简单的服务器访问整个机器
