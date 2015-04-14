@@ -215,3 +215,13 @@ git tag -s <tagname> -m "blablabla..."可以用PGP签名标签；
 
 命令git push origin :refs/tags/<tagname>可以删除一个远程标签。
 
+
+error: RPC failed; result=22, HTTP code = 413
+fatal: The remote end hung up unexpectedly
+fatal: The remote end hung up unexpectedly
+
+I've already done
+
+git config http.postBuffer 524288000, so that doesn't seem to be the issue. What could it be?
+
+I got HTTP code = 0 when my proxy was blocking. My http proxy works with github, but the https doesn't for my corporate proxy. I think my HTTPS proxy forces NTLM, while the HTTP accepts BASIC. I changed the repo origin URL from https to http and it worked for me. git remote set-url origin http://github.com/GitUserName/GitRepoName.git
