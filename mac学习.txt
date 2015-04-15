@@ -1,1 +1,30 @@
 在装有python的系统中执行 python -m SimpleHTTPServer 8888  可以启动一个简单的服务器访问整个机器
+
+phantomjs 服务器端的js解析器
+
+oh my zsh语法总结：
+
+alias cls='clear'
+alias ll='ls -l'
+alias la='ls -a'
+alias vi='vim'
+alias javac="javac -J-Dfile.encoding=utf8"
+alias grep="grep --color=auto"
+alias -s html=mate   # 在命令行直接输入后缀为 html 的文件名，会在 TextMate 中打开
+alias -s rb=mate     # 在命令行直接输入 ruby 文件，会在 TextMate 中打开
+alias -s py=vi       # 在命令行直接输入 python 文件，会用 vim 中打开，以下类似
+alias -s js=vi
+alias -s c=vi
+alias -s java=vi
+alias -s txt=vi
+alias -s gz='tar -xzvf'
+alias -s tgz='tar -xzvf'
+alias -s zip='unzip'
+alias -s bz2='tar -xjvf'
+
+j -s
+j 文件路径
+
+目录浏览和跳转：输入 d
+
+在当前目录下输入 .. 或 … ，或直接输入当前目录名都可以跳转，你甚至不再需要输入 cd 命令了。
