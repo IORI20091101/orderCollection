@@ -1,0 +1,12 @@
+mvn clean
+
+mvn clean test
+
+mvn clean compile
+
+mvn clean package
+
+mvn clean install
+
+生成项目骨架
+mvn archetype:generate
