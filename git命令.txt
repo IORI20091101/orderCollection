@@ -225,3 +225,11 @@ I've already done
 git config http.postBuffer 524288000, so that doesn't seem to be the issue. What could it be?
 
 I got HTTP code = 0 when my proxy was blocking. My http proxy works with github, but the https doesn't for my corporate proxy. I think my HTTPS proxy forces NTLM, while the HTTP accepts BASIC. I changed the repo origin URL from https to http and it worked for me. git remote set-url origin http://github.com/GitUserName/GitRepoName.git
+
+
+最近遇到一个git的问题当我想提交代码到studyCollection的时候报一个错误
+1，fatal:could not read Username for 'https://github.com': No such file or directory
+2，unable to access 'https://github.com/xxxx.git' unknown SSL protocol error in connection to github.com:443
+原因有人说是版本问题，更改了.git下的.config文件后解决，解决办法是将 https的url改成 git@gihub类似的SSH的这种通过存的公钥来访问是没有问题的，还可以通过命令来更改
+你应该写「git@github.com:xxx/yyy」。使用 git remote set-url origin xxx 来修改成正确的地址。或者直接编辑 .git/config 文件。
+
