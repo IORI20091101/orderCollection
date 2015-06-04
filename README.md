@@ -110,27 +110,20 @@
 * 分布式版本控制方面的业内经验 (Git, Mercurial)。
 * 我们目前使用的一些函数库包括jQuery, LESS, Twitter Bootstrap，因此对这些全部或者部分熟悉的人会优先录用。
 * 掌握后台技术，如Python/Django, Ruby 或 PHP。
-* 曾经在大型的网络应用程序项目或网站中工作的经历。
 * 掌握灵活敏捷的开发方法，如Kanban和Scrum。
 * 熟练掌握html5，css3；要求有jquerymobile,zepto等移动js框架开发经验；
-* 掌握代码对各种浏览器的兼容性调试；
 * 有HTML5的canvas动画制作；
-* 熟练应用 SVN 进行协作开发，具备良好的代码编程习惯及较强的文档编写能力；
 * 熟悉和理解目前主流的Web前端开源框架（比如：Ember、Angularjs、ExtJs或者Dojo等）。
 * 精通HTML和CSS 及JavaScript、熟悉前端mvc/mvvm开发框架（例如backbone/angularjs等）优先；
 * 熟练使用前端技术开发单页面应用（SPA）；
-* 熟练解决页面兼容性问题；
 * 有jQuery框架使用经验，对ECMA规范有一定了解；
 * 熟悉服务端开发语言(例如C#/Java/PHP等)优先。
 * 熟悉W3C标准与ES规范，熟悉Web语义化
 * 熟练掌握盒模型、常用布局以及浏览器和移动设备兼容性
 * 熟练掌握HTML5、CSS3、JavaScript开发，熟练使用至少一种JS框架，掌握其原理，能独立开发常用组件
 * 熟练使用各种调试、抓包工具，能独立分析、解决和归纳问题
-* 踏实、勤恳、好学，较强的沟通能力，良好的团队协作精神
 * 极强的责任心，追求完美的习惯，刨根问底的精神
-* 具有至少一门服务器端编程的实战经验
 * 具有移动设备调试经验
-* 具有性能优化经验
 * 熟悉各种常用设计模式和常用MV*框架
 * 熟悉Mobile Web/Hybrid Web App/基于Canvas的游戏等开发
 
