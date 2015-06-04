@@ -32,7 +32,7 @@
 
 
 ##js相关
-* [30天学习30种新技术](http://segmentfault.com/a/1190000000349384)
+
 * [jQuery中文文档](http://www.css88.com/jqapi-1.9/)
 * [underscore](http://www.css88.com/doc/underscore/)
 * [Backbone](http://www.css88.com/doc/backbone/)
@@ -41,6 +41,8 @@
 * [Handlebars](http://handlebarsjs.com/)
 * [artTemplate](http://aui.github.io/artTemplate/)
 * [Seajs](http://seajs.org/docs/)
+* [30天学习30种新技术](http://segmentfault.com/a/1190000000349384)
+* [Raphael JS库是通过SVG/VML+JS实现跨浏览器的矢量图形实现方案](http://raphaeljs.com/)
 * [yeoman](http://yeoman.io/)
 * [D3.js](http://d3js.org/)
 * [zeptojs](http://www.css88.com/doc/zeptojs_api/)
@@ -85,7 +87,6 @@
 * [jade语法](http://jade-syntax.coffee-js.org/)
 * [phantomjs](http://www.tuicool.com/articles/beeMNj)
 
-
 ##其他
 * [Mac 键盘快捷键](https://support.apple.com/zh-cn/HT201236)
 * [git教程](http://www.nutzam.com/core/committer/git_project.html)
@@ -97,4 +98,42 @@
 * [BootCDN稳定、快速、免费的开源项目 CDN 服务](http://www.bootcdn.cn/)
 * [Ant](http://www.cnblogs.com/xionghui/archive/2012/03/13/2393679.html)
 * [公司代码](http://git.gozap.com/)
+
+
+##各大公司招聘要求
+* 优化性能：用BigRender、Ajax合并、静态化等先进技术让页面飞起来；
+* 推进自动化：从自动化浏览器测试、JavaScript主动预警，到基于Grunt的开发工具，不断地提高开发效率和代码质量；
+* 梳理通用UI：与UED一道，发现、沉淀通用视觉元素，输出一致、贴心、精细的产品体验；
+* 发展组件化：以独立功能模块作为前后端代码的聚合单元，Focus & Maintainable；
+* 建设前端架构：考虑业务和团队规模，借鉴优秀前端实践，针对性地定制最为高效、稳定且具备一定先进性的前端架构。
+* 使用Backbone或其它JavaScript MVC 框架的经验。
+* 分布式版本控制方面的业内经验 (Git, Mercurial)。
+* 我们目前使用的一些函数库包括jQuery, LESS, Twitter Bootstrap，因此对这些全部或者部分熟悉的人会优先录用。
+* 掌握后台技术，如Python/Django, Ruby 或 PHP。
+* 曾经在大型的网络应用程序项目或网站中工作的经历。
+* 掌握灵活敏捷的开发方法，如Kanban和Scrum。
+* 熟练掌握html5，css3；要求有jquerymobile,zepto等移动js框架开发经验；
+* 掌握代码对各种浏览器的兼容性调试；
+* 有HTML5的canvas动画制作；
+* 熟练应用 SVN 进行协作开发，具备良好的代码编程习惯及较强的文档编写能力；
+* 熟悉和理解目前主流的Web前端开源框架（比如：Ember、Angularjs、ExtJs或者Dojo等）。
+* 精通HTML和CSS 及JavaScript、熟悉前端mvc/mvvm开发框架（例如backbone/angularjs等）优先；
+* 熟练使用前端技术开发单页面应用（SPA）；
+* 熟练解决页面兼容性问题；
+* 有jQuery框架使用经验，对ECMA规范有一定了解；
+* 熟悉服务端开发语言(例如C#/Java/PHP等)优先。
+* 熟悉W3C标准与ES规范，熟悉Web语义化
+* 熟练掌握盒模型、常用布局以及浏览器和移动设备兼容性
+* 熟练掌握HTML5、CSS3、JavaScript开发，熟练使用至少一种JS框架，掌握其原理，能独立开发常用组件
+* 熟练使用各种调试、抓包工具，能独立分析、解决和归纳问题
+* 踏实、勤恳、好学，较强的沟通能力，良好的团队协作精神
+* 极强的责任心，追求完美的习惯，刨根问底的精神
+* 具有至少一门服务器端编程的实战经验
+* 具有移动设备调试经验
+* 具有性能优化经验
+* 熟悉各种常用设计模式和常用MV*框架
+* 熟悉Mobile Web/Hybrid Web App/基于Canvas的游戏等开发
+
+
+> 你是不是已经对 HTML5, CSS3, ECMAScript 非常精通了，是不是也玩烂了 jQuery, Zepto, YUI 等常见类库了，是不是也吃透了 AngularJS, Bootstrap, RequireJS 的使用,是不是对 Sass, Gulp, Yeoman, Bower, Git, CoffeeScript 的使用谙熟于心，是不是还喜欢用 Node 来写脚本或者搭建Web站点，最好还了解一些 Python, Ruby, PHP 或者 Java，当然相比你对 XSS, CSRF 等漏洞的挖掘和防御也很感兴趣，也许你的 Github 上还会有一揽子的作品和创意，也许你还是GTD或者番茄工作法的实践者，也许你对自动化测试，单元测试，集成测试都有一些了解，最重要的，你一定对学习和分享有着积极和敬畏的态度。这样的你，请加入我们的团队吧。
 
