@@ -41,6 +41,9 @@
 * [Handlebars](http://handlebarsjs.com/)
 * [artTemplate](http://aui.github.io/artTemplate/)
 * [Seajs](http://seajs.org/docs/)
+* [Modernizr](http://modernizr.com/docs/)
+* [CoffeScript](http://coffee-script.org/)
+* [yepnopejs](http://yepnopejs.com/)
 * [30天学习30种新技术](http://segmentfault.com/a/1190000000349384)
 * [Raphael JS库是通过SVG/VML+JS实现跨浏览器的矢量图形实现方案](http://raphaeljs.com/)
 * [yeoman](http://yeoman.io/)
@@ -60,10 +63,9 @@
 * [bootstrap](http://www.bootcss.com/)
 * [html5boilerplate](http://www.bootcss.com/p/html5boilerplate/)
 * [css参考手册](http://www.css88.com/book/css/)
+* [css参考手册V3.4.0](http://www.html5cn.com.cn/book/css/index.htm)
 * [less教程](http://less.bootcss.com/features/)
 * [SASS](http://www.w3cplus.com/sassguide/)
-* [Modernizr](http://modernizr.com/docs/)
-* [CoffeScript](http://coffee-script.org/)
 * [material-ui](http://material-ui.com/#/components/paper)
 * [浏览器hack](http://www.css88.com/tool/hack/)
 * [前端模板排行](http://www.gbtags.com/technology/html/2011111010handyhtml5css3frameworks/)
@@ -77,6 +79,9 @@
 * [icon ui](http://huaban.com/favorite/web_app_icon/)
 
 
+##HTML5
+* [HTML5教程&知识点](http://www.html5cn.com.cn/html5/index.html)
+
 ##nodejs相关
 * [grunt](http://www.gruntjs.net/api/grunt.task#grunt.task.run)
 * [expressjs](http://expressjs.jser.us/4x_zh-cn/api.html)
@@ -88,6 +93,7 @@
 * [phantomjs](http://www.tuicool.com/articles/beeMNj)
 
 ##其他
+* [BootCDN稳定、快速、免费的开源项目 CDN 服务](http://www.bootcdn.cn/)
 * [Mac 键盘快捷键](https://support.apple.com/zh-cn/HT201236)
 * [git教程](http://www.nutzam.com/core/committer/git_project.html)
 * [git官网](http://git-scm.com/book/zh/v1)
@@ -95,7 +101,6 @@
 * [markedown](http://markable.in/editor/)
 * [画流程图工具](https://www.processon.com/)
 * [Chrome 使用技巧](http://www.yyyweb.com/3604.html)
-* [BootCDN稳定、快速、免费的开源项目 CDN 服务](http://www.bootcdn.cn/)
 * [Ant](http://www.cnblogs.com/xionghui/archive/2012/03/13/2393679.html)
 * [公司代码](http://git.gozap.com/)
 
