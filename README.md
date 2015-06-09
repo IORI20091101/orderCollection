@@ -83,6 +83,8 @@
 * [HTML5教程&知识点](http://www.html5cn.com.cn/html5/index.html)
 
 ##nodejs相关
+* [Nodejs教程](http://www.nodebeginner.org/index-zh-cn.html)
+* [Node.js + Web Socket 打造即时聊天程序嗨聊](http://segmentfault.com/a/1190000000479518)
 * [grunt](http://www.gruntjs.net/api/grunt.task#grunt.task.run)
 * [expressjs](http://expressjs.jser.us/4x_zh-cn/api.html)
 * [sockit.io](http://socket.io/slack/)
