@@ -17,6 +17,12 @@ new Date("2015-5-7 9:04:10");
 +new Date
 
 
+temp.toLocaleDateString()
+"2015/6/9"
+temp.toLocaleTimeString()
+"下午6:27:46"
+
+
 & (按位与)
 判断一个数是否为2的n次幂，可以将其与自身减一相与
 
