@@ -97,6 +97,7 @@
 
 ##其他
 * [BootCDN稳定、快速、免费的开源项目 CDN 服务](http://www.bootcdn.cn/)
+* [在线各种文档javajdk](http://tool.oschina.net/)
 * [Mac 键盘快捷键](https://support.apple.com/zh-cn/HT201236)
 * [git教程](http://www.nutzam.com/core/committer/git_project.html)
 * [git官网](http://git-scm.com/book/zh/v1)
