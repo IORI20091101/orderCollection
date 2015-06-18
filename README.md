@@ -32,7 +32,7 @@
 
 
 ##js相关
-
+* [web技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
 * [jQuery中文文档](http://www.css88.com/jqapi-1.9/)
 * [underscore](http://www.css88.com/doc/underscore/)
 * [Backbone](http://www.css88.com/doc/backbone/)
@@ -84,6 +84,7 @@
 * [HTML5教程&知识点](http://www.html5cn.com.cn/html5/index.html)
 
 ##nodejs相关
+* [从零开始nodejs系列文章](http://blog.fens.me/series-nodejs/)
 * [Nodejs教程](http://www.nodebeginner.org/index-zh-cn.html)
 * [Node.js + Web Socket 打造即时聊天程序嗨聊](http://segmentfault.com/a/1190000000479518)
 * [grunt](http://www.gruntjs.net/api/grunt.task#grunt.task.run)
