@@ -52,3 +52,83 @@ InjectedScript.evaluate @   VM81:682
 //存取器
 访问属性 __defineGetter__
 设置属性 __defineSetter__
+
+
+//错误进程处理器
+process.on('uncaughtException', function(err) {
+    console.error(err);
+    process.exit(1);
+})
+
+//全局变量
+global：任何属性都可以被global全局对象访问
+process： 所有全局执行上下文都在process对象中
+
+//node中的事件监听
+var EventEmitter = require('events').EventEmitter,
+    a = new EventEmitter;
+a.on('event', function() {
+    console.log('event called');
+})
+a.emit('event');
+//--------------
+var EventEmitter = process.EventEmitter, MyClass = function() {};
+MyClass.prototype.__proto__ = EventEmitter.prototype;
+//MyClass所有的实例都具有了事件功能
+var a = new MyClass;
+a.on('xxx', function() {
+    //todo
+})
+
+
+//读取文件路径同步和异步
+var fs = require('fs');
+//sync :
+fs.readdirSync(__dirname);
+
+//async:
+function async(err, files) {
+    console.log(files);
+}
+fs.redir('.', async);
+
+
+//标准输出
+console.log('hello world');
+process.stdout.write('hello world');
+
+
+//node 关于process一些参数
+process.argv
+
+__dirname执行文件时该文件所在的目录
+process.cwd() //获取当前工作目录
+process.env.NODE_ENV; //获取环境变量
+process.env.SHELL;
+process.exit(1); //退出程序
+
+//进程和操作系统通信通过信号例如要终止进程
+process.on('SIGKILL',function() {
+    //信号已收到
+})
+
+
+//stream
+fs.readFile  fs.writeFile 都是一次性操作完成
+fs.readFile('my.txt', function(err, contents) {})
+该方法必须等到文件读取完毕，载入到RAM，可用情况才会触发，
+var stream = fs.createReadStream('my.txt');
+stream.on('data', function(chunk) {
+    //处理文件部分内容
+});
+stream.on('end', function(chunk) {})
+对于读取上传大文件可以大大提速上传过程。
+
+
+//监听文件变化
+fs.watchFile(process.cwd() + '/watchFile.js', function() {
+    console.log('fs has changeed');
+});
+
+//telnet 网络协议已经基本不用可以测试
+直接在控制台输入 telnet
