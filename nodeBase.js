@@ -1,3 +1,10 @@
+使用node－inspector进行debug
+node --debug app2.js
+
+node-inspector
+
+
+
 //命令
 npm publish  //发布模块
 npm install -g express //安装express

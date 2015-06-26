@@ -44,3 +44,24 @@ MongoDB shell version: 2.0.2-rc2
 connecting to: test
 >
  同样地，访问成功，连接到test库
+
+
+
+
+ mac下安装mongodb
+
+ 将解压的安装文件移动到你所喜欢的位置
+mv -n ~/Downloads/mongodb-osx-x86_64-2.4.6 ~/Applications/mongodb/
+
+在根目录 / 下创建  data/db 目录，用于放置mongodb数据，并且给该目录设置权限
+sudo mkdir -p /data/db
+sudo chown -R  toshiba /data
+
+启动mongodb 服务
+
+进入安装存放的下载安装文件目录的bin文件夹 运行 ./mongod
+
+打开另外一个终端，同样是进入bin 目录，运行 ./mongo
+
+如何不使用刚才新建的data路径需要再起动时制定data路径这与windows类似
+mongod --dbpath <path to data directory>

@@ -1,4 +1,4 @@
-在装有python的系统中执行 python -m SimpleHTTPServer 8888  可以启动一个简单的服务器访问整个机器
+1，在装有python的系统中执行 python -m SimpleHTTPServer 8888  可以启动一个简单的服务器访问整个机器
 
 phantomjs 服务器端的js解析器
 
@@ -28,3 +28,7 @@ j 文件路径
 目录浏览和跳转：输入 d
 
 在当前目录下输入 .. 或 … ，或直接输入当前目录名都可以跳转，你甚至不再需要输入 cd 命令了。
+
+
+查看path
+echo $PATH
