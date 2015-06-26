@@ -98,6 +98,7 @@
 
 ##其他
 * [BootCDN稳定、快速、免费的开源项目 CDN 服务](http://www.bootcdn.cn/)
+* [各种实用教程包括mongodb，java ，mysql ruby，python](http://www.yiibai.com/)
 * [在线各种文档javajdk](http://tool.oschina.net/)
 * [Mac 键盘快捷键](https://support.apple.com/zh-cn/HT201236)
 * [git教程](http://www.nutzam.com/core/committer/git_project.html)
