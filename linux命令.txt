@@ -1,6 +1,6 @@
 sudo su //超级管理员权限
 
-ctrl + r 模糊搜索 
+ctrl + r 模糊搜索
 
 pwd 当前目录
 
@@ -36,6 +36,7 @@ tar –xvf file.tar //解压 tar包
 　　unzip file.zip //解压zip
 　　
 
+
 Linux下复制粘贴快捷键
  1. 在终端下：
 
@@ -43,7 +44,7 @@ Linux下复制粘贴快捷键
 
           粘贴命令：Ctrl + Shift + V  组合键.
 
- 
+
 
  2. 在控制台下：
 
