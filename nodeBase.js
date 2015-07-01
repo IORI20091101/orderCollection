@@ -1,3 +1,5 @@
+npm install --save otherpackage    //保存到package.json
+
 使用node－inspector进行debug
 node --debug app2.js
 
