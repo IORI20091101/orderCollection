@@ -41,6 +41,7 @@
 * [Handlebars](http://handlebarsjs.com/)
 * [artTemplate](http://aui.github.io/artTemplate/)
 * [Seajs](http://seajs.org/docs/)
+* [requirejs](http://www.requirejs.cn/)
 * [React](http://www.css88.com/react/docs/why-react.html)
 * [Modernizr](http://modernizr.com/docs/)
 * [CoffeScript](http://coffee-script.org/)
