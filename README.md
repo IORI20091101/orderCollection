@@ -24,6 +24,7 @@
 * [Max yu](http://yuwenhui.github.io/)
 * [粉丝日志](http://blog.fens.me/)
 * [汤姆大叔](http://www.cnblogs.com/TomXu/tag/JavaScript/)
+* [万神劫--seajs](http://chaoskeh.com/)
 
 
 ##java相关
@@ -36,6 +37,7 @@
 * [jQuery中文文档](http://www.css88.com/jqapi-1.9/)
 * [underscore](http://www.css88.com/doc/underscore/)
 * [Backbone](http://www.css88.com/doc/backbone/)
+* [reactjs](http://www.reactjs.cn/)
 * [Angularjs](http://www.apjs.net/)
 * [juicer](http://juicer.name/)
 * [Handlebars](http://handlebarsjs.com/)
@@ -92,6 +94,8 @@
 * [redis中文文档](http://redisdoc.com/)
 * [redis官方文档](http://redis.io/commands)
 * [grunt](http://www.gruntjs.net/api/grunt.task#grunt.task.run)
+* [spmjs](http://docs.spmjs.org/doc/)
+* [spmjs](http://spmjs.io/documentation/getting-started)
 * [expressjs](http://expressjs.jser.us/4x_zh-cn/api.html)
 * [sockit.io](http://socket.io/slack/)
 * [html转成jade](http://html2jade.org/)
