@@ -26,6 +26,7 @@
 * [汤姆大叔](http://www.cnblogs.com/TomXu/tag/JavaScript/)
 * [万神劫--seajs](http://chaoskeh.com/)
 * [Jerry Qu](http://imququ.com/)
+* [程序师](http://www.techug.com/)
 * [浏览器资源加载优化](http://qingbob.com/let-us-talk-about-resource-load/)
 
 ##java相关
