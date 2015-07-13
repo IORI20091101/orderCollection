@@ -95,6 +95,7 @@
 * [mongoose](http://mongoosejs.com/docs/api.html#index-js)
 * [redis中文文档](http://redisdoc.com/)
 * [redis官方文档](http://redis.io/commands)
+* [gulp](http://www.gulpjs.com.cn/docs/api/)
 * [grunt](http://www.gruntjs.net/api/grunt.task#grunt.task.run)
 * [spmjs](http://docs.spmjs.org/doc/)
 * [spmjs](http://spmjs.io/documentation/getting-started)
