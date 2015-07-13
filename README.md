@@ -25,7 +25,8 @@
 * [粉丝日志](http://blog.fens.me/)
 * [汤姆大叔](http://www.cnblogs.com/TomXu/tag/JavaScript/)
 * [万神劫--seajs](http://chaoskeh.com/)
-
+* [Jerry Qu](http://imququ.com/)
+* [浏览器资源加载优化](http://qingbob.com/let-us-talk-about-resource-load/)
 
 ##java相关
 * [maven实战](http://www.juvenxu.com/mvn-in-action/)
