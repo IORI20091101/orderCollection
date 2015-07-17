@@ -123,6 +123,7 @@
 * [Chrome 使用技巧](http://www.yyyweb.com/3604.html)
 * [Ant](http://www.cnblogs.com/xionghui/archive/2012/03/13/2393679.html)
 * [公司代码](http://git.gozap.com/)
+* [multipage](https://github.com/requirejs/example-multipage/blob/master/tools/build.js)
 
 
 ##各大公司招聘要求
