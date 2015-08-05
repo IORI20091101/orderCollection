@@ -83,6 +83,7 @@
 * [css3小图标网站](http://fico.lensco.be/)
 * [css3矩阵变换测试](http://www.useragentman.com/matrix/)
 * [icon ui](http://huaban.com/favorite/web_app_icon/)
+* [素材库-知乎](http://www.zhihu.com/question/21757507#answer-18263202)
 
 
 ##HTML5
@@ -107,6 +108,7 @@
 * [pouchDb](http://pouchdb.com/)
 * [jade语法](http://jade-syntax.coffee-js.org/)
 * [phantomjs](http://www.tuicool.com/articles/beeMNj)
+* [nodejs框架](http://www.csdn.net/article/2014-02-24/2818519-node-js-mvc-frameworks-for-javascript-developers)
 
 ##其他
 * [BootCDN稳定、快速、免费的开源项目 CDN 服务](http://www.bootcdn.cn/)
