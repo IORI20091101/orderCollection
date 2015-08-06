@@ -141,3 +141,12 @@ fs.watchFile(process.cwd() + '/watchFile.js', function() {
 
 //telnet 网络协议已经基本不用可以测试
 直接在控制台输入 telnet
+
+
+var utils = require('utils');
+var EventEmitter = require('events').EventEmitter;
+function Server() {}
+//utils 有 inherits方法可以将EventEmitter的方法添加到Server中
+utils.inherits(Server, EventEmitter);
+var s = new Server();
+s.on('abc', function() { console.log('xx') });
