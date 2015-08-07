@@ -102,6 +102,17 @@ function async(err, files) {
 fs.redir('.', async);
 
 
+
+process.stdin.resume();
+process.stdin.setEncoding('utf8');
+process.stdin.on('data', function(chunk) {
+    process.stdout.write('data:' + chunk);
+});
+
+process.stdin.on('end', function(){
+    process.stdout.write('end');
+});
+
 //标准输出
 console.log('hello world');
 process.stdout.write('hello world');
@@ -116,6 +127,13 @@ process.env.NODE_ENV; //获取环境变量
 process.env.SHELL;
 process.exit(1); //退出程序
 
+process.version //正在运行的node的版本号
+process.installPrefix //安装时指定的安装目录
+process.platform //运行的平台名称
+process.uptime //当前进程运行了多少秒
+process.pid
+process.execPath //node程序的执行路径
+pricess.memoryUsage() //当前进程的内存使用情况
 //进程和操作系统通信通过信号例如要终止进程
 process.on('SIGKILL',function() {
     //信号已收到
