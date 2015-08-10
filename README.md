@@ -90,6 +90,7 @@
 * [HTML5教程&知识点](http://www.html5cn.com.cn/html5/index.html)
 
 ##nodejs相关
+* [NodeJS中文文档](http://nodeapi.ucdok.com/#/api/)
 * [从零开始nodejs系列文章](http://blog.fens.me/series-nodejs/)
 * [Nodejs教程](http://www.nodebeginner.org/index-zh-cn.html)
 * [Node.js + Web Socket 打造即时聊天程序嗨聊](http://segmentfault.com/a/1190000000479518)
