@@ -1,3 +1,9 @@
+在你准备把使用了node_redis API的Node.js程序部署到生产环境中时，可能要考虑下是否使
+用Pieter Noordhuis的hiredis模块（https://github.com/pietern/hiredis-node）。这个模块会显著提升
+Redis的性能，因为它充分利用了官方的hiredis C语言库。如果你装了hiredis，node_redis API会自
+动使用hiredis替代它的JavaScript实现。
+
+
 redis命令文档：
     http://redis.io/commands
     http://redisdoc.com/
