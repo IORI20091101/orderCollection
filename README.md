@@ -128,6 +128,9 @@
 * [公司代码](http://git.gozap.com/)
 * [multipage](https://github.com/requirejs/example-multipage/blob/master/tools/build.js)
 * [Matrix Admin](http://themedesigner.in/demo/matrix-admin/index.html)
+* [扁平化设计文章1](http://uxc.360.cn/archives/1430.html)
+* [扁平化设计文章2](http://www.csdn.net/article/2013-05-29/2815475-flat-design-principles)--[原文链接](http://designmodo.com/flat-design-principles/)
+* [视差滚动](http://www.yixieshi.com/ucd/13609.html)
 
 
 ##各大公司招聘要求
