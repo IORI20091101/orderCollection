@@ -8,6 +8,27 @@ redis命令文档：
     http://redis.io/commands
     http://redisdoc.com/
 
+mac下安装redis
+
+首先从Redis官网http://www.redis.io去下载最新版本的Redis安装文件（此处以Redis版本为例进行说明）。
+
+下载后进行解压缩。
+
+然后打开终端，进入刚才解压缩后的目录，一般目录名为redis-版本号，此处为/redis-2.6.16
+
+然后在提示符处输入：$make
+
+即可完成Redis安装。
+
+安装完Redis后，进入src目录,在终端中输入：
+$src/redis-server
+即可启动Redis服务。
+
+要关闭Redis服务也很简单，先用Redis客户端连上Redis服务，用SHUTDOWN命令即可关闭服务。
+$src/redis-cli
+redis 127.0.0.1:6379> SHUTDOWN
+
+
 windows下安装redis
 下载地址https://github.com/dmajkic/redis/downloads。下载到的Redis支持32bit和64bit。根据自己实际情况选择，我选择32bit。把32bit文件内容拷贝到需要安装的目录下,比如：D:\dev\redis-2.4.5。
 
@@ -32,6 +53,59 @@ redis 127.0.0.1:6379>
 redis 127.0.0.1:6379> PING
 
 PONG
+
+
+
+redis的常用命令主要分为两个方面、一个是键值相关命令、一个是服务器相关命令
+
+1、键值相关命令
+
+      keys * 取出当前所有的key
+
+      exists name 查看n是否有name这个key
+
+      del name 删除key name
+
+      expire confirm 100 设置confirm这个key100秒过期
+
+      ttl confirm 获取confirm 这个key的有效时长
+
+      select 0 选择到0数据库 redis默认的数据库是0~15一共16个数据库
+
+      move confirm 1 将当前数据库中的key移动到其他的数据库中，这里就是把confire这个key从当前数据库中移动到1中
+
+      persist confirm 移除confirm这个key的过期时间
+
+      randomkey 随机返回数据库里面的一个key
+
+      rename key2 key3 重命名key2 为key3
+
+      type key2 返回key的数据类型
+
+2、服务器相关命令
+
+      ping PONG返回响应是否连接成功
+
+      echo 在命令行打印一些内容
+
+      select 0~15 编号的数据库
+
+      quit  /exit 退出客户端
+
+      dbsize 返回当前数据库中所有key的数量
+
+      info 返回redis的相关信息
+
+      config get dir  实时传储收到的请求
+
+      flushdb 删除当前选择数据库中的所有key
+
+      flushall 删除所有数据库中的数据库
+
+
+
+
+
 
 命令：
     SET dongzhi
