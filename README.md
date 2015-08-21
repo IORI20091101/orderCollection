@@ -28,6 +28,7 @@
 * [Jerry Qu](http://imququ.com/)
 * [程序师](http://www.techug.com/)
 * [浏览器资源加载优化](http://qingbob.com/let-us-talk-about-resource-load/)
+* [一介布衣](http://yijiebuyi.com/)
 
 ##java相关
 * [maven实战](http://www.juvenxu.com/mvn-in-action/)
@@ -118,6 +119,13 @@
 * [各种实用教程](http://www.w3cschool.cc/mongodb/mongodb-connections.html)
 * [在线各种文档javajdk](http://tool.oschina.net/)
 * [Mac 键盘快捷键](https://support.apple.com/zh-cn/HT201236)
+* [Mac OS X Terminal 101：终端使用初级教程](http://www.renfei.org/blog/mac-os-x-terminal-101.html)
+* [Mac终端Solarized配色方案](http://www.vpsee.com/2013/09/use-the-solarized-color-theme-on-mac-os-x-terminal/)
+* [mac下非常好用的命令行工具 iTerm2](http://yijiebuyi.com/blog/e310fc437f32006eb6aa42cad1783587.html)
+* [Tmux](http://blog.jobbole.com/45413/)
+* [tmux 安装、使用、配置](http://blog.chinaunix.net/uid-26495963-id-3140087.html)
+* [程序员如何优雅的使用mac](http://www.zhihu.com/question/20873070)
+* [vi命令大全](http://www.cnblogs.com/welkinwalker/archive/2010/05/14/1735805.html)
 * [git教程](http://www.nutzam.com/core/committer/git_project.html)
 * [git官网](http://git-scm.com/book/zh/v1)
 * [git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000#0)
