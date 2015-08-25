@@ -29,6 +29,9 @@
 * [程序师](http://www.techug.com/)
 * [浏览器资源加载优化](http://qingbob.com/let-us-talk-about-resource-load/)
 * [一介布衣](http://yijiebuyi.com/)
+* [iTerm 2 && Oh My Zsh【DIY教程——亲身体验过程】](http://www.jianshu.com/p/7de00c73a2bb)
+* [MacTalk By 池建强](http://macshuo.com/)
+
 
 ##java相关
 * [maven实战](http://www.juvenxu.com/mvn-in-action/)
@@ -113,6 +116,7 @@
 * [nodejs框架](http://www.csdn.net/article/2014-02-24/2818519-node-js-mvc-frameworks-for-javascript-developers)
 
 ##其他
+* [获取hosts访问google](http://go.netsh.org/link/gethosts)
 * [BootCDN稳定、快速、免费的开源项目 CDN 服务](http://www.bootcdn.cn/)
 * [各种实用教程包括mongodb，java ，mysql ruby，python](http://www.yiibai.com/)
 * [菜鸟教程](http://www.runoob.com/)
@@ -121,10 +125,19 @@
 * [Mac 键盘快捷键](https://support.apple.com/zh-cn/HT201236)
 * [Mac OS X Terminal 101：终端使用初级教程](http://www.renfei.org/blog/mac-os-x-terminal-101.html)
 * [Mac终端Solarized配色方案](http://www.vpsee.com/2013/09/use-the-solarized-color-theme-on-mac-os-x-terminal/)
+* [Mac终端Solarized配色方案补充](http://www.newsmth.net/nForum/#!article/LinuxApp/898859)
 * [mac下非常好用的命令行工具 iTerm2](http://yijiebuyi.com/blog/e310fc437f32006eb6aa42cad1783587.html)
 * [Tmux](http://blog.jobbole.com/45413/)
 * [tmux 安装、使用、配置](http://blog.chinaunix.net/uid-26495963-id-3140087.html)
 * [程序员如何优雅的使用mac](http://www.zhihu.com/question/20873070)
+* [oh-my-zsh github](https://github.com/robbyrussell/oh-my-zsh)
+* [终极 Shell zsh](http://macshuo.com/?p=676)
+* [文本三巨头：zsh、tmux 和 vim](http://blog.jobbole.com/86571/)
+* [教你用WordPress搭建一个简单的个人博客](http://www.jianshu.com/p/d4beb61fc3c0)
+* [配置LINUX下DIRCOLORS,LS命令和MAC下ITERM2的颜色,让终端(ITERM2或TERMINAL)也色彩缤纷](http://blog.bbkanba.com/%E9%85%8D%E7%BD%AElinux%E4%B8%8Bdircolorsls%E5%91%BD%E4%BB%A4%E5%92%8Cmac%E4%B8%8Biterm2%E7%9A%84%E9%A2%9C%E8%89%B2%E8%AE%A9%E7%BB%88%E7%AB%AFiterm2%E6%88%96terminal%E4%B9%9F%E8%89%B2%E5%BD%A9/)
+* [社工库](http://www.wamima.com/)
+* [SQL注入之SQLmap入门](http://www.freebuf.com/articles/web/29942.html)
+* [安全漏洞检测平台](http://www.wooyun.org/)
 * [vi命令大全](http://www.cnblogs.com/welkinwalker/archive/2010/05/14/1735805.html)
 * [git教程](http://www.nutzam.com/core/committer/git_project.html)
 * [git官网](http://git-scm.com/book/zh/v1)
@@ -139,7 +152,10 @@
 * [扁平化设计文章1](http://uxc.360.cn/archives/1430.html)
 * [扁平化设计文章2](http://www.csdn.net/article/2013-05-29/2815475-flat-design-principles)--[原文链接](http://designmodo.com/flat-design-principles/)
 * [视差滚动](http://www.yixieshi.com/ucd/13609.html)
+* [Retina屏幕的mac令人神清目爽的壁纸](https://www.desktoppr.co/)
+* [Mac装机](http://www.iplaysoft.com/osx-yosemite-usb-install-drive.html)
 
+###Mac需要掌握的知识，iterm2  zsh+tmux+vim  curl brew ，系统级命令
 
 ##各大公司招聘要求
 * 优化性能：用BigRender、Ajax合并、静态化等先进技术让页面飞起来；
