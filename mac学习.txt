@@ -32,3 +32,10 @@ j 文件路径
 
 查看path
 echo $PATH
+
+
+
+ls -llah /usr/local/share/zsh/site-functions
+which autojump
+whereis autojump
+sudo chown  toshiba:admin /usr/local/share/zsh/site-functions
