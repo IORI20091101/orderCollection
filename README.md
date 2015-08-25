@@ -116,6 +116,7 @@
 * [nodejs框架](http://www.csdn.net/article/2014-02-24/2818519-node-js-mvc-frameworks-for-javascript-developers)
 
 ##其他
+* [获取hosts访问google](http://go.netsh.org/link/gethosts)
 * [BootCDN稳定、快速、免费的开源项目 CDN 服务](http://www.bootcdn.cn/)
 * [各种实用教程包括mongodb，java ，mysql ruby，python](http://www.yiibai.com/)
 * [菜鸟教程](http://www.runoob.com/)
