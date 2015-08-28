@@ -128,6 +128,7 @@
 * [Mac终端Solarized配色方案补充](http://www.newsmth.net/nForum/#!article/LinuxApp/898859)
 * [mac下非常好用的命令行工具 iTerm2](http://yijiebuyi.com/blog/e310fc437f32006eb6aa42cad1783587.html)
 * [Tmux](http://blog.jobbole.com/45413/)
+* [Tmux命令大全](http://www.cnblogs.com/xinsifeihong/archive/2012/12/26/2834801.html)
 * [tmux 安装、使用、配置](http://blog.chinaunix.net/uid-26495963-id-3140087.html)
 * [程序员如何优雅的使用mac](http://www.zhihu.com/question/20873070)
 * [oh-my-zsh github](https://github.com/robbyrussell/oh-my-zsh)
