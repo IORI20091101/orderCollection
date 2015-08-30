@@ -139,7 +139,9 @@
 * [社工库](http://www.wamima.com/)
 * [SQL注入之SQLmap入门](http://www.freebuf.com/articles/web/29942.html)
 * [安全漏洞检测平台](http://www.wooyun.org/)
+* [超过130个你需要了解的vim命令](http://www.oschina.net/news/43167/130-essential-vim-commands)
 * [vi命令大全](http://www.cnblogs.com/welkinwalker/archive/2010/05/14/1735805.html)
+* [vim命令](http://www.cnblogs.com/softwaretesting/archive/2011/07/12/2104435.html)
 * [git教程](http://www.nutzam.com/core/committer/git_project.html)
 * [git官网](http://git-scm.com/book/zh/v1)
 * [git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000#0)
@@ -155,6 +157,7 @@
 * [视差滚动](http://www.yixieshi.com/ucd/13609.html)
 * [Retina屏幕的mac令人神清目爽的壁纸](https://www.desktoppr.co/)
 * [Mac装机](http://www.iplaysoft.com/osx-yosemite-usb-install-drive.html)
+* [EChart制作各种图表](http://echarts.baidu.com/index.html)
 
 ###Mac需要掌握的知识，iterm2  zsh+tmux+vim  curl brew ，系统级命令
 
