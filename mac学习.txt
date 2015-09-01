@@ -48,6 +48,7 @@ sudo chown  toshiba:admin /usr/local/share/zsh/site-functions
 
 
 tmux 命令
+
 $ tmux list-session
 $ tmux new-session <会话名>
 $ tmux attach-session -t <会话名>
@@ -91,3 +92,51 @@ $ tmux kill-session -t <会话名>
             }   向后置换当前面板
             Alt+o   逆时针旋转当前窗口的面板
             Ctrl+o  顺时针旋转当前窗口的面板
+
+
+
+curl命令
+curl关于下载
+1，下载文件并且重新命名
+curl -o 1.jpg http://www.longdai.com/images/qrcode_for_gh_73c0ad6a5e4c_258.jpg
+
+2,下载文件使用原文件名
+curl -O http://www.longdai.com/images/qrcode_for_gh_73c0ad6a5e4c_258.jpg
+
+3，下载一系列文件，名字类似的,以龙贷的轮播图为例，回去下载所有的图
+curl -O http://www.longdai.com/images/core/newImg/carousel_[1-6].jpg
+
+同理
+curl -O http://cgi2.tky.3web.ne.jp/~{zzh,nick}/[001-201].JPG 这样回去下载
+http://cgi2.tky.3web.ne.jp/~zzh/[001-201].JPG
+http://cgi2.tky.3web.ne.jp/~nick/[001-201].JPG
+但是文件名回相互替换，所以还可以使用下面的命令
+
+4，自定义文件名下载
+curl -o #2_#1.jpg http://cgi2.tky.3web.ne.jp/~{zzh,nick}/[001-201].JPG
+#1是变量，指的是{zzh,nick}这部分，第一次取值zzh，第二次取值nick
+#2代表的变量，则是第二段可变部分---[001-201]，取值从001逐一加到201
+这样，自定义出来下载下来的文件名，就变成了这样：
+原来： ~zzh/001.JPG ---> 下载后： 001-zzh.JPG
+原来： ~nick/001.JPG ---> 下载后： 001-nick.JPG
+这样一来，就不怕文件重名啦，呵呵
+
+
+5，断线后继续下载
+curl -c -O http://cgi2.tky.3wb.ne.jp/~zzh/screen1.JPG
+
+6，分块下载
+curl -r 0-10240 -o "zhao.part1" http:/cgi2.tky.3web.ne.jp/~zzh/zhao1.mp3 &\
+curl -r 10241-20480 -o "zhao.part1" http:/cgi2.tky.3web.ne.jp/~zzh/zhao1.mp3 &\
+curl -r 20481-40960 -o "zhao.part1" http:/cgi2.tky.3web.ne.jp/~zzh/zhao1.mp3 &\
+curl -r 40961- -o "zhao.part1" http:/cgi2.tky.3web.ne.jp/~zzh/zhao1.mp3
+这样就可以分块下载啦。
+不过你需要自己把这些破碎的文件合并起来
+如果你用UNIX或苹果，用 cat zhao.part* > zhao.mp3就可以
+如果用的是Windows，用copy /b 来解决吧，呵呵
+上面讲的都是http协议的下载，其实ftp也一样可以用。
+用法嘛，
+curl -u name:passwd ftp://ip:port/path/file
+或者大家熟悉的
+curl ftp://name:passwd@ip:port/path/file
+
