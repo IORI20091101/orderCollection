@@ -14,9 +14,11 @@
 * [前端观察](http://www.qianduan.net/)
 * [大前端](http://www.daqianduan.com/)
 * [web前端开发](http://www.css88.com/)
-
+* [Quora](http://www.quora.com/)
+* [前端外刊评论](http://zhuanlan.zhihu.com/FrontendMagazine)
 
 ##大牛
+* [Github上最受关注的前端大牛](http://code.csdn.net/news/2820990)
 * [20位活跃在Github上的国内技术大牛](http://blog.csdn.net/yaoxtao/article/details/38518933)
 * [梦想天空](http://www.cnblogs.com/lhb25/)
 * [阮一峰](http://www.ruanyifeng.com/blog/)
