@@ -16,6 +16,7 @@
 * [web前端开发](http://www.css88.com/)
 * [Quora](http://www.quora.com/)
 * [前端外刊评论](http://zhuanlan.zhihu.com/FrontendMagazine)
+* [编程网志](http://www.codeweblog.com/category/javascript%E6%8A%80%E5%B7%A7/)
 
 ##大牛
 * [Github上最受关注的前端大牛](http://code.csdn.net/news/2820990)
