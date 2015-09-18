@@ -3,6 +3,36 @@ git命令大全 repository
 git config --global user.name "dongzhi"
 git config --global user.email "sundongzhi11014111@126.com"    创建使用者的名字及邮箱--global全局设置
 
+git diff HEAD -- readme.txt命令可以查看工作区和版本库里面最新版本的区别：
+
+git checkout -- test.txt  没有从库里删除的可以用此命令恢复
+
+git checkout -- readme.txt  这个文件回到最近一次git commit或git add时的状态。
+
+ssh-keygen -t rsa -C "youremail@example.com"    创建SSH Key。
+
+
+要关联一个远程库，使用命令git remote add origin git@server-name:path/repo-name.git；
+
+关联后，使用命令git push -u origin master第一次推送master分支的所有内容；
+
+
+git log --pretty=oneline 在一行里显示提交历史记录 头部的长串表示一个随机数唯一标识
+
+git reset --hard xxxx 将文件回退到唯一标识为xxxx的状态文件还原
+
+
+git push origin :develop 删除远程develop分支
+
+
+$ git branch --set-upstream dev origin/dev  指定本地dev分支与远程origin/dev分支的链接，根据提示，设置dev和origin/dev的链接
+
+
+
+
+
+
+
 pwd 用来显示当前目录
 
 mkdir xxx 创建文件夹
@@ -17,27 +47,20 @@ git status 查看仓库当前状态
 
 git diff  gitOrder.js  查看某个文件更改过什么东西
 
-git diff HEAD -- readme.txt命令可以查看工作区和版本库里面最新版本的区别：
 
 git log 查看文件提交历史记录
 
-git log --pretty=oneline 在一行里显示提交历史记录 头部的长串表示一个随机数唯一标识
 
-git reset --hard xxxx 将文件回退到唯一标识为xxxx的状态文件还原
 
 cat gitOrder.js 用来在命令行里显示文件内容
 
 git reflog 用来记录每一次的命令 可通过这个查找之前进行提交的唯一表示（log中已经消失的）
 
-git checkout -- readme.txt  这个文件回到最近一次git commit或git add时的状态。
 
 rm 'test.txt' 从本地删除文件但是没有从库里删除
 
-git checkout -- test.txt  没有从库里删除的可以用此命令恢复
 
 git rm "test.txt" 从版本库从删除
-
-ssh-keygen -t rsa -C "youremail@example.com"    创建SSH Key。
 
 
 or create a new repository on the command line
@@ -51,9 +74,7 @@ git remote add origin https://github.com/IORI20091101/learnGit.git
 git push -u origin master
 
 
-要关联一个远程库，使用命令git remote add origin git@server-name:path/repo-name.git；
 
-关联后，使用命令git push -u origin master第一次推送master分支的所有内容；
 
 此后，每次本地提交后，只要有必要，就可以使用命令git push origin master推送最新修改；
 
