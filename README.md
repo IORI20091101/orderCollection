@@ -148,6 +148,7 @@
 * [git教程](http://www.nutzam.com/core/committer/git_project.html)
 * [git官网](http://git-scm.com/book/zh/v1)
 * [git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000#0)
+* [CURL命令](http://www.thegeekstuff.com/2012/04/curl-examples/)
 * [markedown](http://markable.in/editor/)
 * [画流程图工具](https://www.processon.com/)
 * [Chrome 使用技巧](http://www.yyyweb.com/3604.html)

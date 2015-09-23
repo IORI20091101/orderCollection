@@ -140,3 +140,8 @@ curl -u name:passwd ftp://ip:port/path/file
 或者大家熟悉的
 curl ftp://name:passwd@ip:port/path/file
 
+
+
+curl http://sdz001:123456@127.0.0.1:3030/api/user/1
+
+curl -d  "title=sundongzhi&body=swuosdowef" http://sdz001:123456@127.0.0.1:3030/api/entry -v
