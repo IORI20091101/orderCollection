@@ -147,6 +147,13 @@ ssh sundongzhi@223.202.52.182
 
 /home/nginx/conf/vhost/longdai_com
 
+
+less longdai_www.log
+
+ls -ltr  按时间排序
+
+ls -llah 按详情排序
+
 只能从这里跳转
 
 
