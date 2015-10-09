@@ -29,6 +29,8 @@ git push origin --delete develop  删除远程develop分支
 $ git branch --set-upstream dev origin/dev  指定本地dev分支与远程origin/dev分支的链接，根据提示，设置dev和origin/dev的链接
 
 
+git remote set-url origin git@git.gozap.com:longdai/longdai.git   将http 协议改为ssh认证
+
 
 加上-a参数可以查看远程分支，远程分支会用红色表示出来（如果你开了颜色支持的话）：
 git branch -a
