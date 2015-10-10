@@ -118,6 +118,16 @@
 * [phantomjs](http://www.tuicool.com/articles/beeMNj)
 * [nodejs框架](http://www.csdn.net/article/2014-02-24/2818519-node-js-mvc-frameworks-for-javascript-developers)
 
+##专供Node的云主机和IDE服务
+* [heroku](http://www.heroku.com/)
+* [nodejitsu](https://www.nodejitsu.com/)
+* [VMware的CoundFoundry](http://pivotal.io/platform)
+* [Microsoft的nodejs Azure SDK](https://azure.microsoft.com/en-us/develop/nodejs/)
+* [Cloud9 IDE nodejs在线ide](https://c9.io/iori20091101)
+* [AMAZON web服务](http://aws.amazon.com/)
+* [rackspace云](http://www.rackspace.com/cloud)
+* []()
+
 ##其他
 * [获取hosts访问google](http://go.netsh.org/link/gethosts)
 * [BootCDN稳定、快速、免费的开源项目 CDN 服务](http://www.bootcdn.cn/)
