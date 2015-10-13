@@ -139,7 +139,19 @@ http://localhost:8080/payEasySyncAccountNotify.do
 
 
 
+kubectl describe svc/longdai-auth
 
+kubectl get svc
+
+kubectl describe pods/longdai-auth-1bapw
+
+kubectl get node
+
+kubectl get pods
+
+ps aux | grep fl
+
+kubectl describe pods/ezhe-m-bea44d955ad56cbb3c462b6d8c25ab2f-rqm3u
 
 
 
