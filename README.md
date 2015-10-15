@@ -38,6 +38,13 @@
 
 ##java相关
 * [maven实战](http://www.juvenxu.com/mvn-in-action/)
+* [java模拟http请求](http://kevinsawicki.github.io/http-request/)
+* [mybaits中文文档](https://mybatis.github.io/mybatis-3/zh/sqlmap-xml.html#cache)
+* [spring单元测试](http://www.ibm.com/developerworks/cn/java/j-lo-springunitest/)
+* [spring单元测试官网英文](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/unit-testing.html)
+* []()
+* []()
+
 
 
 
