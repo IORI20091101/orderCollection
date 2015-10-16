@@ -43,6 +43,14 @@
 * [spring单元测试](http://www.ibm.com/developerworks/cn/java/j-lo-springunitest/)
 * [spring单元测试官网英文](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/unit-testing.html)
 * [shiro权限认证java](http://shiro.apache.org/reference.html)
+* [使用gradle替代maven项目构建](http://www.infoq.com/cn/news/2011/04/xxb-maven-6-gradle/)
+* [使用Spring Boot来加速Java web项目的开发](http://www.cnblogs.com/rollenholt/p/3693055.html)
+* [GoogleAuth](https://github.com/wstrange/GoogleAuth)
+* []()
+* []()
+* []()
+* []()
+* []()
 * []()
 
 

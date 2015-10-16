@@ -3,6 +3,10 @@
 
 http://shop112763410.m.taobao.com/#list=
 
+
+http://172.16.0.17:31080   longdai-ms
+http://172.16.0.17:31085   longdai-auth
+
 需要解决的相关问题
 1，使用redis发布和订阅消息
 2，了解使用Sequelize
@@ -31,6 +35,7 @@ git.gozap.com
 
 git@172.16.1.143:beyond/longdai-jieqianhua.git
 
+git@172.16.1.143:longdai/longdai-auth.git
 
 172.16.11.203   dohko.www.longdai.com   root 123456
 
