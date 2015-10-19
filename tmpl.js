@@ -14,6 +14,55 @@ http://172.16.0.17:31085   longdai-auth
 4，在express和socket.io之间共享session数据，实现登录退出
 
 
+longdai 线上管理系统
+ms.longdai.com
+iYebrFTV9Li8
+yangbing
+
+
+longdai-ms项目部署
+
+longdai－auth所在的机器
+172.16.0.17 0.18 0.19 111111
+
+kubectl rolling-update longdai-auth --image=registry.gozap.com:5000/dohko.auth.longdai.com
+kubectl describe
+
+rc 和 svc 的配置文件
+# kubectl get pods
+/home/replication
+
+
+//用来看日志跳板机器
+ssh sundongzhi@223.202.52.182  // 跳板机器
+
+/home/nginx/conf/vhost/longdai_com
+
+
+less longdai_www.log
+
+ls -ltr  按时间排序
+
+ls -llah 按详情排序
+
+只能从这里跳转
+
+
+
+数据库的跳板机器
+ssh root@192.168.2.105
+
+root@192.168.2.105
+
+dg2_15@br
+
+mysql -h 192.168.2.114 -umyviewol -p -P3330 -Dsp2p
+
+
+
+
+
+//测试环境
 
 172.16.0.254  4300   mysql  root gozapdev
 
@@ -158,28 +207,4 @@ ps aux | grep fl
 
 kubectl describe pods/ezhe-m-bea44d955ad56cbb3c462b6d8c25ab2f-rqm3u
 
-
-
-ssh sundongzhi@223.202.52.182
-
-/home/nginx/conf/vhost/longdai_com
-
-
-less longdai_www.log
-
-ls -ltr  按时间排序
-
-ls -llah 按详情排序
-
-只能从这里跳转
-
-
-数据库
-ssh root@192.168.2.105
-
-root@192.168.2.105
-
-dg2_15@br
-
-mysql -h 192.168.2.114 -umyviewol -p -P3330 -Dsp2p
 
