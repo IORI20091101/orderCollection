@@ -1,5 +1,20 @@
 git命令大全 repository
 
+
+
+具体操作
+1.git add <FILE>
+2.git commit ...
+3.git pull --rebase （将你的版本加在最后的节点上）
+如果有冲突，会提示你。冲突分为两种，一种是在不同地方的冲突，通常情况下，git是可以自己合并的。另外一种是因为可能是同一个文件的编辑，git没法自动合并，需要二选一，这时候打开冲突的文件，手动编辑文件到可用的版本。然后。。
+4.git rebase --continue
+重复3，4直到所有的都solve
+5.git push
+
+
+
+
+
 git config --global user.name "dongzhi"
 git config --global user.email "sundongzhi11014111@126.com"    创建使用者的名字及邮箱--global全局设置
 

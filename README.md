@@ -34,21 +34,21 @@
 * [一介布衣](http://yijiebuyi.com/)
 * [iTerm 2 && Oh My Zsh【DIY教程——亲身体验过程】](http://www.jianshu.com/p/7de00c73a2bb)
 * [MacTalk By 池建强](http://macshuo.com/)
-
+* [百度一个前端](http://qingbob.com/tags/)
 
 ##java相关
+* [使用gradle替代maven项目构建](http://www.infoq.com/cn/news/2011/04/xxb-maven-6-gradle/)
 * [maven实战](http://www.juvenxu.com/mvn-in-action/)
 * [java模拟http请求](http://kevinsawicki.github.io/http-request/)
 * [mybaits中文文档](https://mybatis.github.io/mybatis-3/zh/sqlmap-xml.html#cache)
 * [spring单元测试](http://www.ibm.com/developerworks/cn/java/j-lo-springunitest/)
 * [spring单元测试官网英文](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/unit-testing.html)
 * [shiro权限认证java](http://shiro.apache.org/reference.html)
-* [使用gradle替代maven项目构建](http://www.infoq.com/cn/news/2011/04/xxb-maven-6-gradle/)
 * [使用Spring Boot来加速Java web项目的开发](http://www.cnblogs.com/rollenholt/p/3693055.html)
 * [GoogleAuth](https://github.com/wstrange/GoogleAuth)
-* []()
-* []()
-* []()
+* [Java,c++,js,etc各种电子书](http://www.jb51.net/books/list422_1.html)
+* [meld版本控制](http://www.thefarsideoffailure.com/blog/brew_installed_meld)
+* [retrofit java框架](https://github.com/IORI20091101/retrofit)
 * []()
 * []()
 
