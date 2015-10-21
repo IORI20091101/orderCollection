@@ -1,3 +1,13 @@
+dig www.longdai.com
+
+route
+
+traceroute
+
+telnet
+
+
+
 sudo su //超级管理员权限
 
 ctrl + r 模糊搜索
