@@ -186,6 +186,7 @@
 * [Retina屏幕的mac令人神清目爽的壁纸](https://www.desktoppr.co/)
 * [Mac装机](http://www.iplaysoft.com/osx-yosemite-usb-install-drive.html)
 * [EChart制作各种图表](http://echarts.baidu.com/index.html)
+* [fzf搜索插件](https://github.com/junegunn/fzf)
 
 ###Mac需要掌握的知识，iterm2  zsh+tmux+vim  curl brew ，系统级命令
 
