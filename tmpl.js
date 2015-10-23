@@ -1,3 +1,5 @@
+/Users/toshiba/Library/Application Support/Google/chrome/Default/Extensions/fmcfkdaobigbkopahamahckjnifmmolc/1.1.3_0
+
 http://api.longdai.com/api/fundplan/getSalesPlanList?platform=mI831ZmttZ8%3D&version=VFf7yqTyVFE%3D&access_token=cc2be21be2f728f894dc7e9adf19c5f0
 
 http://api.longdai.com/api/fundplan/getSalesPlanList
