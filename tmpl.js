@@ -1,4 +1,11 @@
+http://api.longdai.com/api/fundplan/getSalesPlanList?platform=mI831ZmttZ8%3D&version=VFf7yqTyVFE%3D&access_token=cc2be21be2f728f894dc7e9adf19c5f0
 
+http://api.longdai.com/api/fundplan/getSalesPlanList
+
+
+http://dohko.api.longdai.com/api/fundplan/getSalesPlanList
+
+http://dohko.api.longdai.com/api/fundplan/getSalesPlanList?platform=mI831ZmttZ8%3D&version=VFf7yqTyVFE%3D&access_token=cc2be21be2f728f894dc7e9adf19c5f0
 209.116.186.242	v13.lscache4.c.android.clients.google.com
 
 http://shop112763410.m.taobao.com/#list=
@@ -48,6 +55,11 @@ ls -llah 按详情排序
 只能从这里跳转
 
 
+//线上admin
+ssh root@192.168.2.16
+
+
+ssh root@192.168.2.119 在测试环境查看日志的机器
 
 数据库的跳板机器需要从 223.202.52.182 跳转过来
 ssh root@192.168.2.105
