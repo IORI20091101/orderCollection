@@ -35,6 +35,7 @@
 * [iTerm 2 && Oh My Zsh【DIY教程——亲身体验过程】](http://www.jianshu.com/p/7de00c73a2bb)
 * [MacTalk By 池建强](http://macshuo.com/)
 * [百度一个前端](http://qingbob.com/tags/)
+* [金哲博客](http://jinzhe.net/category/2/)
 
 ##java相关
 * [使用gradle替代maven项目构建](http://www.infoq.com/cn/news/2011/04/xxb-maven-6-gradle/)
