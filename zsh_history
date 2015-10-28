@@ -1,0 +1,3737 @@
+: 1440474911:0;j
+: 1440474950:0;brew iinstall autojump
+: 1440474968:0;brew install autojump
+: 1440475174:0;sudo vi /etc/profile
+: 1440475204:0;cat /etc/profile
+: 1440475210:0;java -version
+: 1440475220:0;jdk6
+: 1440475234:0;java -version
+: 1440475254:0;jdk6
+: 1440476396:0;ls
+: 1440476425:0;git --version
+: 1440476437:0;mv
+: 1440476444:0;j Downloads
+: 1440476464:0;vi ./zshrc.orig
+: 1440476474:0;vi .zshrc
+: 1440476523:0;vi /.zshrc.orig
+: 1440476536:0;ls ~/
+: 1440476537:0;ll
+: 1440476539:0;la
+: 1440476549:0;vi .zshrc.orig
+: 1440476589:0;j
+: 1440476623:0;brew install autojump
+: 1440476702:0;LS
+: 1440476709:0;Downloads
+: 1440476710:0;ls
+: 1440476719:0;sudo mv m2 .m2
+: 1440476723:0;l
+: 1440476759:0;sudo cp -r .m2 ~/
+: 1440476764:0;ls
+: 1440476770:0;sudo su
+: 1440476840:0;ls
+: 1440476843:0;la
+: 1440476854:0;cp -r .m2 ~
+: 1440476868:0;sudo cp -r .m2 ~
+: 1440476871:0;sudo su
+: 1440476934:0;cd Documents
+: 1440476938:0;..
+: 1440476939:0;ls
+: 1440476943:0;j Downloads
+: 1440476949:0;Downloads
+: 1440476950:0;ls
+: 1440476952:0;la
+: 1440476954:0;pwd
+: 1440476984:0;sudo cp -r /Users/toshiba/Downloads/.m2 ~
+: 1440477027:0;ls
+: 1440477029:0;cd ms
+: 1440477030:0;ls
+: 1440477035:0;la
+: 1440477038:0;cd .m2
+: 1440477038:0;ls
+: 1440477060:0;sudo
+: 1440477063:0;sudo su
+: 1440477083:0;sudo cp -r /Users/toshiba/Downloads/.m2 /var/root/
+: 1440477085:0;ls
+: 1440477693:0;..
+: 1440477698:0;j Documents
+: 1440477701:0;cd Documents
+: 1440477702:0;l
+: 1440477717:0;scd my
+: 1440477725:0;cd myApp
+: 1440477726:0;ls
+: 1440477730:0;solarized
+: 1440477731:0;ls
+: 1440477737:0;cd vim-colors-solarized
+: 1440477755:0;mkdir -p ~/.vim/colors
+: 1440477768:0;vi ~/.vimrc
+: 1440477808:0;vi ~/.bash_profile
+: 1440477890:0;vi ~/.vimrc
+: 1440477930:0;vi ~/.bash_profile
+: 1440478015:0;exit
+: 1440478026:0;j Downloads
+: 1440478030:0;cd ~
+: 1440478030:0;ls
+: 1440478034:0;la
+: 1440478182:0;vi .zshrc
+: 1440478227:0;ls
+: 1440478228:0;la
+: 1440478232:0;vi .vimrc
+: 1440478269:0;cp solarized.vim ~/.vim/colors/
+: 1440478283:0;ls
+: 1440478287:0;cd documents
+: 1440478287:0;l
+: 1440478290:0;myapp
+: 1440478291:0;ls
+: 1440478294:0;cd solarized
+: 1440478295:0;ls
+: 1440478300:0;cd vim-colors-solarized
+: 1440478301:0;ls
+: 1440478308:0;colors
+: 1440478309:0;ls
+: 1440478313:0;colors
+: 1440478314:0;ls
+: 1440478316:0;cd colors
+: 1440478317:0;ls
+: 1440478321:0;cp solarized.vim ~/.vim/colors/
+: 1440478334:0;ls
+: 1440478348:0;vi .zshrc
+: 1440478365:0;j downloads
+: 1440478369:0;jdk6
+: 1440478388:0;ls
+: 1440478397:0;j Downloads
+: 1440478429:0;cd ..
+: 1440478434:0;cd ~/.zshrc.orig
+: 1440478441:0;vi ~/.zshrc.orig
+: 1440478504:0;j
+: 1440478900:0;ls
+: 1440478903:0;cd Downloads
+: 1440478904:0;ls
+: 1440478921:0;ÊÉºÉ©ÁÉ¥®ËΩØ‰ª∂Â∑•ÂÉ•∑ÈÉ•É≠ÁΩÆÊÉ∂Éß‰ª∂
+: 1440478922:0;ls
+: 1440478928:0;cd software
+: 1440478928:0;ls
+: 1440478934:0;cd ideajÊ≥®ÂÉ¶É¨ÊÉº∫jdk7
+: 1440478935:0;l
+: 1440478949:0;jar ideakeygen-1.0.0.jar
+: 1440478957:0;jar -c ideakeygen-1.0.0.jar
+: 1440478997:0;java -jar ideakeygen-1.0.0.jar
+: 1440479016:0;java -version
+: 1440479027:0;java -jar ideakeygen-1.0.0.jar
+: 1440479031:0;jdk 7
+: 1440479035:0;java -version
+: 1440479040:0;jdk
+: 1440479308:0;ls
+: 1440479312:0;j Downloads
+: 1440479312:0;ls
+: 1440479324:0;jdk6
+: 1440479325:0;ls
+: 1440479328:0;java -version
+: 1440479331:0;jdk8
+: 1440479335:0;java -version
+: 1440479339:0;jdk7
+: 1440479346:0;cd Downloads
+: 1440479347:0;ls
+: 1440479360:0;ÊÉºÉ©ÁÉ¥®
+: 1440479364:0;ÊÉºÉ©ÁÉ¥®ËΩØ‰ª∂Â∑•ÂÉ•∑ÈÉ•É≠ÁΩÆÊÉ∂Éß‰ª∂
+: 1440479365:0;ls
+: 1440479372:0;ls software
+: 1440479376:0;cd idea
+: 1440479387:0;ls
+: 1440479390:0;cd software
+: 1440479390:0;ls
+: 1440479393:0;ideajÊ≥®ÂÉ¶É¨ÊÉº∫jdk7
+: 1440479394:0;ls
+: 1440479400:0;java -jar ideakeygen-1.0.0.jar
+: 1440479503:0;cd ~
+: 1440479504:0;ls
+: 1440479508:0;cd Downloads
+: 1440479508:0;ls
+: 1440479512:0;autojump
+: 1440479524:0;brew install autojump
+: 1440479540:0;autojump Downloads
+: 1440482418:0;js
+: 1440482421:0;j
+: 1440482473:0;vi ~/.zshrc.orig
+: 1440482502:0;vi ~/.bash_profile
+: 1440482515:0;vi ~/.zshrc
+: 1440482541:0;vi ~/.zshrc.orig
+: 1440482572:0;sudo vi /etc/profile
+: 1440482615:0;autojump -s
+: 1440482665:0;cd ~/.zshrc
+: 1440482670:0;vi ~/.zshrc
+: 1440482876:0;sudo  brew link autojump
+: 1440482911:0;brew link autojump
+: 1440482994:0;vi ~/.zshrc.orig
+: 1440483011:0;vi ~/.zshrc
+: 1440483050:0;j
+: 1440483053:0;j -state
+: 1440483060:0;j
+: 1440483063:0;jdk6
+: 1440483068:0;jdk8
+: 1440483069:0;ls
+: 1440483075:0;vi ~/.zshrc
+: 1440483118:0;j
+: 1440483248:0;vi .zshrc
+: 1440483288:0;j
+: 1440483369:0;vi .zshrc
+: 1440483454:0;j
+: 1440483456:0;vi .zshrc
+: 1440483574:0;ls
+: 1440483575:0;j
+: 1440483639:0;autojump
+: 1440483651:0;brew link autojump
+: 1440483660:0;sudo su
+: 1440483778:0;brew install autojump
+: 1440483786:0;ls
+: 1440483788:0;j 
+: 1440483837:0;autojump
+: 1440483859:0;brew link autojump
+: 1440483911:0;ssh-keygen -t rsa -C "sundongzhi11014111@126.com"
+: 1440483929:0;cd ~
+: 1440483930:0;ls
+: 1440483931:0;la
+: 1440483943:0;cd .ssh
+: 1440483943:0;ls
+: 1440483955:0;vi id_rsa.pub
+: 1440484057:0;ls
+: 1440484060:0;cd Documents
+: 1440484060:0;ls
+: 1440484063:0;cd git-workspace
+: 1440484064:0;ls
+: 1440484071:0;cd github
+: 1440484071:0;ls
+: 1440484073:0;cd orderCollection
+: 1440484074:0;ls
+: 1440484076:0;git status
+: 1440484080:0;git pull origin master
+: 1440484088:0;cd ..
+: 1440484089:0;ls
+: 1440484091:0;cd studyCollection
+: 1440484096:0;ls
+: 1440484099:0;c..
+: 1440484101:0;..
+: 1440484104:0;ls
+: 1440484108:0;cd IDEA
+: 1440484109:0;ls
+: 1440484114:0;cd longdai-p2p
+: 1440484122:0;git pull origin develop
+: 1440484217:0;git status
+: 1440484217:0;ls
+: 1440484574:0;autojump
+: 1440484577:0;j
+: 1440484646:0;cd ..
+: 1440484647:0;..
+: 1440484650:0;ls
+: 1440484652:0;..
+: 1440484652:0;ls
+: 1440484655:0;cd Documents
+: 1440484656:0;ls
+: 1440484658:0;myapp
+: 1440484659:0;ls
+: 1440484662:0;git clone git://github.com/joelthelion/autojump.git
+: 1440484673:0;cd autojump
+: 1440484674:0;ls
+: 1440484690:0;./install.py
+: 1440484743:0;ls
+: 1440484748:0;vi .zshrc
+: 1440484753:0;ls
+: 1440484757:0;vi ~/.zshrc
+: 1440484821:0;ll
+: 1440484829:0;l
+: 1440484842:0;vi ~/.zshrc.orig
+: 1440484860:0;j
+: 1440484865:0;vi ~/.zshrc.orig
+: 1440484892:0;Documents
+: 1440484892:0;ls
+: 1440484894:0;myapp
+: 1440484895:0;ls
+: 1440484898:0;auto
+: 1440484903:0;autojump/
+: 1440484904:0;ls
+: 1440484910:0;./install.py
+: 1440484928:0;ls
+: 1440484931:0;autojump
+: 1440484949:0;j
+: 1440484952:0;autojump
+: 1440485058:0;vi /.zshrc
+: 1440485073:0;ls
+: 1440485074:0;la
+: 1440485082:0;vi .zshrc
+: 1440485114:0;ls
+: 1440485245:0;j
+: 1440485250:0;autojump
+: 1440485319:0;ls
+: 1440485324:0;brew install autojump
+: 1440485333:0;brew link
+: 1440485335:0;brew
+: 1440485344:0;autojump
+: 1440485444:0;autojump -s
+: 1440485686:0;vi ~/.zshrc
+: 1440485715:0;ls
+: 1440485746:0;vi ~/.zshrc.orig
+: 1440485790:0;autojump --help
+: 1440485805:0;python
+: 1440485816:0;bash
+: 1440485865:0;ls
+: 1440485868:0;autojump
+: 1440485868:0;ls
+: 1440485885:0;port
+: 1440485990:0;sudo su
+: 1440486091:0;cd /usr/local
+: 1440486092:0;ls
+: 1440486112:0;brew install autojump
+: 1440486122:0;auto
+: 1440486126:0;autojump
+: 1440486128:0;j
+: 1440486129:0;exit
+: 1440486139:0;autojump
+: 1440486141:0;j
+: 1440486166:0;brew uninstall autojump
+: 1440486171:0;brew install autojump
+: 1440486216:0;vi .zshrc
+: 1440486241:0;j
+: 1440486283:0;autojump
+: 1440486284:0;j
+: 1440486333:0;brew install autojump
+: 1440486346:0;brew link autojump
+: 1440486349:0;sudo brew link autojump
+: 1440486380:0;whereis autojump
+: 1440486387:0;sudo brew link autojump
+: 1440486393:0;sudo brew link
+: 1440486400:0;sudo brew install autojump
+: 1440486415:0;vi ~/.zshrc
+: 1440486455:0;source ~/.zshrc
+: 1440486456:0;ls
+: 1440486459:0;autojump
+: 1440486459:0;j
+: 1440486464:0;brew install autojump
+: 1440486473:0;brew uninstall  autojump
+: 1440486486:0;sudo brew install autojump
+: 1440486493:0;brew install autojump
+: 1440486520:0;brew link autojump
+: 1440486534:0;ls -llaj /usr/local/share/zsh/site-functions
+: 1440486541:0;ls -llah /usr/local/share/zsh/site-functions
+: 1440486548:0;ls -llah /usr/local/share/zsh
+: 1440486553:0;w
+: 1440486562:0;ls --lah
+: 1440486566:0;ls --lah ~/
+: 1440486567:0;ls
+: 1440486569:0;cd Documents
+: 1440486569:0;ls
+: 1440486571:0;ls -llah
+: 1440486596:0;chown -R root:root /usr/local/share/zsh/site-functions
+: 1440486601:0;sudo chown -R root:root /usr/local/share/zsh/site-functions
+: 1440486628:0;chown -R root:root /usr/local/share/zsh/site-functions
+: 1440486637:0;sudo chown -R root:root /usr/local/share/zsh/site-functions
+: 1440486638:0;sudo su
+: 1440486669:0;ls
+: 1440486678:0;cd /usr/local
+: 1440486680:0;cd Cellar
+: 1440486680:0;ls
+: 1440486682:0;cd autojump
+: 1440486682:0;ls
+: 1440486683:0;cd 22.2.4
+: 1440486684:0;ls
+: 1440486685:0;cd bin
+: 1440486685:0;ls
+: 1440486688:0;./autojump
+: 1440486692:0;./autojump  admin
+: 1440486697:0;ls
+: 1440486698:0;pwd
+: 1440486698:0;ls
+: 1440486699:0;cd ..
+: 1440486699:0;ls
+: 1440486728:0;ls -llah /usr/local
+: 1440486756:0;ls -llah /usr/local/share/zsh/site-functions
+: 1440486769:0;chown -R toshiba:toshiba /usr/local/share/zsh/site-functions
+: 1440486827:0;chown  toshiba:toshiba /usr/local/share/zsh/site-functions
+: 1440486839:0;chown  toshiba:admin /usr/local/share/zsh/site-functions
+: 1440486842:0;sudo chown  toshiba:admin /usr/local/share/zsh/site-functions
+: 1440486845:0;ls -llah /usr/local/share/zsh/site-functions
+: 1440486870:0;ls
+: 1440486883:0;j
+: 1440486883:0;ls
+: 1440486887:0;brew install autojump
+: 1440486895:0;brew link autojump
+: 1440486897:0;j
+: 1440486900:0;ls
+: 1440486908:0;whereis autojump
+: 1440486914:0;which autojump
+: 1440486921:0;source ~/.zshrc
+: 1440486923:0;ls
+: 1440486923:0;j
+: 1440486924:0;ls
+: 1440486926:0;cd Documents
+: 1440486926:0;ls
+: 1440486928:0;cd ..
+: 1440486928:0;ls
+: 1440486930:0;j document
+: 1440486930:0;ls
+: 1440486939:0;ls -llah
+: 1440486952:0;ls -llah /usr/local/share
+: 1440486959:0;ls -llah /usr/local/share/zsh
+: 1440486962:0;ls -llah /usr/local/share/zsh/site-functions
+: 1440486982:0;sudo brew
+: 1440486984:0;ls
+: 1440486989:0;brew update
+: 1440488191:0;j downloas
+: 1440488195:0;j downloads
+: 1440488198:0;cd ..
+: 1440488199:0;ls
+: 1440488202:0;j downloads
+: 1440488205:0;j
+: 1440488209:0;cd ..
+: 1440488210:0;ls
+: 1440488214:0;j Downloads
+: 1440488225:0;auto music
+: 1440488230:0;autojump music
+: 1440488249:0;brew link
+: 1440488254:0;brew link autojump
+: 1440488263:0;ls
+: 1440488267:0;j myapp
+: 1440488268:0;ls
+: 1440488271:0;cd Documents
+: 1440488272:0;ls
+: 1440488273:0;cd myapp
+: 1440488274:0;ls
+: 1440488278:0;c..
+: 1440488279:0;..
+: 1440488282:0;j myapp
+: 1440488283:0;ls
+: 1440488285:0;cd Documents
+: 1440488290:0;j Downloads
+: 1440488291:0;ls
+: 1440488547:0;lls
+: 1440488564:0;j myapp
+: 1440488565:0;ls
+: 1440488567:0;cd mongodb
+: 1440488568:0;ls
+: 1440488580:0;cd mongodb
+: 1440488580:0;ls
+: 1440488583:0;cd bin
+: 1440488583:0;ls
+: 1440488586:0;mongod
+: 1440490168:0;sudo su
+: 1440490179:0;cat /etc/profile
+: 1440493149:0;git pull origin develop
+: 1440494266:0;cd ~/.m2
+: 1440494267:0;ls
+: 1440494268:0;la
+: 1440494271:0;cd repository
+: 1440494271:0;ls
+: 1440494318:0;j downloads
+: 1440494321:0;ls
+: 1440494324:0;cd Downloads
+: 1440494325:0;ls
+: 1440494337:0;cd ..
+: 1440494338:0;pwd
+: 1440494359:0;cp settings.xml /Users/toshiba/.m2
+: 1440494364:0;ls
+: 1440494368:0;cd repository
+: 1440494369:0;ls
+: 1440494374:0;rm -rf .
+: 1440494378:0;ls
+: 1440494384:0;rm -rf *
+: 1440494389:0;ls
+: 1440494398:0;rm -rf org
+: 1440494400:0;ls
+: 1440494409:0;sudo rm -rf org
+: 1440494413:0;ls
+: 1440494417:0;c,..
+: 1440494418:0;..
+: 1440494419:0;ls
+: 1440494459:0;j downloads
+: 1440494461:0;ls
+: 1440494467:0;j studycollection
+: 1440494467:0;ls
+: 1440494471:0;j myapp
+: 1440494471:0;ls
+: 1440494472:0;cd ..
+: 1440494473:0;ls
+: 1440494475:0;cd git-workspace
+: 1440494475:0;ls
+: 1440494478:0;cd github
+: 1440494478:0;ls
+: 1440494484:0;cd studycollection
+: 1440494487:0;ls
+: 1440494491:0;git status
+: 1440495074:0;git add git diff node/logiptoads/app.js
+: 1440495089:0;git diff node/logiptoads/app.js
+: 1440495108:0;git status
+: 1440495305:0;j mongo
+: 1440495307:0;ls
+: 1440495317:0;sudo mkdir -p /data/db
+: 1440495340:0;sudo chown -R  toshiba /data
+: 1440495344:0;bin
+: 1440495346:0;mongod
+: 1440495357:0;j mongo
+: 1440495358:0;ls
+: 1440495359:0;bin
+: 1440495361:0;mongo
+: 1440495381:0;j redis
+: 1440495386:0;j myapp
+: 1440495386:0;ls
+: 1440495389:0;redis-3.0.3
+: 1440495390:0;ls
+: 1440495391:0;src
+: 1440495393:0;ls
+: 1440495396:0;redis-server
+: 1440495405:0;redis-cli
+: 1440495411:0;j redis
+: 1440495412:0;ls
+: 1440495414:0;src
+: 1440495414:0;ls
+: 1440495418:0;redis-cli
+: 1440495480:0;python -m SimplHttpserver 9999
+: 1440495483:0;python
+: 1440495498:0;python -m -SimpleHttpServer 9999
+: 1440495505:0;python -m SimpleHttpServer 9999
+: 1440495548:0;python -m SimpleHTTPServer 9999
+: 1440495778:0;redis-server
+: 1440495784:0;j node
+: 1440495791:0;j studycollection
+: 1440495793:0;ls
+: 1440495797:0;cd node
+: 1440495797:0;ls
+: 1440495802:0;logipweb
+: 1440495804:0;ls
+: 1440495826:0;j node
+: 1440495828:0;ls
+: 1440495832:0;logiptoAds
+: 1440495835:0;node app
+: 1440495945:0;j study
+: 1440495949:0;git status
+: 1440495951:0;git add .
+: 1440495961:0;git commit -m "update "
+: 1440495965:0;git status
+: 1440495976:0;git pull origin master
+: 1440495995:0;git status
+: 1440496041:0;git add .
+: 1440496048:0;git commit -m "update"
+: 1440496104:0;git config --global user.name "IORI20091101"
+: 1440496133:0;git config --global user.email "sundongzhi11014111@126.com"
+: 1440496136:0;git status
+: 1440496140:0;git push origin master
+: 1440496219:0;git config --global user.name "sundongzhi11014111@126.com"
+: 1440496225:0;git config --global user.email "sundongzhi11014111@126.com"
+: 1440496232:0;git push origin master
+: 1440496301:0;git pull origin master
+: 1440496429:0;cd ..
+: 1440496430:0;ls
+: 1440496432:0;cd orderCollection
+: 1440496432:0;ls
+: 1440496434:0;git status
+: 1440496437:0;git add .
+: 1440496445:0;git commit -m "update readme"
+: 1440496450:0;git push origin master
+: 1440496576:0;j myapp
+: 1440496576:0;ls
+: 1440496580:0;cd phantomjs-2.0.0-macosx
+: 1440496581:0;ls
+: 1440496583:0;bin
+: 1440496584:0;ls
+: 1440496587:0;phantomjs
+: 1440496611:0;cd ..
+: 1440496618:0;bin/phantomjs
+: 1440496619:0;ls
+: 1440496623:0;pahntomjs
+: 1440496626:0;phantomjs
+: 1440496725:0;git pull origin master
+: 1440496781:0;git status
+: 1440496788:0;vi README.md
+: 1440496825:0;git commit -m "update readme.md"
+: 1440496835:0;git pull origin master
+: 1440496850:0;git push origin master
+: 1440497054:0;git config --global user.name "dongzhi"
+: 1440497064:0;git config --global user.email "sundongzhi11014111@126.com"
+: 1440497067:0;git status
+: 1440498843:0;git pull  origin master
+: 1440500077:0;git pull origin develop
+: 1440500080:0;git status
+: 1440500105:0;cd ~/.m2
+: 1440500106:0;ls
+: 1440500109:0;cd repository
+: 1440500109:0;ls
+: 1440500116:0;rm -rf org
+: 1440500532:0;ls
+: 1440500554:0;j studycollection
+: 1440500557:0;git status
+: 1440500566:0;j ordercollection
+: 1440500567:0;ls
+: 1440500569:0;git status
+: 1440500645:0;python --version
+: 1440500650:0;python --v
+: 1440500680:0;git status
+: 1440556096:0;ls
+: 1440558455:0;j studycollection
+: 1440558457:0;ls
+: 1440558985:0;j stucycollection
+: 1440558986:0;ls
+: 1440558987:0;cd java
+: 1440558988:0;ls
+: 1440558990:0;cd sprint
+: 1440558990:0;ls
+: 1440558993:0;spring
+: 1440558993:0;ls
+: 1440558995:0;cd text
+: 1440558999:0;myspring3.x
+: 1440558999:0;ls
+: 1440559001:0;cd src
+: 1440559002:0;ls
+: 1440559003:0;cd main
+: 1440559004:0;ls
+: 1440559005:0;cd java
+: 1440559006:0;ls
+: 1440559009:0;com
+: 1440559010:0;ls
+: 1440559011:0;dz
+: 1440559011:0;l
+: 1440559013:0;sls
+: 1440559014:0;ls
+: 1440559017:0;controller
+: 1440559017:0;l
+: 1440559019:0;ls
+: 1440559023:0;vi IndexController.java
+: 1440559907:0;ls
+: 1440559917:0;vi IndexController.java
+: 1440559922:0;ls
+: 1440559923:0;sl
+: 1440559924:0;ls
+: 1440560113:0;sdfwewewew
+: 1440560361:0;sdweeewwsdfwewf
+: 1440561071:0;sfwe swlwlls sds 
+: 1440561096:0;sdwew sdfewf 
+: 1440561216:0;fsds sdfwels
+: 1440561323:0;sdewwewewSDWE 
+: 1440561378:0;ls
+: 1440562212:0;j Downloads
+: 1440562213:0;ls
+: 1440562224:0;vi watch.java
+: 1440562243:0;jdk7
+: 1440562247:0;java --version
+: 1440562252:0;java --v
+: 1440562256:0;java -v
+: 1440562258:0;java
+: 1440562264:0;java -version
+: 1440562266:0;ls
+: 1440562274:0;java c watch.java
+: 1440562280:0;javac watch.java
+: 1440562299:0;vi watch.java
+: 1440562315:0;javac watch.java
+: 1440569379:0;j downloads
+: 1440569381:0;ls
+: 1440569385:0;vi settings.xml
+: 1440572863:0;ls
+: 1440572868:0;cd javaTail
+: 1440572885:0;vi LogIpRead.java
+: 1440574398:0;ls
+: 1440574408:0;j javatail
+: 1440574410:0;ls
+: 1440574418:0;javac LogIpRead.java
+: 1440574481:0;j dz
+: 1440574482:0;ls
+: 1440574485:0;cd controller
+: 1440574486:0;ls
+: 1440574491:0;cat IndexController.java
+: 1440574509:0;ls
+: 1440574513:0;vi LogIpRead.java
+: 1440574583:0;pwd
+: 1440574652:0;javac LogIpRead.java
+: 1440574739:0;vi LogIpRead.java
+: 1440574752:0;javac LogIpRead.java
+: 1440574769:0;vi LogIpRead.java
+: 1440574833:0;javac LogIpRead.java
+: 1440576520:0;vi /Users/toshiba/Downloads/javaTail/settings.xml
+: 1440578062:0;cd ~/.m2
+: 1440578063:0;ls
+: 1440578070:0;cd repository
+: 1440578071:0;ls
+: 1440578078:0;cd redis
+: 1440578078:0;ls
+: 1440578082:0;cd client
+: 1440578082:0;ls
+: 1440578086:0;clients
+: 1440578086:0;ls
+: 1440578089:0;jedis
+: 1440578090:0;ls
+: 1440578095:0;2.4.2
+: 1440578096:0;ls
+: 1440578100:0;pwd
+: 1440578133:0;cd ..
+: 1440578135:0;pwd
+: 1440578146:0;cp /Users/toshiba/.m2/repository/redis/clients/jedis/2.4.2/jedis-2.4.2.jar /Users/toshiba/Downloads/
+: 1440578185:0;cd ..
+: 1440578188:0;ls
+: 1440578191:0;..
+: 1440578192:0;ls
+: 1440578197:0;cd ..
+: 1440578198:0;ls
+: 1440578206:0;commons-pool
+: 1440578207:0;ls
+: 1440578213:0;commons-pool
+: 1440578215:0;ls
+: 1440578232:0;cd 1.6
+: 1440578233:0;ls
+: 1440578242:0;pwd
+: 1440578269:0;cp /Users/toshiba/.m2/repository/commons-pool/commons-pool/1.6/commons-pool-1.6.jar /Users/toshiba/Downloads
+: 1440578288:0;..
+: 1440578294:0;ls
+: 1440578303:0;..
+: 1440578304:0;ls
+: 1440578305:0;la
+: 1440578327:0;cp -R .m2 /Users/toshiba/Downloads/
+: 1440578371:0;la
+: 1440578385:0;cp -r .m2 /Users/toshiba/Downloads/
+: 1440578462:0;la
+: 1440578469:0;mv .m2 m2
+: 1440578470:0;la
+: 1440578472:0;ls
+: 1440579027:0;LS
+: 1440579058:0;j studycollection
+: 1440579060:0;ls
+: 1440579070:0;j downloads
+: 1440579071:0;ls
+: 1440579088:0;j redis
+: 1440579092:0;j myapp
+: 1440579093:0;ls
+: 1440579096:0;redis-3.0.3
+: 1440579096:0;ls
+: 1440579100:0;src
+: 1440579100:0;ls
+: 1440579113:0;redis-server
+: 1440579123:0;redis-cli
+: 1440579131:0;j redis-
+: 1440579133:0;ls
+: 1440579134:0;src
+: 1440579134:0;ls
+: 1440579137:0;redis cli
+: 1440579138:0;ls
+: 1440579141:0;redis-cli
+: 1440587270:0;j studycollection
+: 1440587273:0;git status
+: 1440587279:0;j ordercollection
+: 1440587281:0;git status
+: 1440646525:0;j node
+: 1440646527:0;ls
+: 1440646532:0;logiptoAds
+: 1440646537:0;cat app.js
+: 1440647217:0;ls
+: 1440647228:0;sl
+: 1440647230:0;ls
+: 1440647239:0;sl
+: 1440647243:0;sLS
+: 1440647244:0;LS
+: 1440647245:0;VI .
+: 1440647332:0;ls
+: 1440647332:0;sl
+: 1440647332:0;ls
+: 1440647334:0;vi .
+: 1440647340:0;ls
+: 1440647340:0;LLS
+: 1440647341:0;LS
+: 1440647346:0;ls
+: 1440647361:0;sl
+: 1440647362:0;vi .
+: 1440647414:0;ls
+: 1440647417:0;sl
+: 1440647423:0;ls
+: 1440655291:0;ËæΩÂÆÅls
+: 1440655293:0;ls
+: 1440655297:0;„ÄÇ„ÄÇ
+: 1440655300:0;.
+: 1440655301:0;..
+: 1440655301:0;ls
+: 1440655307:0;cd logipWeb
+: 1440655308:0;ls
+: 1440655311:0;node app
+: 1440657663:0;ls
+: 1440657666:0;node app
+: 1440659978:0;j ~/.m2
+: 1440659980:0;la
+: 1440659987:0;repository
+: 1440659987:0;ls
+: 1440659989:0;cd org
+: 1440659989:0;ls
+: 1440659995:0;appache
+: 1440659998:0;apache
+: 1440659999:0;ls
+: 1440660008:0;maven
+: 1440660008:0;ls
+: 1440660011:0;plugins
+: 1440660012:0;ls
+: 1440660018:0;cd ..
+: 1440660024:0;rm -rm plugins
+: 1440660035:0;rm -rf plugins
+: 1440660037:0;ls
+: 1440660363:0;..
+: 1440660366:0;ls
+: 1440660373:0;rm settings.xml
+: 1440660375:0;pwd
+: 1440660390:0;j downloads
+: 1440660391:0;ls
+: 1440660402:0;cd ÊÉºÉ©ÁÉ¥®ËΩØ‰ª∂Â∑•ÂÉ•∑ÈÉ•É≠ÁΩÆÊÉ∂Éß‰ª∂
+: 1440660403:0;ls
+: 1440660410:0;cd ÈÉ•É≠ÁΩÆ
+: 1440660413:0;cd ÈÉ•É≠ÁΩÆÊÉ∂Éß‰ª∂
+: 1440660414:0;ls
+: 1440660421:0;longdai-xml
+: 1440660422:0;ls
+: 1440660455:0;cp settings.xml /Users/toshiba/.m2/
+: 1440660461:0;j ~/.m2
+: 1440660462:0;ls
+: 1440661137:0;j documents
+: 1440661139:0;ls
+: 1440661142:0;cd git-workspace
+: 1440661143:0;ls
+: 1440661147:0;git clone http://git.gozap.com/ezhe/ezhe.git
+: 1440661850:0;ls
+: 1440661852:0;ezhe
+: 1440661853:0;ls
+: 1440661876:0;mvn clean install -Dmaven.test.skip=true
+: 1440664791:0;j downloads
+: 1440664793:0;ls
+: 1440664813:0;java -jar LogIpRead.jar
+: 1440665856:0;j ieda
+: 1440665863:0;j documents
+: 1440665864:0;l
+: 1440665867:0;sgit
+: 1440665868:0;ls
+: 1440665871:0;cd git-workspace
+: 1440665871:0;ls
+: 1440665874:0;cd idea
+: 1440665875:0;ls
+: 1440665878:0;cd LogIpRead
+: 1440665879:0;ls
+: 1440665881:0;cd out
+: 1440665882:0;ls
+: 1440665884:0;cd artifacts
+: 1440665884:0;ls
+: 1440665887:0;cd LogIpRead_jar
+: 1440665890:0;ll
+: 1440665901:0;java -jar LogIpRead.jar
+: 1440665930:0;java -version
+: 1440665933:0;jdk7
+: 1440665936:0;java -jar LogIpRead.jar
+: 1440666147:0;ls
+: 1440666160:0;javar -jar LogIpRead.jar
+: 1440666165:0;java -jar LogIpRead.jar
+: 1440666350:0;ls
+: 1440666354:0;java -jar LogIpRead.jar
+: 1440666360:0;java -jar LogIpRead.jar /Users/toshiba/Downloads/LogIpRead
+: 1440666389:0;java -jar LogIpRead.jar Users/toshiba/Downloads/javaTail/settings.xml
+: 1440666465:0;pwd
+: 1440666476:0;/Users/toshiba/Documents/git-workspace/idea/LogIpRead/out/artifacts/LogIpRead_jar
+: 1440666477:0;ls
+: 1440666478:0;cd ..
+: 1440666479:0;ls
+: 1440666482:0;cd ..
+: 1440666482:0;..
+: 1440666483:0;ls
+: 1440666484:0;src
+: 1440666485:0;ls
+: 1440666487:0;com
+: 1440666487:0;ls
+: 1440666491:0;company
+: 1440666491:0;ls
+: 1440666542:0;java -jar LogIpRead.jar Users/toshiba/Downloads/javaTail/settings.xml
+: 1440666609:0;java -jar LogIpRead.jar /Users/toshiba/Downloads/javaTail/settings.xml
+: 1440666667:0;j downloads
+: 1440666669:0;ls
+: 1440666673:0;log
+: 1440666677:0;logipread
+: 1440666683:0;cd logipread
+: 1440666684:0;ls
+: 1440666690:0;cd  LogIpRead_jar
+: 1440666691:0;ls
+: 1440666706:0;java -jar /Users/toshiba/Downloads/javaTail/settings.xml
+: 1440666722:0;java -jar LogIpRead.jar /Users/toshiba/Downloads/javaTail/settings.xml
+: 1440667079:0;j studycollection
+: 1440667080:0;ls
+: 1440667082:0;node
+: 1440667094:0;ls
+: 1440667096:0;cd node
+: 1440667096:0;ls
+: 1440667099:0;express
+: 1440667102:0;..
+: 1440667105:0;express-standard
+: 1440667106:0;l;s
+: 1440667107:0;ls
+: 1440667239:0;npm install
+: 1440668627:0;ls
+: 1440668630:0;models
+: 1440668630:0;ls
+: 1440668635:0;node User.js
+: 1440669341:0;ls
+: 1440669347:0;node User.js
+: 1440669447:0;node --version
+: 1440669588:0;node -version
+: 1440669598:0;node User.js
+: 1440669674:0;cd ..
+: 1440669679:0;npm install bcrypt
+: 1440670281:0;ls
+: 1440670284:0;cd models
+: 1440670285:0;ls
+: 1440670289:0;node User.js
+: 1440672044:0;ls
+: 1440672063:0;j Downloads
+: 1440672072:0;j doc
+: 1440672086:0;j d
+: 1440672093:0;java -version
+: 1440672100:0;jdk7
+: 1440672107:0;java -version
+: 1440672114:0;jdk8
+: 1440672123:0;java -version
+: 1440672135:0;j d
+: 1440672142:0;j down
+: 1440672150:0;ls 
+: 1440672176:0;LogIpRead_jar
+: 1440672183:0;ls
+: 1440672196:0;java -jar
+: 1440672240:0;j download
+: 1440672243:0;pwd
+: 1440672271:0;ls
+: 1440672292:0;java -jar LogIpRead.jar /Users/toshiba/Downloads/settings.xml
+: 1440673008:0;ls
+: 1440673011:0;j studycollection
+: 1440673012:0;ls
+: 1440673116:0;git status
+: 1440673119:0;git add .
+: 1440673122:0;git status
+: 1440673133:0;git commit -m "add first java project"
+: 1440673136:0;git staths 
+: 1440673140:0;git status
+: 1440673144:0;git push origin master
+: 1440673228:0;git status
+: 1440673232:0;git add .
+: 1440673239:0;git commit -m "update java"
+: 1440673245:0;git push origin maste
+: 1440673247:0;git push origin master
+: 1440673269:0;git pull origin master
+: 1440673294:0;git status
+: 1440673303:0;git push origin master
+: 1440673324:0;git status
+: 1440673329:0;j ordercollection
+: 1440673330:0;ls
+: 1440673331:0;git status
+: 1440673334:0;ls
+: 1440728621:0;telnet 172.16.0.254 3306
+: 1440728635:0;ls
+: 1440728642:0;brew install mysql
+: 1440728682:0;tmux
+: 1440728688:0;ssh root@172.16.3.128
+: 1440729044:0;ping dohko.api.longdai.com
+: 1440729051:0;ping dohko.www.longdai.com
+: 1440729062:0;nslookup dohko.www.longdai.com
+: 1440729083:0;ssh root@172.16.0.108
+: 1440729124:0;ssh root@172.16.11.203
+: 1440729137:0;ls
+: 1440729143:0;ssh root@172.16.0.108
+: 1440730888:0;mysql
+: 1440730892:0;exit
+: 1440735565:0;brew install tmux
+: 1440735712:0;tmux
+: 1440735716:0;tmux --version
+: 1440735724:0;tmux new -s new session
+: 1440735876:0;j autojump
+: 1440735881:0;cd /etc
+: 1440735882:0;ls
+: 1440736081:0;whereis autojump
+: 1440736087:0;which autojump
+: 1440736104:0;cd ..
+: 1440736105:0;ls
+: 1440736114:0;cd /Users
+: 1440736117:0;toshiba
+: 1440736118:0;ls
+: 1440736120:0;la
+: 1440736125:0;cd .autojump
+: 1440736126:0;ls
+: 1440736138:0;which tmux
+: 1440736160:0;j local
+: 1440736165:0;j etc
+: 1440736168:0;cd ..
+: 1440736169:0;ls
+: 1440736173:0;cd usr
+: 1440736174:0;ls
+: 1440736176:0;local
+: 1440736176:0;ls
+: 1440736187:0;local
+: 1440736189:0;cd local
+: 1440736190:0;ls
+: 1440736196:0;cellar
+: 1440736197:0;ls
+: 1440736200:0;tmux
+: 1440737015:0;vi ~/
+: 1440737029:0;cd ~/
+: 1440737030:0;la
+: 1440737039:0;vi .zshrc
+: 1440737069:0;tmux
+: 1440737072:0;ls
+: 1440737087:0;cd ..
+: 1440737088:0;ls
+: 1440737172:0;tmux
+: 1440737196:0;vi .zshrc
+: 1440737204:0;which mvn
+: 1440737227:0;which ruby
+: 1440737234:0;which git
+: 1440737250:0;which autojump
+: 1440737429:0;cd /usr
+: 1440737432:0;cd local
+: 1440737433:0;ls
+: 1440737441:0;cd Library
+: 1440737442:0;ls
+: 1440737443:0;la
+: 1440737446:0;vi brew.rb
+: 1440737611:0;tmux
+: 1440738037:0;.
+: 1440738038:0;//
+: 1440738040:0;..
+: 1440738041:0;ls
+: 1440738044:0;cd /usr
+: 1440738045:0;ls
+: 1440738135:0;local
+: 1440738139:0;ls
+: 1440738171:0;cd local
+: 1440738173:0;pwd
+: 1440738216:0;ls
+: 1440738218:0;cd cellar
+: 1440738220:0;pwd
+: 1440738240:0;sudo chown toshiba:admin /user/local/Cellar
+: 1440738247:0;tmux
+: 1440738302:0;j cd ..
+: 1440738303:0;ls
+: 1440738307:0;cd ..
+: 1440738308:0;ls
+: 1440738310:0;pwd
+: 1440738322:0;sudo chown toshiba:admin /user/local/cellar
+: 1440741124:0;tmux
+: 1440741845:0;ruby
+: 1440741862:0;ruby --version
+: 1440741961:0;j /usr/local
+: 1440741963:0;ls
+: 1440741969:0;cd bin
+: 1440741970:0;ls
+: 1440741974:0;cd brew
+: 1440741975:0;ls
+: 1440742164:0;sudo chown toshiba:admin /user/local/cellar
+: 1440742523:0;sudo chown -R  toshiba:admin /user/local/Cellar
+: 1440742551:0;ll
+: 1440742562:0;cd ..
+: 1440742564:0;ls
+: 1440742568:0;pwd
+: 1440742609:0;ll
+: 1440742681:0;tmux
+: 1440742877:0;ls
+: 1440742884:0;cd cellar
+: 1440742885:0;ls
+: 1440742892:0;cd autojump
+: 1440742893:0;ls
+: 1440742901:0;which autojump
+: 1440742915:0;ls
+: 1440742930:0;cd /
+: 1440742931:0;ls
+: 1440742933:0;la
+: 1440742947:0;cd /users
+: 1440742948:0;ls
+: 1440742950:0;toshiba
+: 1440742951:0;ls
+: 1440742953:0;la
+: 1440742964:0;tmux
+: 1440743090:0;ls
+: 1440743097:0;bllew
+: 1440743099:0;brew
+: 1440743106:0;brew uninstall tmux
+: 1440743110:0;ls
+: 1440743347:0;j myapp
+: 1440743348:0;ls
+: 1440743352:0;cd libevent-2.0.22-stable
+: 1440743353:0;ls
+: 1440743360:0;./configure && make
+: 1440743408:0;sudo make install
+: 1440743420:0;cd ..
+: 1440743422:0;ls
+: 1440743441:0;git clone https://github.com/tmux/tmux.git
+: 1440743979:0;ls
+: 1440743982:0;cd tmux
+: 1440743984:0;ls
+: 1440743999:0;sh autogen.sh
+: 1440744005:0;ls
+: 1440744018:0;sh autogen.sh
+: 1440744022:0;autogen.sh
+: 1440744051:0;sh autogen.sh
+: 1440744257:0;cd ~/
+: 1440744258:0;ls
+: 1440744260:0;la
+: 1440744265:0;vi .bash_profile
+: 1440744296:0;cd /etc
+: 1440744297:0;ls
+: 1440744315:0;vi profile
+: 1440744438:0;sudo vi profile
+: 1440744472:0;cat profile
+: 1440744477:0;ls
+: 1440744485:0;brew install tmux
+: 1440744502:0;sudo brew install tmux
+: 1440744511:0;sudo
+: 1440744513:0;sudo su
+: 1440744538:0;ls
+: 1440744541:0;cd ..
+: 1440744542:0;ls
+: 1440744545:0;..
+: 1440744545:0;ls
+: 1440744550:0;brew install tmux
+: 1440744562:0;brew linked tmux
+: 1440744568:0;brew linke tmux
+: 1440744609:0;brew link tmux
+: 1440744660:0;brew uninstall tmux
+: 1440744662:0;ls
+: 1440744669:0;cd usr
+: 1440744670:0;ls
+: 1440744673:0;cd local
+: 1440744674:0;lllls
+: 1440744676:0;ll
+: 1440744679:0;cellar
+: 1440744679:0;ls
+: 1440744839:0;grep 
+: 1440744967:0;ls
+: 1440744973:0;cd wget
+: 1440744976:0;ls -l
+: 1440744981:0;ls -l bin
+: 1440744983:0;ls
+: 1440744985:0;cd ..
+: 1440744986:0;ls
+: 1440744994:0;ls -l
+: 1440745000:0;ls -l bin
+: 1440745004:0;ls
+: 1440745013:0;weget
+: 1440745015:0;wget
+: 1440745061:0;brew --v
+: 1440745065:0;brew --version
+: 1440745068:0;brew -v
+: 1440745095:0;ls autojump
+: 1440745098:0;cd ..
+: 1440745099:0;ls
+: 1440745106:0;ls -l bin
+: 1440745180:0;which wget
+: 1440745187:0;cd ~/
+: 1440745188:0;ls
+: 1440745190:0;la
+: 1440745217:0;brew install tmux
+: 1440745232:0;brew search tmux
+: 1440745264:0;ls -llah /usr/local/etc/bash_completion.d
+: 1440745269:0;ls -llah /usr/local/etc
+: 1440745286:0;chown toshiba:admin /usr/local/etc/bash_completion.d
+: 1440745289:0;sudo chown toshiba:admin /usr/local/etc/bash_completion.d
+: 1440745297:0;brew install tmux
+: 1440745302:0;brew link tmux
+: 1440745304:0;ls
+: 1440745305:0;tmux
+: 1440745310:0;ls
+: 1440745348:0;ls -llah
+: 1440745352:0;ls -ll
+: 1440745356:0;ls -lla
+: 1440745358:0;ls -llah
+: 1440745382:0;tmux
+: 1440745390:0;uit
+: 1440745395:0;exit
+: 1440745508:0;arch
+: 1440745525:0;uname -m
+: 1440745529:0;uname -r
+: 1440745542:0;cat /proc/cupinfo
+: 1440745553:0;lsusb -tv
+: 1440745582:0;df -h
+: 1440745631:0;ls
+: 1440745646:0;lsblk
+: 1440745756:0;la
+: 1440745867:0;ls
+: 1440745875:0;tmux new -s new session
+: 1440745902:0;top
+: 1440746365:0;la
+: 1440746424:0;tmux ls
+: 1440746434:0;tmux
+: 1440746445:0;exit
+: 1440746626:0;tmux ls
+: 1440746639:0;tmux attach -t session
+: 1440746665:0;tmux
+: 1440746666:0;top
+: 1440746677:0;tmux -r
+: 1440746690:0;tmux -r 0
+: 1440746702:0;tmux ls
+: 1440746709:0;tmux -r 1
+: 1440746733:0;exit
+: 1440746736:0;tmux ls
+: 1440746738:0;tmux
+: 1440746741:0;tmux ls
+: 1440746756:0;tmux attach -t session
+: 1440746772:0;tmux attach -t 1
+: 1440746776:0;tmux attach -t 0
+: 1440746780:0;tmux attach
+: 1440746784:0;tmux list
+: 1440746790:0;tmux ls
+: 1440746811:0;tmux attach -t
+: 1440746815:0;tmux attach -t 1
+: 1440746828:0;tmux attach -t session
+: 1440746831:0;tmux ls
+: 1440746841:0;tmux attach -t 0
+: 1440746849:0;top
+: 1440746891:0;tmux exit
+: 1440746895:0;exit
+: 1440746896:0;ls
+: 1440746899:0;tmux ls
+: 1440746919:0;tmux -r 0
+: 1440746923:0;tmux -r
+: 1440746955:0;tmux new -s new session
+: 1440746980:0;tmux ls
+: 1440746990:0;tmux new -s newsession
+: 1440746992:0;top
+: 1440747060:0;tmux ls
+: 1440747459:0;tmux
+: 1440747474:0;ls
+: 1440747478:0;tmux ls
+: 1440747558:0;ls
+: 1440747593:0;tmux ls
+: 1440747651:0;tmux attach -t newsession
+: 1440747661:0;tmux ls
+: 1440747673:0;tmux attach
+: 1440747717:0;tmux new -s edit
+: 1440747727:0;tmux new -s telnet
+: 1440747738:0;tmux list-sessions
+: 1440747740:0;t ls
+: 1440747743:0;tmux ls
+: 1440747758:0;tmux attach -t edit
+: 1440747836:0;ls
+: 1440747836:0;sl
+: 1440747837:0;tmux
+: 1440747849:0;ls
+: 1440747851:0;1
+: 1440747853:0;echo 1
+: 1440747860:0;echo 0
+: 1440747885:0;tmux session-list
+: 1440747888:0;tmux list-session
+: 1440747899:0;tmux attach-session -t edit
+: 1440747906:0;ls
+: 1440747910:0;sl
+: 1440747913:0;ls
+: 1440747915:0;vi .
+: 1440747917:0;ls
+: 1440747920:0;cd /home/in
+: 1440747920:0;ls
+: 1440747921:0;cd /home
+: 1440747921:0;ls
+: 1440747926:0;exit
+: 1440747931:0;ls
+: 1440747945:0;ssh root@172.16.0.17
+: 1440747982:0;ls
+: 1440747982:0;sl
+: 1440747983:0;ls
+: 1440748007:0;tmux
+: 1440748015:0;ls
+: 1440748032:0;tmux 
+: 1440748032:0;ls
+: 1440748061:0;tmux ls
+: 1440748074:0;tmux list-sessions
+: 1440748104:0;tmux list
+: 1440748160:0;tmux 
+: 1440748190:0;tmux attach
+: 1440748244:0;tmux 
+: 1440748250:0;tmux ls
+: 1440748257:0;tmux
+: 1440748284:0;tmux new -s edit
+: 1440748284:0;ls
+: 1440748300:0;tmux list-session
+: 1440748306:0;tmux new -s hello
+: 1440748308:0;la
+: 1440748314:0;tmux ls
+: 1440748326:0;tmux
+: 1440748374:0;tmux 
+: 1440748406:0;ls
+: 1440748409:0;tmux 
+: 1440748414:0;tmux ls
+: 1440748427:0;tmux s
+: 1440748432:0;tmux ls
+: 1440748441:0;tmux attach -t edit
+: 1440748568:0;tmux
+: 1440748586:0;tmux ls
+: 1440748596:0;tmux attach  -t edit
+: 1440748615:0;tmux 
+: 1440748667:0;tmux ls
+: 1440748697:0;tmux attach -t edit
+: 1440748721:0;tmux ls
+: 1440748727:0;tmux attach -t edit
+: 1440748737:0;quit
+: 1440748738:0;ls
+: 1440748777:0;tmux
+: 1440748786:0;ls
+: 1440749572:0;ip config
+: 1440749575:0;ls
+: 1440749577:0;ip config
+: 1440749591:0;j
+: 1440749594:0;ip config
+: 1440749598:0;ping
+: 1440749607:0;ipconfig
+: 1440749899:0;tmux ls
+: 1440749909:0;tmux attach -t edit
+: 1440750913:0;tmux ls
+: 1440750921:0;tmux list-session
+: 1440750926:0;tmux ls
+: 1440750947:0;tmux list-session
+: 1440750959:0;tmux rename -t edit
+: 1440750974:0;tmux rename -t edit edit1
+: 1440750977:0;tmus list
+: 1440750979:0;tmux ls
+: 1440750997:0;tmux choose-session hello
+: 1440751010:0;tmux choose hello
+: 1440751579:0;tmux choose-session -t hello
+: 1440751581:0;ls
+: 1440751583:0;tmux ls
+: 1440751603:0;tmux new -s zsh
+: 1440751610:0;tmux ls
+: 1440751617:0;tmux kill zsh
+: 1440751640:0;tmux kill -t zsh
+: 1440751648:0;tmux kill-session -zsh
+: 1440751654:0;tmux -ls
+: 1440751659:0;tmux ls
+: 1440751669:0;tmux kill-session zsh
+: 1440751675:0;tmux kill-session -t  zsh
+: 1440751681:0;tmux ls
+: 1440751691:0;tmux kill-session -t edit1
+: 1440751696:0;tmux ls
+: 1440751711:0;tmux kill-session -t hello
+: 1440751719:0;tmux kill-session -t newsession
+: 1440751721:0;tmux ls
+: 1440751726:0;tmux list-session
+: 1440751735:0;tmux new -s redis
+: 1440751739:0;j redis
+: 1440751740:0;ls
+: 1440751742:0;src
+: 1440751742:0;ls
+: 1440751748:0;redis-server
+: 1440751782:0;redis-silver
+: 1440751788:0;redis-server
+: 1440751861:0;ls
+: 1440751869:0;j redis
+: 1440751874:0;src
+: 1440751877:0;ls
+: 1440751880:0;redis-cli
+: 1440751919:0;j redis
+: 1440751921:0;src
+: 1440751955:0;tmux ls
+: 1440751962:0;tmux list-session
+: 1440751980:0;tmux new -s mongodb
+: 1440752007:0;j mogod
+: 1440752008:0;ls
+: 1440752013:0;cd bin
+: 1440752014:0;ls
+: 1440752021:0;mongo
+: 1440752070:0;ls
+: 1440752077:0;mongod
+: 1440752105:0;j mongo
+: 1440752106:0;ls
+: 1440752108:0;bin
+: 1440752117:0;mongo
+: 1440752171:0;tmux list-session
+: 1440752242:0;tmux
+: 1440752252:0;tmux list-session
+: 1440752271:0;tmux new -s test
+: 1440752393:0;ls
+: 1440752615:0;tmux list-session
+: 1440752628:0;tmux kill-session -t test
+: 1440752632:0;tmux list-session
+: 1440752743:0;tmux new -s test
+: 1440752749:0;wind1
+: 1440752752:0;win2
+: 1440752760:0;win3
+: 1440753183:0;tmux list-session
+: 1440753194:0;tmux attach-session -t redis
+: 1440753208:0;tmux list-session
+: 1440753223:0;tmux rename-session test test1223
+: 1440753238:0;tmux rename-session -t test hello
+: 1440753242:0;tmux list-session
+: 1440753253:0;tmux kill-session -t hello
+: 1440753258:0;tmux list-session
+: 1440753594:0;ipconfig/all
+: 1440753707:0;ifconfig | grep "inet " | grep -v 127.0.0.1
+: 1440753738:0;ls
+: 1440754188:0;tmux list-session
+: 1440754242:0;tmux new-session -s github
+: 1440754284:0;j github
+: 1440754285:0;ls
+: 1440754291:0;cd ordercollection
+: 1440754292:0;ls
+: 1440754294:0;git status
+: 1440754304:0;j studycollection
+: 1440754305:0;ls
+: 1440754308:0;git status
+: 1440754310:0;cd node
+: 1440754311:0;ls
+: 1440754331:0;j studycollection
+: 1440754335:0;cd node
+: 1440754335:0;ls
+: 1440754340:0;cd express-standard
+: 1440754340:0;ls
+: 1440754349:0;npm start
+: 1440754457:0;ls
+: 1440755199:0;npm start
+: 1440755380:0;npm install
+: 1440755423:0;ls
+: 1440755447:0;npm start
+: 1440755575:0;npm install
+: 1440755581:0;npm start
+: 1440756555:0;ls
+: 1440756563:0;git status
+: 1440756565:0;git add .
+: 1440756569:0;git status
+: 1440756576:0;git commit -m "update"
+: 1440756580:0;git pssh origin master
+: 1440756590:0;git pull origin master
+: 1440756599:0;git push origin master
+: 1440756614:0;git status
+: 1440756624:0;git add .
+: 1440756635:0;git commit -m "update readme"
+: 1440756639:0;git pull origin master
+: 1440756645:0;git push origin master
+: 1440756999:0;tmux list-session
+: 1440757013:0;tmux ls
+: 1440757059:0;tmux new -s hello
+: 1440757063:0;tmux
+: 1440757071:0;tmux list-session
+: 1440757081:0;tmux kill-session -t hello
+: 1440757084:0;tmux ls
+: 1440987586:0;tmux new-session -s github
+: 1440987612:0;j ordercollection
+: 1440987613:0;llls
+: 1440987614:0;ls
+: 1440987618:0;git pull origin master
+: 1440987650:0;j studycollection
+: 1440987651:0;ls
+: 1440987654:0;git pull origin master
+: 1440987664:0;gti status
+: 1440987667:0;git status
+: 1440987722:0;tmux new-session -s mongo
+: 1440987769:0;j mongo
+: 1440987772:0;ls
+: 1440987786:0;bin
+: 1440987787:0;ls
+: 1440987791:0;mongod
+: 1440987798:0;j mongo
+: 1440987798:0;ls
+: 1440987800:0;bin
+: 1440987800:0;ls
+: 1440987802:0;mongo
+: 1440987828:0;tmux new-session -s redis
+: 1440987855:0;j redis
+: 1440987855:0;ls
+: 1440987857:0;src
+: 1440987858:0;ls
+: 1440987865:0;reids-server
+: 1440987870:0;redis-server
+: 1440987875:0;j redis
+: 1440987876:0;ls
+: 1440987878:0;src
+: 1440987879:0;ls
+: 1440987882:0;redis-cli
+: 1440988414:0;ls
+: 1440989782:0;tmux ls
+: 1440989799:0;tmux attach-session  -t github
+: 1440989806:0;j download
+: 1440989807:0;ls
+: 1440989812:0;vi settings.xml
+: 1440989853:0;vi +5 settings.xml
+: 1440989867:0;vi + settings.xml
+: 1440990969:0;curl -i http://www.sina.com.cn/ -H Accept-Encoding:gzip,defalte
+: 1440990976:0;ls
+: 1440991000:0;tmux ls
+: 1440991016:0;tmux attach-session -t github
+: 1440991017:0;ls
+: 1440991126:0;curl -L http://www.google.com
+: 1440991228:0;ls
+: 1440991231:0;curl --help
+: 1440991886:0;ls
+: 1440992655:0;j studycollection
+: 1440992656:0;ls
+: 1440992657:0;cd node
+: 1440992658:0;ls
+: 1440992667:0;cd logipcount
+: 1440992667:0;ls
+: 1440992669:0;npm install
+: 1440993050:0;j downloads
+: 1440993051:0;ls
+: 1440993052:0;pwd
+: 1440993115:0;ls
+: 1440993118:0;node app
+: 1440993715:0;ls
+: 1440993717:0;node app
+: 1440993768:0;ls
+: 1440993856:0;node app
+: 1441002764:0;ls
+: 1441002767:0;npm install
+: 1441004935:0;node app
+: 1441005213:0;npm install
+: 1441005216:0;ls
+: 1441005218:0;node app
+: 1441013537:0;bower
+: 1441013546:0;npm install -g bower
+: 1441013630:0;sudo npm install -g bower
+: 1441013803:0;bower --v
+: 1441013868:0;j studycollection
+: 1441013869:0;ls
+: 1441013870:0;cd js
+: 1441013871:0;ls
+: 1441013877:0;yo --version
+: 1441013902:0;npm install -g yo bower grunt-cli gulp
+: 1441013908:0;sudo npm install -g yo bower grunt-cli gulp
+: 1441013989:0;grunt
+: 1441013994:0;grunt --v
+: 1441013999:0;gulp
+: 1441014002:0;gulp --v
+: 1441014034:0;sudo npm install -g generator-webapp
+: 1441014133:0;yo --version
+: 1441014144:0;mkdir angular-demo
+: 1441014146:0;ls
+: 1441014150:0;cd angular-demo
+: 1441014151:0;ls
+: 1441014154:0;yo webapp
+: 1441014560:0;ls
+: 1441014570:0;cat gruntfile.js
+: 1441014576:0;grunt
+: 1441014619:0;grunt serve
+: 1441014677:0;j studycollection
+: 1441014677:0;ls
+: 1441014678:0;cd js
+: 1441014679:0;ls
+: 1441014698:0;mkdir angular-app
+: 1441014699:0;ls
+: 1441014703:0;cd angular-app
+: 1441014703:0;ls
+: 1441014724:0;sudo npm install -g generator-angular
+: 1441015253:0;yo angular
+: 1441015783:0;ls
+: 1441015787:0;grunt serve
+: 1441016652:0;..
+: 1441016652:0;ls
+: 1441016659:0;rm -rf angular-app
+: 1441016682:0;ls
+: 1441016692:0;rm -rf angular-demo
+: 1441017054:0;ls
+: 1441018170:0;cd ..
+: 1441018218:0;git status
+: 1441018221:0;ls
+: 1441018224:0;git add .
+: 1441018226:0;git status
+: 1441018244:0;git commit -m "update"
+: 1441018250:0;git push origin master
+: 1441018565:0;git status
+: 1441018675:0;j studycollection
+: 1441018675:0;ls
+: 1441018776:0;cd node
+: 1441018777:0;ls
+: 1441018823:0;express-standard
+: 1441018824:0;ls
+: 1441018830:0;node app
+: 1441074292:0;ls
+: 1441074516:0;curl -O http://www.longdai.com/images/qrcode_for_gh_73c0ad6a5e4c_258.jpg
+: 1441074552:0;ls
+: 1441074567:0;rm qrcode_for_gh_73c0ad6a5e4c_258.jpg
+: 1441074568:0;ls
+: 1441074678:0;j downloads
+: 1441074679:0;ls
+: 1441075448:0;curl -O http://www.longdai.com/images/core/newImg/carousel_\[1-6\].jpg
+: 1441076131:0;find . -name "*app.js" -print
+: 1441076146:0;ls
+: 1441076153:0;file mou.md
+: 1441076169:0;head - mou.md
+: 1441076191:0;tail -15 markdown.md
+: 1441076197:0;tail -15 mou.md
+: 1441076379:0;ls
+: 1441076387:0;diff mou.md markedown.md
+: 1441076414:0;wc mou.md
+: 1441076443:0;ps u
+: 1441076459:0;date
+: 1441076472:0;cal  8 1996
+: 1441076481:0;cal 92015
+: 1441076487:0;cal 9 2015
+: 1441076503:0;time a.out
+: 1441076601:0;mail
+: 1441076615:0;uname
+: 1441076621:0;uname -a
+: 1441076628:0;clear
+: 1441076631:0;env
+: 1441076655:0;who
+: 1441076665:0;whoami
+: 1441076674:0;tty
+: 1441076680:0;stty
+: 1441076686:0;du
+: 1441076697:0;w
+: 1441077287:0;curl -o 1.jpg http://www.longdai.com/images/qrcode_for_gh_73c0ad6a5e4c_258.jpg
+: 1441077363:0;curl -O http://www.longdai.com/images/qrcode_for_gh_73c0ad6a5e4c_258.jpg
+: 1441077499:0;curl -O http://www.longdai.com/images/core/newImg/carousel_\[1-6\].jpg
+: 1441081135:0;ls
+: 1441081136:0;cd node
+: 1441081136:0;ls
+: 1441081144:0;cd logipCount
+: 1441081145:0;ls
+: 1441081147:0;node app
+: 1441083631:0;var _ = require('underscore');
+: 1441083632:0;var path = require('path');
+: 1441083632:0;var fs = require('fs');
+: 1441083632:0;var readline = require("readline");
+: 1441083632:0;var readStream = fs.createReadStream("/Users/toshiba/Downloads/www.ezhe.com.log-20150811");
+: 1441083632:0;var mysql = require('mysql');
+: 1441083632:0;var pool = mysql.createPool({\
+    host:'172.16.0.254',\
+    user:'root',\
+    password:'gozapdev',\
+    database:'ehaitao',\
+    port: 4300\
+});
+: 1441083632:0;var ipData = [];
+: 1441083632:0;var str = "";
+: 1441083632:0;readStream.on("data", function(chunk) {\
+    str += chunk;
+: 1441083632:0;readStream.on("end", function() {\
+    //console.log(str);\
+    var strArr = str.split('\n');\
+\
+    _.each(strArr, function(line) {\
+        log2data(line)\
+    });\
+\
+    console.log('Have a good day!~~~');\
+\
+    var groupData = _.groupBy(ipData, function(val) {\
+        return val.web;\
+    })
+: 1441083637:0;function log2data(line) {\
+\
+    var data = {},\
+        list = line.split(' ');\
+    if( list.length <=1 ) {
+: 1441083644:0;ls
+: 1441083647:0;node app
+: 1441084052:0;cd ..
+: 1441084053:0;ls
+: 1441084066:0;cd logipcount
+: 1441084067:0;ls
+: 1441084069:0;node app
+: 1441087306:0;node app /Users/toshiba/Downloads/www.ezhe.com.log-20150811
+: 1441088817:0;ls
+: 1441088832:0;..
+: 1441088832:0;ls
+: 1441088843:0;express-standard
+: 1441088844:0;ls
+: 1441088923:0;node app
+: 1441088931:0;npm start
+: 1441089899:0;node app
+: 1441090290:0;npm start
+: 1441090346:0;npm install
+: 1441090354:0;npm start
+: 1441090811:0;ls
+: 1441090813:0;npm start
+: 1441098891:0;npm install
+: 1441098901:0;npm start
+: 1441100774:0;npm install
+: 1441100779:0;npm start
+: 1441101232:0;sudo npm install -g node-inspector
+: 1441101327:0;ls
+: 1441101337:0;node-inspector
+: 1441101355:0;j studycollection
+: 1441101356:0;ls
+: 1441101358:0;cd node
+: 1441101358:0;ls
+: 1441101362:0;express-standart
+: 1441101366:0;cd express-standard
+: 1441101367:0;ls
+: 1441101375:0;cd bin
+: 1441101377:0;node www
+: 1441101398:0;node www --debug
+: 1441101533:0;node --debug www
+: 1441101958:0;node www
+: 1441102375:0;ls
+: 1441102378:0;node www
+: 1441103093:0;node --debug www
+: 1441103952:0;..
+: 1441103955:0;git status
+: 1441103961:0;git addd .
+: 1441103967:0;add
+: 1441103969:0;git add .
+: 1441103972:0;git status
+: 1441103981:0;git commit -m "update "
+: 1441103985:0;git push origin master
+: 1441103997:0;git status
+: 1441103999:0;..
+: 1441104003:0;ls
+: 1441104007:0;cd github
+: 1441104008:0;ls
+: 1441104011:0;cd orderCollection
+: 1441104012:0;ls
+: 1441104014:0;git status
+: 1441104016:0;git add .
+: 1441104024:0;git commit -m "update order"
+: 1441104030:0;git push origin master
+: 1441104037:0;git status
+: 1441104046:0;j logip
+: 1441104048:0;ls
+: 1441159883:0;..
+: 1441159884:0;ls
+: 1441159886:0;cd ..
+: 1441159887:0;ls
+: 1441159891:0;git pull origin master
+: 1441159925:0;j ordercollection
+: 1441159936:0;git pull origin master
+: 1441159955:0;ls
+: 1441159969:0;git pull origin master
+: 1441160358:0;ls
+: 1441160404:0;cat settings.xml
+: 1441160405:0;ls
+: 1441160409:0;vi settings.xml
+: 1441161612:0;npm install
+: 1441161626:0;npm start
+: 1441161648:0;ls
+: 1441161652:0;cd ..
+: 1441161653:0;ls
+: 1441161655:0;..
+: 1441161656:0;ls
+: 1441161679:0;node --debug www
+: 1441163132:0;ls
+: 1441163142:0;git clone git@git.gozap.com:sundongzhi/ipStatistics.git
+: 1441163172:0;git clone http://git.gozap.com/sundongzhi/ipStatistics.git
+: 1441163174:0;ls
+: 1441163180:0;cd ipStatistics
+: 1441163180:0;ls
+: 1441163189:0;npm install
+: 1441163296:0;node app "/Users/toshiba/Downloads/www.ezhe.com.log-20150811"
+: 1441163637:0;git pull origin master
+: 1441163646:0;node app "/Users/toshiba/Downloads/www.ezhe.com.log-20150811"
+: 1441168176:0;ls
+: 1441168179:0;cd ..
+: 1441168181:0;ls
+: 1441168187:0;rm -rf ipStatistics
+: 1441168188:0;ls
+: 1441168226:0;cd node
+: 1441168227:0;ls
+: 1441168232:0;cd logipCount
+: 1441168233:0;ls
+: 1441168314:0;npm install
+: 1441168638:0;node commander.js
+: 1441168655:0;node commander.js -c
+: 1441168675:0;node commander.js -cbp
+: 1441168687:0;node commander.js -p
+: 1441168703:0;node commander.js -h
+: 1441168961:0;node commander.js -c
+: 1441168988:0;node commander.js 
+: 1441168993:0;node commander.js -abc
+: 1441169009:0;node commander.js -p
+: 1441169085:0;node commander.js -P
+: 1441169092:0;node commander.js -b
+: 1441169106:0;node commander.js -c
+: 1441169287:0;node -v
+: 1441169292:0;node --version
+: 1441169296:0;node -v
+: 1441169300:0;node --version
+: 1441169301:0;java -v
+: 1441169306:0;java --version
+: 1441169313:0;java --v
+: 1441169316:0;java
+: 1441169327:0;java -version
+: 1441169332:0;ls
+: 1441169386:0;node commander.js -c dongzhi
+: 1441175015:0;node commander.js -i a
+: 1441175036:0;node commander.js -i "18"
+: 1441175072:0;node commander.js -i a
+: 1441175095:0;node commander.js -o sss
+: 1441175123:0;node commander.js -o [1,1,2]
+: 1441176324:0;node commander.js -v
+: 1441176329:0;node commander.js -v 21
+: 1441176361:0;node commander.js -v 212
+: 1441176367:0;node commander.js -v 212 sd
+: 1441176520:0;node commander.js -ÔºÉ≠help
+: 1441176530:0;node commander.js -h
+: 1441176548:0;node commander.js
+: 1441176668:0;node commander.js -b
+: 1441176853:0;node commander.js 
+: 1441178613:0;node app /Users/toshiba/Downloads/www.ezhe.com.log-20150811
+: 1441178848:0;node-inspector
+: 1441178887:0;j logipcount
+: 1441178890:0;ls
+: 1441178944:0;node --debug app
+: 1441178961:0;node --debug app /Users/toshiba/Downloads/www.ezhe.com.log-20150811
+: 1441186701:0;sudo brew install the fuck
+: 1441186715:0;brew install thefuck
+: 1441186741:0;the fuck
+: 1441186759:0;eval "$(thefuck --alias)"
+: 1441186766:0;fuck
+: 1441186773:0;sl
+: 1441186775:0;fuck
+: 1441186780:0;ls
+: 1441186964:0;node commander.js
+: 1441186969:0;node commander.js -f
+: 1441187111:0;node commander
+: 1441187155:0;ls
+: 1441187157:0;node app
+: 1441188740:0;ls
+: 1441188753:0;git status
+: 1441188755:0;git add .
+: 1441188763:0;git commit -m "readme"
+: 1441188767:0;git push origin master
+: 1441188783:0;..
+: 1441188786:0;git status
+: 1441188788:0;git add .
+: 1441188793:0;git status
+: 1441188806:0;git commit -m "update"
+: 1441188811:0;git status
+: 1441188814:0;git push origin master
+: 1441189463:0;ls
+: 1441189465:0;cd node
+: 1441189465:0;ls
+: 1441189469:0;cd logipcount
+: 1441189470:0;ls
+: 1441189474:0;node app
+: 1441189483:0;node app /Users/toshiba/Downloads/www.ezhe.com.log-20150811
+: 1441189651:0;node app 
+: 1441189657:0;node app /Users/toshiba/Downloads/www.ezhe.com.log-20150811
+: 1441189719:0;git status
+: 1441189722:0;git add .
+: 1441189739:0;git commit -m "app.js"
+: 1441189746:0;git push origin master
+: 1441190331:0;node app /Users/toshiba/Downloads/api.ezhe.com.log-20150901
+: 1441191111:0;node app /Users/toshiba/Downloads/m.ezhe.com.log-20150901
+: 1441191360:0;node app /Users/toshiba/Downloads/www.ezhe.com.log-20150901
+: 1441191382:0;node app /Users/toshiba/Downloads/api.ezhe.com.log-20150901
+: 1441191411:0;git status
+: 1441191413:0;git add .
+: 1441191424:0;git commit -m "app"
+: 1441191429:0;git push origin master
+: 1441191553:0;git status
+: 1442197245:0;git pull origin master
+: 1442197273:0;ls
+: 1442200924:0;bls
+: 1442200926:0;ls
+: 1442200930:0;git pull origin master
+: 1442201754:0;pwd
+: 1442219736:0;ls
+: 1442219751:0;npm install --save async
+: 1442219983:0;ls
+: 1442219989:0;node app
+: 1442220014:0;node app /Users/toshiba/Downloads/www.ezhe.com.log-20150811
+: 1442220152:0;ls
+: 1442220163:0;node app /Users/toshiba/Downloads/api.ezhe.com.log-20150901
+: 1442221861:0;node app /Users/toshiba/Downloads/www.ezhe.com.log-20150811
+: 1442222814:0;node app /Users/toshiba/Downloads/api.ezhe.com.log-20150901
+: 1442222832:0;node app /Users/toshiba/Downloads/m.ezhe.com.log-20150901
+: 1442222891:0;node app /Users/toshiba/Downloads/www.ezhe.com.log-20150901
+: 1442223057:0;npm install --save redis
+: 1442223077:0;npm install --save underscore
+: 1442223095:0;npm install --save commander
+: 1442223209:0;git status
+: 1442223212:0;git add .
+: 1442223225:0;git commit -m "update app package.sjon"
+: 1442223231:0;git push origin master
+: 1442223261:0;git status
+: 1442284891:0;..
+: 1442284893:0;ls
+: 1442284904:0;cd express-standard
+: 1442284904:0;ls
+: 1442284935:0;npm start
+: 1442300070:0;ls
+: 1442300072:0;git status
+: 1442300074:0;git add .
+: 1442300076:0;git status
+: 1442300094:0;git commit -m "add entries"
+: 1442300097:0;git status
+: 1442300105:0;git push origin master
+: 1442300118:0;git status
+: 1442300274:0;git add .
+: 1442300277:0;git status
+: 1442300286:0;git commit -m "index.ejs"
+: 1442300286:0;ls
+: 1442300291:0;git push origin master
+: 1442304748:0;tmux new-session -s dohko
+: 1442304835:0;ssl
+: 1442304837:0;ss
+: 1442304838:0;ssh
+: 1442304919:0;ssh -l root 172.16.0.112
+: 1442304935:0;ssh -l root 172.16.11.203
+: 1442309280:0;jdk6
+: 1442310625:0;cd /Users/toshiba
+: 1442310626:0;ls
+: 1442310627:0;la
+: 1442310632:0;cd .m2
+: 1442310633:0;ls
+: 1442310638:0;cd repository
+: 1442310639:0;ls
+: 1442310645:0;cd com
+: 1442310645:0;ls
+: 1442310649:0;cd gozap
+: 1442310649:0;ls
+: 1442310651:0;cd api
+: 1442310651:0;ls
+: 1442310672:0;rm -rf gozapAPI-core
+: 1442315716:0;cd .
+: 1442315717:0;ls
+: 1442315718:0;cd .
+: 1442315721:0;cd ..
+: 1442315722:0;ls
+: 1442315727:0;j github
+: 1442315728:0;ls
+: 1442315739:0;j express-standard
+: 1442315741:0;git status
+: 1442371486:0;openssl genrsa -des3 -out privkey.pem 2048
+: 1442371520:0;ls
+: 1442371542:0;git status
+: 1442371549:0;git rm privkey.pem
+: 1442371558:0;rm privkey.pem
+: 1442371559:0;ls
+: 1442371561:0;git status
+: 1442371568:0;ls
+: 1442371743:0;openssl genpkey -algorithm RSA -out privatekey.pem -pass pass:123456 -des-ede3-cbc 
+: 1442371780:0;openssl genpkey -algorithm RSA -out privatekey.pem -pass pass:123456 des-ede3-cbc 
+: 1442371809:0;openssl genpkey -algorithm RSA -out privatekey.pem -pass pass:123456 des-ede3-cbc
+: 1442371926:0;openssl
+: 1442371981:0;ls
+: 1442371992:0;cat rsa_private_key.pem
+: 1442371998:0;cat rsa_public_key.pem
+: 1442399724:0;..
+: 1442399727:0;ls
+: 1442399730:0;cd ..
+: 1442399731:0;ls
+: 1442399732:0;git status
+: 1442399737:0;git add .
+: 1442399740:0;git status
+: 1442399754:0;git commit -m 'encrypt '
+: 1442399759:0;git push origin master
+: 1442399777:0;git status
+: 1442458470:0;cd /users/toshiba
+: 1442458473:0;ls
+: 1442458474:0;la
+: 1442458477:0;cd .m2
+: 1442458477:0;ls
+: 1442458479:0;cd repository
+: 1442458480:0;ls
+: 1442458481:0;cd org
+: 1442458482:0;ls
+: 1442458486:0;cd util
+: 1442458490:0;cd jfree
+: 1442458495:0;jfree
+: 1442458497:0;ls
+: 1442458498:0;la
+: 1442473284:0;ls
+: 1442473288:0;cd ..
+: 1442473675:0;ssh -l root  172.16.12.93
+: 1442486884:0;ls
+: 1442486889:0;java --version
+: 1442486893:0;java -v
+: 1442486899:0;cd ..
+: 1442486900:0;ls
+: 1442486901:0;cd ..
+: 1442486902:0;ls
+: 1442486906:0;j studycollection
+: 1442486907:0;ls
+: 1442486909:0;java -v-
+: 1442486912:0;java --v
+: 1442486915:0;java --version
+: 1442486924:0;jdk
+: 1442486932:0;java --version
+: 1442486938:0;jdk7
+: 1442486941:0;java --version
+: 1442486946:0;cd ..
+: 1442486947:0;ls
+: 1442486949:0;git status
+: 1442486954:0;java --version
+: 1442486992:0;java
+: 1442486998:0;java -version
+: 1442487055:0;java java.net.URLEncoder("ÂÉ¨É∑‰∫¨Â∏Ç", "utf-8")
+: 1442487481:0;ls
+: 1442487483:0;cd ..
+: 1442487484:0;ls
+: 1442487487:0;cd idea
+: 1442487487:0;ls
+: 1442487490:0;cd RSAcrypt
+: 1442487490:0;ls
+: 1442487492:0;cd src
+: 1442487492:0;ls
+: 1442487498:0;java Test.java
+: 1442487505:0;javac Test.java
+: 1442487512:0;java Test
+: 1442487526:0;jdk6
+: 1442487530:0;javac Test.java
+: 1442487556:0;ls
+: 1442487560:0;java -version
+: 1442487569:0;javac Test.java
+: 1442487603:0;jdk8
+: 1442487607:0;javac Test.java
+: 1442487615:0;java Test
+: 1442487620:0;jdk6
+: 1442487621:0;ls
+: 1442487625:0;javac Test.java
+: 1442487635:0;rm Test.class
+: 1442487636:0;ls
+: 1442487639:0;javac Test.java
+: 1442487816:0;ls
+: 1442487822:0;java Test
+: 1442488680:0;jdk7
+: 1442488974:0;cat /etc/profile
+: 1442489514:0;java -version
+: 1442489517:0;ls
+: 1442489523:0;javac Test.java
+: 1442489687:0;java -version
+: 1442489862:0;jdk7
+: 1442489866:0;javac Test.java
+: 1442489874:0;java Test
+: 1442490131:0;javac Test.java
+: 1442490136:0;java Test
+: 1442490146:0;jdk6
+: 1442490148:0;javac Test.java
+: 1442490333:0;j studycollection
+: 1442490337:0;git status
+: 1442490338:0;ls
+: 1442490344:0;j ordercollection
+: 1442490346:0;git status
+: 1442490347:0;git add .
+: 1442490355:0;git commit -m "update"
+: 1442490360:0;git push origin master
+: 1442543117:0;ls
+: 1442543121:0;j studycollection
+: 1442543123:0;ls
+: 1442543126:0;cd node
+: 1442543126:0;ls
+: 1442543130:0;cd express-standard
+: 1442543131:0;ls
+: 1442543135:0;npm start
+: 1442544804:0;cat /etc/profile
+: 1442546379:0;ssh -l root  172.16.12.93
+: 1442546737:0;ls
+: 1442546750:0;cd ..
+: 1442546752:0;..
+: 1442546755:0;ls
+: 1442546757:0;cd idea
+: 1442546757:0;ls
+: 1442546760:0;cd RSAcrypt
+: 1442546760:0;ls
+: 1442547098:0;git remote add origin git@git.gozap.com:beyond/longdai-jieqianhua.git
+: 1442547120:0;git
+: 1442547124:0;git status
+: 1442547127:0;git init
+: 1442547131:0;git remote add origin git@git.gozap.com:beyond/longdai-jieqianhua.git
+: 1442547135:0;git status
+: 1442547140:0;git pull origin master
+: 1442547202:0;git remote rm origin
+: 1442547217:0;git remote add origin http://git.gozap.com/beyond/longdai-jieqianhua.git
+: 1442547222:0;git pull origin master
+: 1442547227:0;ls
+: 1442547231:0;git status
+: 1442547269:0;git remote rm origin
+: 1442547272:0;git status
+: 1442547326:0;git remote add origin http://git.gozap.com/beyond/longdai-jieqianhua.git
+: 1442547329:0;git status
+: 1442547346:0;git rm .DS_Store
+: 1442547355:0;rm .DS_Store
+: 1442547358:0;git status
+: 1442547431:0;touch .gitignore
+: 1442547433:0;ls
+: 1442547435:0;la
+: 1442547441:0;vi .gitignore
+: 1442547447:0;ls
+: 1442547448:0;git status
+: 1442547454:0;git add .
+: 1442547469:0;git la
+: 1442547472:0;la
+: 1442547545:0;git status
+: 1442547557:0;git commit -m "RSAÈ™É¨ËØÅ"
+: 1442547564:0;git push origin master
+: 1442547655:0;git push origin develop
+: 1442547688:0;git branch --set-upstream develop origin/develop
+: 1442547709:0;git branch --set-upstream master origin/develop
+: 1442547714:0;git branch --set-upstream master origindevelop
+: 1442547717:0;git branch --set-upstream master origin develop
+: 1442547723:0;git branch --set-upstream master origin/develop
+: 1442547726:0;git status
+: 1442547730:0;git push origin develop
+: 1442547741:0;git pull origin develop
+: 1442547751:0;git push origin develop
+: 1442547774:0;git branch --set-upstream master origin/develop
+: 1442547805:0;git status
+: 1442547826:0;git
+: 1442547842:0;cd ..
+: 1442547856:0;git clone http://git.gozap.com/beyond/longdai-jieqianhua.git
+: 1442547858:0;git status
+: 1442547861:0;ls
+: 1442547863:0;cd longdai-
+: 1442547871:0;longdai-jieqianhua
+: 1442547873:0;git status
+: 1442547874:0;ls
+: 1442547987:0;pwd
+: 1442547990:0;cd ..
+: 1442547991:0;ls
+: 1442547995:0;cd RSAcrypt
+: 1442547996:0;la
+: 1442548016:0;cp .gitignore /Users/toshiba/Documents/git-workspace/idea/longdai-jieqianhua
+: 1442548020:0;cd ..
+: 1442548023:0;cd longdai-jieqianhua
+: 1442548024:0;la
+: 1442548028:0;ls
+: 1442548032:0;git status
+: 1442548038:0;git add .
+: 1442548047:0;git commit -m "Rsa ÂÉ™ÉÄÂØÉ¶"
+: 1442548057:0;git push origin develop
+: 1442548183:0;git status
+: 1442548193:0;ls
+: 1442548199:0;git push origin master
+: 1442548276:0;git remote
+: 1442548281:0;git remoote origin
+: 1442548290:0;git remote origin
+: 1442548331:0;git pull origin develop
+: 1442548369:0;ls
+: 1442548375:0;git push origin master
+: 1442548916:0;git remote rm origin
+: 1442548919:0;git status
+: 1442548950:0;git remote add origin git@172.16.1.143:beyond/longdai-jieqianhua.git
+: 1442548954:0;git status
+: 1442548959:0;git pull origin develop
+: 1442548965:0;git push origin develop
+: 1442549058:0;git push origin master
+: 1442549306:0;cd..
+: 1442549309:0;//
+: 1442549310:0;ls
+: 1442549320:0;j longdai-jieqianhua
+: 1442549321:0;ls
+: 1442549324:0;cd ..
+: 1442549325:0;ls
+: 1442549333:0;rm -rf longdai-jieqianhua
+: 1442549334:0;ls
+: 1442549353:0;git clone git@172.16.1.143:beyond/longdai-jieqianhua.git
+: 1442549358:0;ls
+: 1442549363:0;cd longdai-jieqianhua
+: 1442549364:0;ls
+: 1442549366:0;git status
+: 1442549371:0;git pull origin develop
+: 1442549375:0;git status
+: 1442549382:0;pwd
+: 1442549384:0;cd ..
+: 1442549386:0;ls
+: 1442549402:0;cp -r RSAcrypt /Users/toshiba/Documents/git-workspace/idea/longdai-jieqianhua
+: 1442549409:0;cd longdai-jieqianhua
+: 1442549410:0;ls
+: 1442549415:0;git status
+: 1442549420:0;cd RSAcrypt
+: 1442549421:0;ls
+: 1442549430:0;rm -rf RSAcrypt.iml
+: 1442549434:0;rm -rf out
+: 1442549435:0;ls
+: 1442549437:0;cd ..
+: 1442549440:0;la
+: 1442549445:0;cd RSAcrypt
+: 1442549446:0;ls
+: 1442549447:0;la
+: 1442549479:0;ls
+: 1442549483:0;la
+: 1442549516:0;cp .gitignore /Users/toshiba/Documents/git-workspace/idea/longdai-jieqianhua
+: 1442549518:0;ls
+: 1442549520:0;la
+: 1442549526:0;rm .gitignore
+: 1442549528:0;la
+: 1442549531:0;cd ..
+: 1442549531:0;ls
+: 1442549532:0;la
+: 1442549539:0;git status
+: 1442549542:0;git add .
+: 1442549560:0;git commit -m "add rsacrypt"
+: 1442549564:0;git push origin develop
+: 1442549601:0;git status
+: 1442549608:0;git add .
+: 1442549610:0;git status
+: 1442549622:0;git add .
+: 1442549629:0;git commit -m "rsa"
+: 1442549632:0;git status
+: 1442549652:0;ls
+: 1442549653:0;la
+: 1442549659:0;git push origin master
+: 1442549665:0;git push origin develop
+: 1442549670:0;cd ..
+: 1442549670:0;ls
+: 1442549677:0;rm -rf longdai-jieqianhua
+: 1442549678:0;ls
+: 1442549699:0;git clone git@172.16.1.143:beyond/longdai-jieqianhua.git
+: 1442549703:0;git status
+: 1442549708:0;ls
+: 1442549714:0;cd longdai-jieqianhua
+: 1442549715:0;ls
+: 1442549724:0;git pull origin develop
+: 1442549843:0;la
+: 1442549848:0;..
+: 1442549849:0;ls
+: 1442549854:0;cd RSAcrypt
+: 1442549854:0;la
+: 1442549912:0;j jieqianhua
+: 1442549915:0;pwd
+: 1442549927:0;j rsa
+: 1442549941:0;cp .gitignore /Users/toshiba/Documents/git-workspace/idea/longdai-jieqianhua
+: 1442549945:0;j jieqianhua
+: 1442549946:0;ls
+: 1442549949:0;la
+: 1442549951:0;git add .
+: 1442549955:0;git status
+: 1442549964:0;git commit -m "add gitignore"
+: 1442549968:0;git push origin master
+: 1442549973:0;git push origin develop
+: 1442550051:0;git add origin git@172.16.1.143:beyond/longdai-jieqianhua.git
+: 1442550121:0;ls
+: 1442550122:0;la
+: 1442550137:0;git add README
+: 1442550144:0;ls
+: 1442550149:0;touch README
+: 1442550150:0;ls
+: 1442550151:0;la
+: 1442550156:0;git status
+: 1442550459:0;git push origin master
+: 1442550621:0;git push -u origin develop
+: 1442550723:0;git push origin --all
+: 1442550811:0;git push origin master
+: 1442550816:0;git push origin develop
+: 1442550897:0;git status
+: 1442550905:0;toudch test
+: 1442550907:0;ls
+: 1442550910:0;touch test
+: 1442550911:0;ls
+: 1442550915:0;git add test
+: 1442550920:0;git commit -m "test"
+: 1442550927:0;git push origin develop
+: 1442550931:0;git push origin master
+: 1442551025:0;ls
+: 1442551035:0;pwd
+: 1442551037:0;..
+: 1442551038:0;ls
+: 1442551051:0;cp RSAcrypt /Users/toshiba/Documents/git-workspace/idea/longdai-jieqianhua
+: 1442551059:0;cp -r  RSAcrypt /Users/toshiba/Documents/git-workspace/idea/longdai-jieqianhua
+: 1442551061:0;ls
+: 1442551067:0;cd longdai-jieqianhua/ls
+: 1442551071:0;cd longdai-jieqianhua/
+: 1442551072:0;ls
+: 1442551075:0;rm Base64.java
+: 1442551076:0;ls
+: 1442551081:0;rm test
+: 1442551082:0;ls
+: 1442551091:0;cd RSAcrypt
+: 1442551092:0;ls
+: 1442551097:0;rm README
+: 1442551101:0;rm RSAcrypt.iml
+: 1442551107:0;rm -rf out
+: 1442551108:0;ls
+: 1442551110:0;cd ..
+: 1442551113:0;ls
+: 1442551114:0;la
+: 1442551116:0;git add .
+: 1442551127:0;git commit -m "rsa"
+: 1442551131:0;git push origin develop
+: 1442551136:0;git push origin master
+: 1442551163:0;ls
+: 1442551167:0;cd RSAcrypt
+: 1442551168:0;ls
+: 1442551169:0;la
+: 1442551173:0;rm .git
+: 1442551178:0;rm .idea
+: 1442551187:0;rm -rf .git
+: 1442551189:0;ls
+: 1442551191:0;cd ..
+: 1442551193:0;git status
+: 1442551203:0;git push origin master
+: 1442551223:0;ls
+: 1442551229:0;cd _res
+: 1442551232:0;cd RSAcrypt
+: 1442551232:0;ls
+: 1442551235:0;cd src
+: 1442551235:0;ls
+: 1442551246:0;..
+: 1442551246:0;ls
+: 1442551249:0;..
+: 1442551250:0;ls
+: 1442551252:0;cd RSAcrypt
+: 1442551255:0;..
+: 1442551258:0;rm -rf RSAcrypt
+: 1442551260:0;ls
+: 1442551262:0;pwd
+: 1442551263:0;ls
+: 1442551265:0;pwd
+: 1442551268:0;cd ..
+: 1442551270:0;RSAcrypt
+: 1442551271:0;ls
+: 1442551273:0;src
+: 1442551274:0;ls
+: 1442551285:0;..
+: 1442551293:0;cp -r src /Users/toshiba/Documents/git-workspace/idea/longdai-jieqianhua
+: 1442551295:0;ls
+: 1442551298:0;cd ..
+: 1442551299:0;ls
+: 1442551303:0;cd longdai-jieqianhua
+: 1442551304:0;ls
+: 1442551307:0;git status
+: 1442551310:0;gti add .
+: 1442551314:0;git add .
+: 1442551317:0;git status
+: 1442551328:0;git commit -m "update"
+: 1442551333:0;git push origin master
+: 1442551493:0;git remove -v
+: 1442551502:0;git remote -v
+: 1442551536:0;git branch -r -d origin/develop
+: 1442551657:0;ls
+: 1442551682:0;git push origin master
+: 1442551694:0;git status
+: 1442551774:0;git push origin :develop
+: 1442555228:0;git staths
+: 1442555231:0;git status
+: 1442555238:0;git checkout -b develop
+: 1442555245:0;git push origin develop
+: 1442555251:0;git status
+: 1442556038:0;git pull origin develop
+: 1442556047:0;git status
+: 1442556056:0;git checkout master
+: 1442556060:0;git merge develop
+: 1442556064:0;git push origin master
+: 1442556069:0;git status
+: 1442556079:0;git push origin master
+: 1442556102:0;git pull origin master
+: 1442556115:0;git merge develop
+: 1442556119:0;git push origin master
+: 1442556125:0;git checkout develop
+: 1442556128:0;git status
+: 1442556483:0;git add .
+: 1442556496:0;git commit -m "update order"
+: 1442556501:0;git push origin master
+: 1442556851:0;ls
+: 1442556853:0;npm start
+: 1442563292:0;cd bin
+: 1442563292:0;ls
+: 1442563303:0;node debug www
+: 1442563329:0;ls
+: 1442563331:0;cd ..
+: 1442563332:0;ls
+: 1442563355:0;node bin/www
+: 1442563383:0;node www
+: 1442563402:0;node-debug www
+: 1442563497:0;node --debug www
+: 1442563528:0;node-inspector
+: 1442563552:0;node www
+: 1442563583:0;node --debug www
+: 1442563620:0;node www
+: 1442563636:0;ls
+: 1442563703:0;npm start
+: 1442564399:0;ls
+: 1442564410:0;npm start
+: 1442570940:0;..
+: 1442570941:0;...
+: 1442570944:0;git status
+: 1442570946:0;git add .
+: 1442570957:0;gti commit -m "update"
+: 1442570961:0;git status
+: 1442570969:0;git commit -m "update"
+: 1442570973:0;git push origin master
+: 1442570988:0;git status
+: 1442801116:0;git pull origin master
+: 1442801148:0;ls
+: 1442802301:0;j application
+: 1442802307:0;j toshiba
+: 1442802308:0;ls
+: 1442802312:0;cd application
+: 1442802313:0;ls
+: 1442802316:0;application
+: 1442803224:0;j download
+: 1442803225:0;ls
+: 1442803233:0;java -jar ideakeygen-1.0.0.jar
+: 1442803243:0;jdk6
+: 1442803245:0;java -jar ideakeygen-1.0.0.jar
+: 1442803249:0;jdk7
+: 1442803251:0;java -jar ideakeygen-1.0.0.jar
+: 1442803504:0;ls
+: 1442803510:0;j toshiba
+: 1442803511:0;ls
+: 1442803514:0;cd documents
+: 1442803515:0;ls
+: 1442803548:0;cd webstorm
+: 1442803550:0;pwd
+: 1442804000:0;ssh -l root 172.16.11.203
+: 1442804849:0;ls
+: 1442804853:0;cd node
+: 1442804853:0;ls
+: 1442804856:0;cd express-standard
+: 1442804857:0;ls
+: 1442804861:0;npm start
+: 1442818003:0;curl http://sdz001:ferret@127.0.0.1:3030/api/user/1 -v
+: 1442818017:0;curl http://127.0.0.1:3030/api/user/1 -v
+: 1442819050:0;npm install --save basic-auth
+: 1442819421:0;curl http://sdz001:ferret@127.0.0.1:3030/api/user/1 -v
+: 1442819465:0;curl http://sdz001:123456@127.0.0.1:3030/api/user/1 -v
+: 1442819560:0;curl http://sdz001:123ss456@127.0.0.1:3030/api/user/1 -v
+: 1442819854:0;curl http://sdz001:123456@127.0.0.1:3030/api/user/1 -v
+: 1442820614:0;curl http://root:1101,.@127.0.0.1:3030/api/user/1 -v
+: 1442820693:0;curl http://sdz001:123456@127.0.0.1:3030/api/user/1 -v
+: 1442820707:0;curl http://sdz001:123ss456@127.0.0.1:3030/api/user/1 -v
+: 1442821599:0;curl -F title="ho ho ho" -F body=="hahahha" http://sdz001:123456@127.0.0.1:3030/api/entry
+: 1442831546:0;git status
+: 1442831567:0;git add .
+: 1442831570:0;git status
+: 1442831580:0;git commit -m "update"
+: 1442831585:0;git push origin master
+: 1442905318:0;ls
+: 1442905430:0;mysal -hStringBuilder command = new StringBuilder();\
+		command.append("select id from t_user");
+: 1442905430:0;		command.append(" where mobilePhone = '");
+: 1442905430:0;		command.append(cellPhone);
+: 1442905430:0;		command.append("' ");
+: 1442905430:0;		DataSet ds = MySQL.executeQuery(conn, command.toString());
+: 1442905430:0;		Map<String, String> map = BeanMapUtils.dataSetToMap(ds);
+: 1442905430:0;		long userId = -1;
+: 1442905430:0;		if (map != null) {\
+			userId = Convert.strToLong(map.get("id"), -1);\
+		}
+: 1442905470:0;mysql -h172.16.0.10 -u root -p gozapdev
+: 1442905521:0;mysql -h172.16.0.10:3300 -u root -p gozapdev
+: 1442905587:0;mysal -h172.16.0.10:3300 -u root -p gozapdev
+: 1442905595:0;mysal -h172.16.0.10:3300 -uroot -pgozapdev
+: 1442905603:0;mysql -h172.16.0.10:3300 -uroot -pgozapdev
+: 1442905689:0;mysql -h172.16.0.10 -P3300 -uroot -pgozapdev
+: 1442920804:0;git status
+: 1442920809:0;j ordercollection
+: 1442920812:0;git status
+: 1442920814:0;git add .
+: 1442920821:0;git commit -m "mysql.md"
+: 1442920824:0;git push origin master
+: 1442992389:0;git pull origin master
+: 1442992403:0;j studycollection
+: 1442992408:0;git pull origin master
+: 1442992697:0;npm install
+: 1442993477:0;curl http://sdz001:123456@127.0.0.1:3030/api/user/1 -v
+: 1442993886:0;curl http://sdz001:123456@127.0.0.1:3030/api/user/1 
+: 1442993932:0;curl http://sdz001:123456@127.0.0.1:3030/api/user/1 -v
+: 1442994429:0;curl http://sdz001:123456@127.0.0.1:3030/api/user/1
+: 1442996061:0;curl http://127.0.0.1:3030/api/user/1
+: 1442996350:0;curl http://sdz001:123456@127.0.0.1:3030/api/user/1
+: 1442998498:0;127.0.0.1:6379> curl -F title="sundongzhi" -F body="swuosdowef" http://sdz001:123456@127.0.0.1:3030/api/entry
+: 1442998510:0;curl -F title="sundongzhi" -F body="swuosdowef" http://sdz001:123456@127.0.0.1:3030/api/entry
+: 1442999027:0;curl -F title="sundongzhi" -F body="swuosdowef" http://sdz001:123456@127.0.0.1:3030/api/entry -v
+: 1442999513:0;curl -d  -F title="sundongzhi" -F body="swuosdowef" http://sdz001:123456@127.0.0.1:3030/api/entry -v
+: 1442999546:0;curl -d  "title=sundongzhi&body=swuosdowef" http://sdz001:123456@127.0.0.1:3030/api/entry -v
+: 1443000967:0;//curl http://sdz001:123456@127.0.0.1:3000/api/entries
+: 1443000973:0;curl http://sdz001:123456@127.0.0.1:3000/api/entries
+: 1443001129:0;curl http://sdz001:123456@127.0.0.1:3000/api/entries/1
+: 1443001174:0;curl http://sdz001:123456@127.0.0.1:3030/api/entries/1
+: 1443001208:0;curl http://sdz001:123456@127.0.0.1:3030/api/user/1 -v
+: 1443001247:0;curl http://sdz001:123456@127.0.0.1:3000/api/entries/1 -v
+: 1443001279:0;curl http://sdz001:123456@127.0.0.1:30030/api/entries/1 -v
+: 1443001283:0;curl http://sdz001:123456@127.0.0.1:3030/api/entries/1 -v
+: 1443001496:0;curl http://sdz001:123456@127.0.0.1:3030/api/entries/2 -v
+: 1443003561:0;git status
+: 1443003585:0;ls
+: 1443003587:0;git status
+: 1443003591:0;cd curl
+: 1443003592:0;ls
+: 1443003597:0;cd curl
+: 1443003598:0;ls
+: 1443003624:0;git status
+: 1443003627:0;git add .
+: 1443003633:0;git commit -m "update"
+: 1443003640:0;git push origin master
+: 1443003654:0;j ordercollection
+: 1443003658:0;git status
+: 1443003660:0;git add .
+: 1443003666:0;git commit -m "update"
+: 1443003670:0;git push origin msaer
+: 1443003674:0;git push origin master
+: 1443063060:0;git pull origin master
+: 1443063079:0;j studycollection
+: 1443063085:0;git pull origin master
+: 1443091379:0;git status
+: 1443091390:0;git push origin master
+: 1443091407:0;git status
+: 1443091411:0;git push origin master
+: 1443154318:0;git pull origin master
+: 1443154545:0;cd test
+: 1443154550:0;ls
+: 1443154558:0;node test_todo.js
+: 1443154588:0;..
+: 1443154591:0;npm install
+: 1443154613:0;cd test
+: 1443154614:0;ls
+: 1443154616:0;node test_todo.js
+: 1443154729:0;cd test
+: 1443154729:0;ls
+: 1443154732:0;node test_todo.js
+: 1443156164:0;cd node
+: 1443156164:0;ls
+: 1443156167:0;express-standard
+: 1443156169:0;ls
+: 1443156177:0;npm  install -g nodeunit
+: 1443156200:0;sudo npm install -g nodeunit
+: 1443156654:0;node testPony.js
+: 1443156675:0;nodeunit testPony.js
+: 1443156684:0;nodeunit
+: 1443156801:0;nodeunit testPony.js
+: 1443157503:0;nodeunit testPony.js test
+: 1443174547:0;nodeunit testPony.js
+: 1443175685:0;git status
+: 1443175688:0;git add .
+: 1443175691:0;git status
+: 1443175705:0;git commit -m "test nodeunit"
+: 1443175711:0;git push origin master
+: 1443175724:0;git status
+: 1443176008:0;git status 
+: 1443176012:0;git push origin master
+: 1443414889:0;j longdai
+: 1443414894:0;cd ..
+: 1443414894:0;ls
+: 1443414899:0;cd LongDai
+: 1443414900:0;ls
+: 1443414901:0;pwd
+: 1443414904:0;ls
+: 1443414905:0;svn info
+: 1443414909:0;ls
+: 1443415890:0;pwd
+: 1443415898:0;opev ./
+: 1443415902:0;open ./
+: 1444271611:0;git pull origin master
+: 1444271624:0;git status
+: 1444271644:0;git pull origin master
+: 1444271668:0;j studycollection
+: 1444271670:0;ls
+: 1444271675:0;git pull origin master
+: 1444271711:0;ls
+: 1444271716:0;cd node
+: 1444271716:0;ls
+: 1444271719:0;cd express-standard
+: 1444271719:0;ls
+: 1444274950:0;nodeunit testPony.js
+: 1444278422:0;git status
+: 1444278952:0;ssh sundongzhi@223.202.52.182
+: 1444279623:0;ls
+: 1444279660:0;ssh sundongzhi@203.202.52.182
+: 1444279730:0;ssh sundongzhi@223.202.52.182
+: 1444280111:0;ls
+: 1444280155:0;ssh sundongzhi@223.202.52.182
+: 1444280191:0;ls
+: 1444280199:0;ssh root@192.168.2.11
+: 1444280234:0;ssh root@192.168.2.11:8080
+: 1444280238:0;ssh root@192.168.2.11
+: 1444280466:0;ssh sundongzhi@223.202.52.182
+: 1444286128:0;ls
+: 1444286130:0;git status
+: 1444286132:0;git add .
+: 1444286141:0;git commit -m "update tmpl.js"
+: 1444286145:0;git push origin master
+: 1444286154:0;git status
+: 1444286162:0;j studycollection
+: 1444286164:0;lks
+: 1444286164:0;ls
+: 1444286167:0;git status
+: 1444291670:0;git branch
+: 1444291677:0;git branch -a
+: 1444292988:0;git status
+: 1444293135:0;git checkout -b fundplan
+: 1444293140:0;git branch
+: 1444293497:0;git status
+: 1444293518:0;git add longdai-mobile/src/main/java/com/longdai/action/mobile/FundPlanAction.java
+: 1444293532:0;git commit -m "update fundplanaction"
+: 1444293536:0;git status
+: 1444293726:0;git checkout -- longdai-web/WebRoot/include/taglib.jsp
+: 1444293729:0;git status
+: 1444293738:0;git push origin fundplan
+: 1444293791:0;git pull origin fundplan
+: 1444293803:0;git branch
+: 1444293809:0;git chekcout develop
+: 1444293817:0;git checkout develop
+: 1444295334:0;nodeunit testPony.js
+: 1444295395:0;node test_todo.js
+: 1444295417:0;node testPony.js
+: 1444295431:0;nodeunit testPony.js
+: 1444296801:0;java -v
+: 1444296805:0;java --version
+: 1444296808:0;java -version
+: 1444299711:0;git status
+: 1444299720:0;git add .
+: 1444299727:0;git commit -m "update"
+: 1444299730:0;git push origin master
+: 1444299752:0;git status
+: 1444357524:0;tmux new-session -s mongo
+: 1444357538:0;tmux ls
+: 1444357549:0;tmux attach-session -s github
+: 1444357705:0;tmux ls
+: 1444357714:0;tmux attach-session -t github
+: 1444357777:0;ls
+: 1444357781:0;cd node
+: 1444357781:0;ls
+: 1444357785:0;express-standard
+: 1444357786:0;ls
+: 1444357791:0;npm start
+: 1444357828:0;ls
+: 1444361083:0;git pull origin master
+: 1444361113:0;npm install -g mocha
+: 1444361131:0;sudo npm install -g mocha
+: 1444361488:0;..
+: 1444361491:0;mocha
+: 1444363931:0;sudo npm install -g vows
+: 1444364504:0;git status
+: 1444364517:0;git pull origin develop
+: 1444364579:0;git status
+: 1444364891:0;vows test/vows.js
+: 1444364908:0;vows test/vows
+: 1444365521:0;vows test/*
+: 1444365529:0;vows test/vows
+: 1444365956:0;ls
+: 1444365959:0;cd test
+: 1444365960:0;ls
+: 1444365966:0;vows vows
+: 1444366409:0;vows 
+: 1444371143:0;vows test
+: 1444371391:0;npm install should --save
+: 1444371403:0;ls
+: 1444371406:0;cat package.json
+: 1444372033:0;ls
+: 1444372037:0;node should.js
+: 1444372044:0;cd ..
+: 1444372050:0;node test/should.js
+: 1444372499:0;npm install tobi --save
+: 1444374813:0;git status
+: 1444374817:0;cd ..
+: 1444374822:0;git status
+: 1444374827:0;..
+: 1444374832:0;cd studyCollection
+: 1444374834:0;git status
+: 1444374844:0;git add .
+: 1444374846:0;git status
+: 1444374855:0;git commit -m "update test"
+: 1444374859:0;git push origin master
+: 1444374871:0;git status
+: 1444381451:0;git add .
+: 1444381455:0;git status
+: 1444381469:0;git commit -m "add dminex demo to index"
+: 1444381474:0;git push origin maste
+: 1444381478:0;git push origin develop
+: 1444381591:0;git status
+: 1444381627:0;git branch -a
+: 1444381676:0;git push origin develop
+: 1444381851:0;git config ‚ÄÉ≥global http.postBuffer 52428800
+: 1444381859:0;git config --global http.postBuffer 52428800
+: 1444381865:0;git push origin develop
+: 1444381954:0;git push -f origin develop
+: 1444382142:0;git remote set-url origin git@git.gozap.com:longdai/longdai.git
+: 1444382146:0;git push -f origin develop
+: 1444382236:0;git remote set-url origin git@172.16.1.143:longdai/longdai.git
+: 1444382240:0;git push -f origin develop
+: 1444385123:0;git status
+: 1444385129:0;git push origin master
+: 1444385147:0;git status
+: 1444385150:0;git add .
+: 1444385157:0;git commit -m "update"
+: 1444385161:0;git push origin master
+: 1444444081:0;git pull origin master
+: 1444445152:0;cd test
+: 1444445153:0;ls
+: 1444445155:0;node ejs
+: 1444470973:0;mvn -v
+: 1444472562:0;git status
+: 1444472568:0;git add .
+: 1444472575:0;git commit -m "update"
+: 1444472580:0;git push origin master
+: 1444472599:0;git status
+: 1444472601:0;git add .
+: 1444472608:0;git commit -m "update readme"
+: 1444472612:0;git push origin master
+: 1444619442:0;tmux ls
+: 1444619453:0;tmux list-session
+: 1444619459:0;tmux
+: 1444619479:0;tmux ls
+: 1444619560:0;tmux kill-session -t 0
+: 1444619563:0;tmux ls
+: 1444619574:0;tmux new-session -s github
+: 1444619592:0;j ordercollection
+: 1444619594:0;ls
+: 1444619597:0;git pull origin master
+: 1444619607:0;studycollection
+: 1444619613:0;j studycollection
+: 1444619621:0;git pull origin master
+: 1444619626:0;ls
+: 1444619637:0;cd node
+: 1444619637:0;ls
+: 1444619674:0;tmux new-session -s mongo
+: 1444619677:0;j mongo
+: 1444619678:0;ls
+: 1444619681:0;cd bin
+: 1444619682:0;ls
+: 1444619683:0;mongod
+: 1444619695:0;j mongo
+: 1444619696:0;ls
+: 1444619697:0;cd bin
+: 1444619698:0;ls
+: 1444619700:0;mongo
+: 1444619778:0;tmux ls
+: 1444619792:0;tmux redis
+: 1444619801:0;tmux new-session -s redis
+: 1444619803:0;j redis
+: 1444619804:0;ls
+: 1444619807:0;cd src
+: 1444619807:0;ls
+: 1444619823:0;j redis
+: 1444619824:0;ls
+: 1444619827:0;cd src
+: 1444619829:0;ls
+: 1444619846:0;redis-server
+: 1444619857:0;redis-cli
+: 1444619939:0;tmux attach-session -t github
+: 1444619940:0;ls
+: 1444632372:0;git status
+: 1444632419:0;git checkout -- longdai-admin/WebRoot/include/taglib.jsp
+: 1444632423:0;git status
+: 1444632428:0;git pull origin develop
+: 1444632433:0;git status
+: 1444632437:0;git add all
+: 1444632440:0;git add .
+: 1444632447:0;git commit -m "update"
+: 1444632451:0;git status
+: 1444645789:0;ls
+: 1444645793:0;git status
+: 1444645830:0;ls
+: 1444645832:0;git status
+: 1444646346:0;git push origin master
+: 1444709110:0;git status
+: 1444709129:0;git add .
+: 1444709131:0;git status
+: 1444709159:0;git commit -m "udpate model for admin_p2p_admin"
+: 1444709165:0;git push origin develop
+: 1444711458:0;Â∑ÆÁÇπ„ÄÇ„ÄÇ
+: 1444711460:0;..
+: 1444711461:0;ls
+: 1444711462:0;cd java
+: 1444711462:0;ls
+: 1444711474:0;mkdir test
+: 1444711475:0;ls
+: 1444711477:0;cd test
+: 1444711479:0;mvn idea:idea 
+: 1444711590:0;ls
+: 1444712313:0;mvn dependency:tree 
+: 1444712352:0;git status
+: 1444725840:0;..
+: 1444725841:0;ls
+: 1444725845:0;cd ..
+: 1444725845:0;ls
+: 1444725857:0;j studycollection
+: 1444725858:0;ls
+: 1444725860:0;cd java
+: 1444725861:0;l
+: 1444725864:0;ls
+: 1444725865:0;llah
+: 1444725874:0;cd spring
+: 1444725876:0;cd ..
+: 1444725883:0;mkdir test
+: 1444725884:0;ls
+: 1444725886:0;cd test
+: 1444725889:0;mvn archetype:generate -DinteractiveMode=false -DarchetypeGroupId=org.codehaus.mojo.archetypes¬ÉÄ -DarchetypeArtifactId=webapp-jee5¬ÉÄ -Dversion=0.0.1-SNAPSHOT -DgroupId=net.zhepu¬ÉÄ -DartifactId=springmvc
+: 1444726218:0;ls
+: 1444731048:0;„ÄÇ„ÄÇ
+: 1444731051:0;..
+: 1444731053:0;ljs
+: 1444731055:0;ls
+: 1444731056:0;cd ..
+: 1444731057:0;ls
+: 1444731063:0;j studycollection
+: 1444731065:0;git status
+: 1444731068:0;git add .
+: 1444731089:0;git commit -m "update java springmvc"
+: 1444731092:0;git push origin master
+: 1444731106:0;git status
+: 1444731112:0;git add .
+: 1444731125:0;git commit -m "update order"
+: 1444731130:0;git push origin master
+: 1444731141:0;git status
+: 1444734736:0;ssh root@172.16.0.17
+: 1444734746:0;vi /Users/toshiba/.ssh/known_hosts
+: 1444734751:0;ssh root@172.16.0.17
+: 1444734978:0;git status
+: 1444734981:0;git add .
+: 1444734989:0;git commit -m "tmpl"
+: 1444734993:0;git push origin master
+: 1444789192:0;git status
+: 1444789212:0;j studycollection
+: 1444789213:0;ls
+: 1444808299:0;ssh root@172.16.0.17
+: 1444808333:0;ssh root@172.16.0.18
+: 1444808424:0;ls
+: 1444808431:0;ssh root@172.16.0.17
+: 1444816022:0;mocha
+: 1444818563:0;git status
+: 1444818571:0;git add .
+: 1444818573:0;git status
+: 1444818579:0;git commit -m "update"
+: 1444818586:0;git push origin master
+: 1444818607:0;git status
+: 1444885253:0;mvn clean -Dmaven.test.skip=true
+: 1444885278:0;cd dz-web
+: 1444885279:0;ls
+: 1444885283:0;mvn clean jetty:run
+: 1444885522:0;cd dz-web
+: 1444885523:0;ls
+: 1444885526:0;mvn clean jetty:run
+: 1444897329:0;git status
+: 1444897456:0;ls
+: 1444897472:0;git rm -rf java/.DS_Store
+: 1444897475:0;git status
+: 1444897484:0;git add .
+: 1444897486:0;git status
+: 1444897495:0;git commit -m "update spring pro"
+: 1444897500:0;git push origin master
+: 1444897596:0;git status
+: 1444897598:0;git add .
+: 1444897604:0;git commit -m "update"
+: 1444897607:0;git push origin master
+: 1444897828:0;git status
+: 1444897829:0;git add .
+: 1444897836:0;git commit -m "update"
+: 1444897840:0;git push origin master
+: 1444898231:0;git status
+: 1444898284:0;git pull origin develop
+: 1444898340:0;cd longdai-jdbc
+: 1444898341:0;ls
+: 1444898351:0;mvn clean install -Dmaven.test.skip=true
+: 1444902697:0;ssh sundongzhi@223.202.52.182
+: 1444902829:0;ssh root@171.16.12.93
+: 1444902904:0;123456
+: 1444902953:0;ssh root@171.16.12.93
+: 1444902961:0;ssh root@172.16.12.93
+: 1444906972:0;cd ..
+: 1444906975:0;git status
+: 1444907010:0;git pull origin master
+: 1444907016:0;git branch
+: 1444907023:0;git add .
+: 1444907027:0;git status
+: 1444907068:0;git commit -m "update longdai-service-new"
+: 1444907107:0;git push origin develop
+: 1444907122:0;git pull origin develop
+: 1444961893:0;git status
+: 1444961999:0;git add .
+: 1444962001:0;git status
+: 1444962014:0;gti commit -m "update adminservice"
+: 1444962020:0;git commit -m "update adminservice"
+: 1444962031:0;git pull origin develop
+: 1444962044:0;git status
+: 1444962053:0;git push origin develop
+: 1444962055:0;git status
+: 1444962064:0;git pull origin develop
+: 1444962071:0;git status
+: 1444962091:0;git commit -m "update mapp&service"
+: 1444962094:0;git status
+: 1444962101:0;git pull origin develop
+: 1444962130:0;git push origin master
+: 1444962138:0;git status
+: 1444962162:0;git pull origin develop
+: 1444962182:0;git commit -m "update mapp&service"
+: 1444962192:0;git push origin develop
+: 1444962201:0;git pull origin develop
+: 1444962205:0;git status
+: 1444963660:0;git push origin master
+: 1444963667:0;git pull origin develop
+: 1444963673:0;git push origin develop
+: 1444964585:0;git status
+: 1444964593:0;git add .
+: 1444964614:0;git commit -m "chang encode to utf8"
+: 1444964617:0;git status
+: 1444964622:0;git push origin develop
+: 1444966308:0;git status
+: 1444966416:0;git checkout -b local
+: 1444966424:0;git pull origin develop
+: 1444966429:0;git status
+: 1444969797:0;ls
+: 1444969799:0;..
+: 1444969800:0;ls
+: 1444969802:0;..
+: 1444969806:0;ls
+: 1444969809:0;..
+: 1444969810:0;ls
+: 1444969812:0;cd demo-workspace
+: 1444969813:0;ls
+: 1444969845:0;git clone git@github.com:wstrange/GoogleAuth.git
+: 1444971214:0;git status
+: 1444971219:0;git add .
+: 1444971250:0;git commit -m "fixed ms can't startup"
+: 1444971254:0;git status
+: 1444971257:0;git pull origin master
+: 1444971268:0;git push origin develop
+: 1444971278:0;git pull origin develop
+: 1444971285:0;git status
+: 1444971290:0;git push origin develop
+: 1444971298:0;git checkout develop
+: 1444971303:0;git merge local
+: 1444971307:0;git status
+: 1444971312:0;git push origin develop
+: 1444971316:0;git status
+: 1444971324:0;git checkout local
+: 1444971326:0;git status
+: 1444983410:0;git pull origin local
+: 1444983418:0;git pull origin develop
+: 1444983424:0;git status
+: 1444989487:0;git .
+: 1444989489:0;git add .
+: 1444989492:0;git status
+: 1444989502:0;git commit -m "update add user"
+: 1444989509:0;git pull origin develop
+: 1444989523:0;git status
+: 1444989531:0;git pull origin develop
+: 1444989541:0;git status
+: 1444989556:0;git checkout develop
+: 1444989560:0;git merge local
+: 1444989563:0;git satus
+: 1444989567:0;git status
+: 1444989578:0;git push origin develop
+: 1444989597:0;git checkout local
+: 1444989602:0;git pull origin develop
+: 1444989674:0;git status
+: 1444989678:0;git pull origin develop
+: 1444989690:0;git status
+: 1444989692:0;git add .
+: 1444989697:0;git commit -m "update"
+: 1444989702:0;git push origin master
+: 1444989721:0;git status 
+: 1445221643:0;git pull origin develop
+: 1445221674:0;git status
+: 1445221680:0;git checkout develop
+: 1445221687:0;git merge local
+: 1445221690:0;git status
+: 1445221700:0;git checkout local
+: 1445221704:0;git status
+: 1445222070:0;ssh sundongzhi@192.168.2.119
+: 1445222169:0;ssh sundongzhi@172.16.2.119
+: 1445222260:0;ssh root@192.168.2.119
+: 1445222398:0;ssh sundongzhi@223.202.52.182
+: 1445223429:0;ssh root@192.168.2.105
+: 1445225379:0;git status
+: 1445225584:0;ls
+: 1445228406:0;git pull origin develop
+: 1445230531:0;git branch -v
+: 1445230536:0;git pull origin develop
+: 1445230539:0;git status
+: 1445236231:0;git status 
+: 1445236233:0;git add .
+: 1445236245:0;git commit -m "update AuthController"
+: 1445236249:0;git status
+: 1445236253:0;git push origin develop
+: 1445236257:0;git status
+: 1445247161:0;git add .
+: 1445247189:0;git commit -m "add status code &update AuthController"
+: 1445247196:0;git push origin develop
+: 1445247199:0;git status
+: 1445247385:0;ssh root@172.16.0.17
+: 1445259626:0;git status
+: 1445259629:0;git add .
+: 1445259631:0;git status
+: 1445259641:0;git commit -m "update login"
+: 1445259643:0;git status
+: 1445259671:0;git pull origin master
+: 1445259685:0;git pull origin develop
+: 1445259695:0;git checkout develop
+: 1445259701:0;git merge local
+: 1445259703:0;git status
+: 1445259707:0;git push origin develop
+: 1445259710:0;git status
+: 1445259716:0;git checkout local
+: 1445259718:0;git status
+: 1445259774:0;git add .
+: 1445259780:0;git commit -m "update"
+: 1445259785:0;git push origin develop
+: 1445259791:0;git push origin master
+: 1445259801:0;git status
+: 1445259808:0;git push origin master
+: 1445259827:0;git status
+: 1445259831:0;git push origin master
+: 1445259842:0;git pull origin master
+: 1445259852:0;git push origin master
+: 1445306832:0;git status
+: 1445306883:0;git pull origin master
+: 1445306932:0;git status
+: 1445306949:0;git commit -m "update readme"
+: 1445306955:0;git push origin master
+: 1445306981:0;git branch -v
+: 1445306990:0;git pull origin master
+: 1445307013:0;git status
+: 1445307045:0;git push origin master
+: 1445307070:0;git pull origin master
+: 1445307302:0;git merge --about
+: 1445307361:0;git merge --abort
+: 1445307365:0;git status
+: 1445307371:0;git reset --merge
+: 1445307373:0;git status
+: 1445307390:0;git pull origin develop
+: 1445307396:0;git pull origin master
+: 1445307431:0;git merge --abort
+: 1445307435:0;git reset --merge
+: 1445307438:0;git pull origin master
+: 1445307513:0;git fetch --all
+: 1445307518:0;git status
+: 1445307542:0;git pull origin/master
+: 1445308172:0;git status
+: 1445308223:0;git merge --abort
+: 1445308233:0;git reset --merge
+: 1445308308:0;git status
+: 1445308320:0;gti pull origin master
+: 1445308325:0;git pull origin master
+: 1445309179:0;rm ~/Documents/git-workspace/github/orderCollection/.git/.MERGE_MSG.swp
+: 1445309182:0;git status
+: 1445309190:0;git pull origin master
+: 1445309195:0;git add .
+: 1445309201:0;git commit -m "update"
+: 1445309205:0;git status
+: 1445309216:0;git push origin master
+: 1445309224:0;git status
+: 1445310189:0;git add .
+: 1445310200:0;git commit -m "update baseMobileAction"
+: 1445310205:0;git push origin develop
+: 1445310217:0;git status
+: 1445310222:0;git checkout develop
+: 1445310226:0;git merge local
+: 1445310235:0;git push origin develop
+: 1445310242:0;git status
+: 1445310247:0;git check local
+: 1445310252:0;git checkout local
+: 1445311432:0;git status
+: 1445311435:0;git add .
+: 1445311440:0;git commit -m "update"
+: 1445311455:0;git checkout develop
+: 1445311461:0;git merge local
+: 1445311469:0;git push origin develop
+: 1445311479:0;git status
+: 1445311484:0;git push origin develop
+: 1445311495:0;git checkout local
+: 1445311500:0;git pull origin develop
+: 1445311557:0;git status
+: 1445311563:0;git checkout develop
+: 1445311566:0;git merge local
+: 1445311569:0;git status
+: 1445311572:0;git push origin develop
+: 1445311577:0;git checkout local
+: 1445312083:0;cd longdai-mobile
+: 1445312084:0;ls
+: 1445312088:0;mvn clean jetty:run
+: 1445314183:0;wget http://172.16.0.17:31085/qr\?text\=otpauth%3A%2F%2Ftotp%2Flongdai_admin%3Asundongzhi%40gozap.com%3Fsecret%3D2LTBVEIOHZZYYDX3ILX5QSLECOEKBXPK%26issuer%3Dlongdai_admin
+: 1445314192:0;ls -llah qr\?text=otpauth%3A%2F%2Ftotp%2Flongdai_admin%3Asundongzhi%40gozap.com%3Fsecret%3D2LTBVEIOHZZYYDX3ILX5QSLECOEKBXPK%26issuer%3Dlongdai_admin 
+: 1445314198:0;ls -lla qr\?text=otpauth%3A%2F%2Ftotp%2Flongdai_admin%3Asundongzhi%40gozap.com%3Fsecret%3D2LTBVEIOHZZYYDX3ILX5QSLECOEKBXPK%26issuer%3Dlongdai_admin 
+: 1445314203:0;rm qr\?text=otpauth%3A%2F%2Ftotp%2Flongdai_admin%3Asundongzhi%40gozap.com%3Fsecret%3D2LTBVEIOHZZYYDX3ILX5QSLECOEKBXPK%26issuer%3Dlongdai_admin
+: 1445316941:0;git status
+: 1445316948:0;git add .
+: 1445316960:0;git commit -m "update authController"
+: 1445316964:0;git push origin develop
+: 1445316999:0;ssh root@172.16.0.17
+: 1445320698:0;git status
+: 1445320701:0;git add .
+: 1445320720:0;git commit -m "add update resetAuthkey interface "
+: 1445320727:0;git push origin develop
+: 1445322104:0;git status
+: 1445322141:0;git add .
+: 1445322153:0;git commit -m "update Authcontroller"
+: 1445322161:0;git push origin develop
+: 1445323932:0;git status
+: 1445323934:0;git add .
+: 1445323945:0;git commit -m "update AuthController"
+: 1445323950:0;git push origin develop
+: 1445325152:0;git status
+: 1445330058:0;git add .
+: 1445330075:0;git commit -m "update auth controller"
+: 1445330080:0;git push origin develop
+: 1445331683:0;git status
+: 1445331686:0;git add .
+: 1445331701:0;git commit -m "update AuthControler"
+: 1445331705:0;git push origin develop
+: 1445331715:0;git status
+: 1445332407:0;git add .
+: 1445332409:0;git status
+: 1445332426:0;git commit -m "login complete"
+: 1445332429:0;git status
+: 1445332436:0;git pull origin develop
+: 1445332482:0;rm ~/Documents/git-workspace/IDEA/longdai/.git/MERGE_MSG
+: 1445332485:0;git status
+: 1445332492:0;git pull origin develop
+: 1445332520:0;rm ~/Documents/git-workspace/IDEA/longdai/.git/.MERGE_MSG.swp
+: 1445332522:0;git status
+: 1445332528:0;git pull origin develop
+: 1445332533:0;git status
+: 1445332552:0;git commit -m "update new files"
+: 1445332554:0;git status
+: 1445332558:0;git pull origin develop
+: 1445332568:0;git chekcout develop
+: 1445332574:0;git checkout develop
+: 1445332578:0;git merge local
+: 1445332582:0;git push origin develop
+: 1445332586:0;git checkout local
+: 1445334249:0;j downloads
+: 1445334251:0;ls
+: 1445334256:0;cd meld
+: 1445334261:0;meld-3.14.1
+: 1445334262:0;ls
+: 1445334264:0;cd bin
+: 1445334265:0;ls
+: 1445334270:0;meld
+: 1445334279:0;cd meld
+: 1445334290:0;./meld.sh
+: 1445334547:0;brew install meld
+: 1445334575:0;sudo brew install meld
+: 1445334590:0;brew install meld
+: 1445334606:0;brew update
+: 1445334713:0;brew install meld
+: 1445336783:0;git status
+: 1445336963:0;which python
+: 1445337003:0;find /usr/local -name python
+: 1445337026:0;ls -l /usr/local/opt/python
+: 1445337046:0;s -l /usr/local/Cellar/python/2.7._2
+: 1445337052:0;s -l /usr/local/Cellar/python/2.7.10_2
+: 1445337059:0;ls -l /usr/local/Cellar/python/2.7.10_2
+: 1445337071:0;brew install python
+: 1445337080:0;meld
+: 1445345772:0;git status
+: 1445345777:0;git add .
+: 1445345783:0;git commit -m "update"
+: 1445345821:0;git status
+: 1445345829:0;git push origin master
+: 1445345840:0;git status
+: 1445345868:0;j studycollection
+: 1445345871:0;git status
+: 1445345898:0;git push origin master
+: 1445398101:0;git status
+: 1445399350:0;git add .
+: 1445399365:0;git commit -m "update userinfoAction"
+: 1445399368:0;git status
+: 1445399380:0;git checkout develop
+: 1445399383:0;git merge local
+: 1445399385:0;git status
+: 1445399388:0;git push origin develop
+: 1445399406:0;git checkout local
+: 1445399410:0;git pull origin develop
+: 1445399459:0;git pull --rebase origin master
+: 1445399467:0;git status
+: 1445399486:0;git commit -m "update project"
+: 1445399488:0;git status
+: 1445399496:0;git pull --rebase origin develop
+: 1445399508:0;git status
+: 1445399549:0;git rebase --continue
+: 1445399644:0;git add .
+: 1445399646:0;git status
+: 1445399660:0;git rebase --continue
+: 1445399664:0;git merge
+: 1445399676:0;git status
+: 1445399694:0;git rebase --continue
+: 1445399733:0;git status
+: 1445399735:0;git add .
+: 1445399751:0;git commit -m "fixed conflict"
+: 1445399754:0;git status
+: 1445399768:0;git rebase --continue
+: 1445399968:0;git status
+: 1445399970:0;git add .
+: 1445399972:0;git status
+: 1445399985:0;git commit -m "update kvnote.properties"
+: 1445399987:0;git status
+: 1445399993:0;git rebase --continue
+: 1445400041:0;git pull --rebase origin develop
+: 1445400061:0;git rebase --continue
+: 1445400067:0;gitstatus
+: 1445400069:0;git status
+: 1445400078:0;git rebase --abort
+: 1445400081:0;git status
+: 1445400096:0;git pull origin develop
+: 1445400116:0;rm /Users/toshiba/Documents/git-workspace/IDEA/longdai/.git/.MERGE_MSG.swp
+: 1445400123:0;git pull origin develop
+: 1445400130:0;git status
+: 1445408584:0;git pull --rebase origin develop
+: 1445408593:0;git status
+: 1445409588:0;git add .
+: 1445409591:0;git status
+: 1445409608:0;git commit -m "getuserinfo add redreward count"
+: 1445409611:0;git status
+: 1445409619:0;git pull origin develop
+: 1445409719:0;git status
+: 1445410244:0;git checkout develop
+: 1445410251:0;git push origin develop
+: 1445410273:0;git checkout local
+: 1445410277:0;git pull origin develop
+: 1445410280:0;git status
+: 1445410286:0;git checkout develop
+: 1445410288:0;git merge local
+: 1445410293:0;git push origin develop
+: 1445410296:0;git status
+: 1445410301:0;git checkout local
+: 1445413365:0;redis-cli -h172.16.3.128 -p6390
+: 1445413387:0;redis-cli -h 172.16.3.128 -p 6390
+: 1445413420:0;redis-cli -h 172.16.3.128 -uroot  -P6390
+: 1445413442:0;redis-cli -h172.16.3.128 -uroot -p  -P6390
+: 1445413460:0;redis-cli -h172.16.3.128 -umyviewol -p  -P6390
+: 1445413516:0;ssh root@192.168.2.105
+: 1445413741:0;git status
+: 1445413744:0;git branch
+: 1445413765:0;git status
+: 1445413782:0;git checkou -b fundplanNoChange
+: 1445413789:0;git checkout -b fundplanNoChange
+: 1445413795:0;git status
+: 1445413805:0;git checkout local
+: 1445413807:0;git status
+: 1445415055:0;ssh root@192.168.2.105
+: 1445415286:0;ssh sundongzhi@223.202.52.182
+: 1445415456:0;ssh root@192.168.2.105
+: 1445415789:0;redis-cli
+: 1445415798:0;brew install redis-cli
+: 1445415804:0;ls
+: 1445415811:0;ssh root@172.16.0.17
+: 1445419479:0;git status
+: 1445419482:0;git add .
+: 1445419503:0;git commit -m "update fundplanaction"
+: 1445419506:0;git status
+: 1445419511:0;git pull origin develop
+: 1445419536:0;git status
+: 1445419542:0;git checkout develop
+: 1445419545:0;git merge local
+: 1445419555:0;git push origin develop
+: 1445419560:0;git checkout local
+: 1445426358:0;telnet 127.0.0.1 6379
+: 1445426490:0;telnet 172.16.0.10 3300
+: 1445426530:0;route
+: 1445426536:0;route -n
+: 1445426538:0;route -l
+: 1445426545:0;route -n
+: 1445426548:0;route -v
+: 1445426553:0;ssh root@172.16.0.17
+: 1445426620:0;ping www.baidu.com
+: 1445426635:0;dig www.longdai.com
+: 1445426680:0;ping www.longdai.com
+: 1445426687:0;dig www.longdai.com
+: 1445426694:0;dig www.baidu.com
+: 1445426702:0;dig www.google.com
+: 1445426716:0;traceroute www.google.com
+: 1445426748:0;traceroute www.baidu.com
+: 1445426769:0;dig www.longdai.com
+: 1445428470:0;ssh -v sundongzhi@223.202.52.182 
+: 1445429420:0;git status
+: 1445429478:0;git add .,
+: 1445429480:0;git add .
+: 1445429484:0;git status
+: 1445429491:0;git commit -m "update tmpl"
+: 1445429494:0;git push origin master
+: 1445429509:0;git status
+: 1445429883:0;git add .
+: 1445429894:0;git commit -m "update readme"
+: 1445429901:0;git push origin master
+: 1445481908:0;tmux ls
+: 1445481921:0;tmux new-session -s github
+: 1445481927:0;j ordercollection
+: 1445481934:0;j studycollection
+: 1445481935:0;ls
+: 1445481946:0;j downloads
+: 1445481967:0;tmux new-session -s mongo
+: 1445481974:0;tmux ls
+: 1445481982:0;tmux new-session -s mongo
+: 1445481985:0;j mongo
+: 1445481986:0;ls
+: 1445481990:0;cd bin
+: 1445481991:0;ls
+: 1445481994:0;mongod
+: 1445481999:0;ls
+: 1445482003:0;j mongod
+: 1445482003:0;ls
+: 1445482005:0;cd bin
+: 1445482006:0;ls
+: 1445482008:0;mongo
+: 1445482023:0;tmux new-session -s redis
+: 1445482025:0;j redis
+: 1445482026:0;ls
+: 1445482028:0;cd src
+: 1445482028:0;ls
+: 1445482033:0;redis-server
+: 1445482042:0;j redis
+: 1445482042:0;ls
+: 1445482044:0;src
+: 1445482045:0;ls
+: 1445482049:0;redis-client
+: 1445482052:0;redis-cli
+: 1445484159:0;cd /etc/profile
+: 1445484165:0;vi /etc/profile
+: 1445484175:0;cd /etc
+: 1445484176:0;ls
+: 1445484186:0;vi hosts
+: 1445484253:0;sudo vi hosts
+: 1445486642:0;j redis
+: 1445486643:0;src
+: 1445486647:0;redis-cli
+: 1445487107:0;redis cli
+: 1445487110:0;redis-cli
+: 1445489086:0;redis cli
+: 1445489090:0;redis-cli
+: 1445501569:0;git pull origin develop
+: 1445501579:0;git status
+: 1445501582:0;git add .
+: 1445501614:0;git commit -m "add newonly or not"
+: 1445501617:0;git status
+: 1445501624:0;git checkout develop
+: 1445501627:0;git merge local
+: 1445501629:0;git status
+: 1445501633:0;git push origin develop
+: 1445501636:0;git status
+: 1445501640:0;git checkout local
+: 1445502363:0;git pull origin develop
+: 1445502374:0;git status
+: 1445502376:0;git add .
+: 1445502392:0;git commit -m "update borrowaction "
+: 1445502399:0;git pull origin develop
+: 1445502430:0;git status
+: 1445502433:0;git checkou develop
+: 1445502441:0;git checkout develop
+: 1445502445:0;git merge local
+: 1445502448:0;git status
+: 1445502452:0;git push origin develop
+: 1445502458:0;git checkout local
+: 1445506362:0;git status
+: 1445506372:0;git add .
+: 1445506380:0;git commit -m "update borrowaction "
+: 1445506396:0;git pull origin develop
+: 1445506416:0;git status
+: 1445506420:0;git checkout develop
+: 1445506422:0;git merge local
+: 1445506425:0;git status
+: 1445506429:0;git push origin develop
+: 1445506432:0;git status
+: 1445506437:0;git checkout local
+: 1445506439:0;git status
+: 1445510496:0;ssh sundongzhi@223.202.52.182
+: 1445510627:0;ls
+: 1445567869:0;git pull origin develop
+: 1445567919:0;git status
+: 1445567924:0;git pull origin develop
+: 1445567955:0;git checkout develop
+: 1445567959:0;git merge local
+: 1445567960:0;git status
+: 1445569201:0;ssh sundongzhi@223.202.52.182
+: 1445572199:0;git status
+: 1445572200:0;git add .
+: 1445572211:0;git commit -m "update undplanaction"
+: 1445572215:0;git status
+: 1445572238:0;git checkout local
+: 1445572241:0;git status
+: 1445572245:0;git pull origin develop
+: 1445572249:0;git status
+: 1445572259:0;git checkout develop
+: 1445572264:0;git merge local
+: 1445572284:0;git status
+: 1445572298:0;git push origin develop
+: 1445572301:0;git status
+: 1445572304:0;git checkout local
+: 1445572306:0;git status
+: 1445572450:0;git pull origin develop
+: 1445572453:0;gti status
+: 1445582084:0;git status
+: 1445584553:0;cd /user
+: 1445584553:0;ls
+: 1445584561:0;cd applicatioon
+: 1445584565:0;applications
+: 1445584566:0;ls
+: 1445584569:0;cd Chrome\ Apps.localized
+: 1445584570:0;ls
+: 1445584578:0;cd Default\ 
+: 1445584579:0;ls
+: 1445584582:0;cd Default\ 
+: 1445584583:0;ls
+: 1445586119:0;j ~/Library/Application Support/Google/Chrome/Default/Extensions/
+: 1445586122:0;ls
+: 1445586249:0;la
+: 1445586274:0;cd .localized
+: 1445586275:0;ls
+: 1445586278:0;..
+: 1445586283:0;cd Default\ jjfaohihhkmgfjpjkeehipkmakcddncj.app
+: 1445586284:0;ls
+: 1445586286:0;cd contents
+: 1445586287:0;ls
+: 1445586291:0;cd macOs
+: 1445586292:0;ls
+: 1445586298:0;la
+: 1445586302:0;..
+: 1445586303:0;ls
+: 1445586304:0;la
+: 1445586307:0;re Resources
+: 1445586307:0;ls
+: 1445586310:0;la
+: 1445586313:0;cd Resources
+: 1445586313:0;ls
+: 1445586314:0;la
+: 1445586318:0;cd en.lproj
+: 1445586318:0;ls
+: 1445586320:0;..
+: 1445586324:0;la
+: 1445586328:0;cd Default\ pjkljhegncpnkpknbcohdijeoejaedia.app
+: 1445586329:0;ls
+: 1445586330:0;la
+: 1445586331:0;cd Contents
+: 1445586332:0;ls
+: 1445586335:0;cd Resources
+: 1445586336:0;ls
+: 1445586339:0;cd en.lproj
+: 1445586339:0;ls
+: 1445586340:0;la
+: 1445586342:0;..
+: 1445586344:0;ls
+: 1445586347:0;cd MacOS
+: 1445586348:0;la
+: 1445586350:0;cd _app
+: 1445586681:0;ls
+: 1445588869:0;git status
+: 1445588913:0;git add .
+: 1445588923:0;git commit -m "update"
+: 1445588927:0;git status
+: 1445588937:0;git pull origin develop
+: 1445588959:0;git checkout develop
+: 1445588963:0;git merge local
+: 1445588968:0;git push origin develop
+: 1445588971:0;git status
+: 1445589032:0;ssh sundongzhi@223.202.52.182
+: 1445591136:0;git status
+: 1445591138:0;git add .
+: 1445591152:0;git commit -m "update upload file"
+: 1445591154:0;git status
+: 1445591159:0;git pull origin develop
+: 1445591174:0;ls
+: 1445591177:0;git status
+: 1445591182:0;git checkout develop
+: 1445591184:0;ls
+: 1445591197:0;git status
+: 1445591201:0;git push origin develop
+: 1445591206:0;git checkout local
+: 1445591211:0;git pull origin develop
+: 1445591214:0;git status
+: 1445591906:0;git add .
+: 1445591907:0;git status
+: 1445591920:0;git commit -m "upload struts.xml"
+: 1445591922:0;git status
+: 1445591926:0;git pull origin develop
+: 1445591931:0;git checkout develop
+: 1445591934:0;git merge local
+: 1445591939:0;git push origin develop
+: 1445591944:0;git status
+: 1445591947:0;git checkout local
+: 1445593662:0;git status
+: 1445593704:0;git pull origin develop
+: 1445593710:0;git checkout develop
+: 1445593713:0;git merge local
+: 1445593714:0;git status
+: 1445593720:0;git push origin develop
+: 1445593723:0;git checkout local
+: 1445593725:0;git status
+: 1445594391:0;git pull origin develop
+: 1445594399:0;git checkout develop
+: 1445594404:0;git merge local
+: 1445594410:0;git status
+: 1445594414:0;git push origin develop
+: 1445594418:0;git checkout local
+: 1445594713:0;git status
+: 1445594741:0;git checkout develop
+: 1445594744:0;git merge local
+: 1445594749:0;git push origin develop
+: 1445594758:0;git checkout local
+: 1445594762:0;git pull origin develop
+: 1445594778:0;git status
+: 1445594781:0;git checkout develop
+: 1445594784:0;git merge local
+: 1445594792:0;git push origin develop
+: 1445594796:0;git checkout local
+: 1445597356:0;git status
+: 1445597670:0;j ordercollection
+: 1445597672:0;ls
+: 1445597679:0;git status
+: 1445597681:0;git add .
+: 1445597690:0;git commit -m "update tmpl.js"
+: 1445597691:0;git status
+: 1445597704:0;git push origin master
+: 1445597713:0;git status
+: 1445598021:0;cd ~/Library
+: 1445598021:0;ls
+: 1445598030:0;cd Application\ Support
+: 1445598031:0;ls
+: 1445598034:0;cd Google
+: 1445598035:0;ls
+: 1445598037:0;cd chrome
+: 1445598038:0;ls
+: 1445598043:0;cd Default
+: 1445598045:0;ls
+: 1445598049:0;cd Extension
+: 1445598058:0;cd Extensions
+: 1445598059:0;ls
+: 1445598067:0;pwd
+: 1445598125:0;la
+: 1445598130:0;cd bfbameneiokkgbdmiekhjnmfkcnldhhm
+: 1445598132:0;ls
+: 1445598140:0;la
+: 1445598144:0;cd 0.4.6_0
+: 1445598144:0;ls
+: 1445598149:0;..
+: 1445598150:0;ls
+: 1445598152:0;pwd
+: 1445598156:0;cd 0.4.6_0
+: 1445598157:0;pwd
+: 1445598183:0;ls
+: 1445598230:0;cd ..
+: 1445598232:0;ls
+: 1445598233:0;la
+: 1445598234:0;cd ..
+: 1445598239:0;ls
+: 1445598239:0;la
+: 1445598242:0;pwd
+: 1445598278:0;ls
+: 1445598291:0;..
+: 1445598292:0;ls
+: 1445598323:0;j downloads
+: 1445598342:0;cp Extensions /Users/toshiba/Downloads
+: 1445598354:0;cp -r  Extensions /Users/toshiba/Downloads
+: 1445598364:0;ls
+: 1445598368:0;cd Extensions
+: 1445598369:0;ls
+: 1445598419:0;cd eadndfjplgieldjbigjakmdgkmoaaaoc
+: 1445598420:0;ls
+: 1445598423:0;cd 1.4.3_0
+: 1445598424:0;ls
+: 1445598427:0;pwd
+: 1445598449:0;..
+: 1445598457:0;cd goppkfbpdcohaknmoabhnfclcepcjlda
+: 1445598460:0;cd 8.5_0
+: 1445598461:0;ls
+: 1445598462:0;pwd
+: 1445598487:0;cd ..
+: 1445598491:0;ls
+: 1445598493:0;cd ..
+: 1445598495:0;cd ocifcklkibdehekfnmflempfgjhbedch
+: 1445598496:0;ls
+: 1445598498:0;cd 3.4_0
+: 1445598499:0;pwd
+: 1445598528:0;..
+: 1445598532:0;cd indebdooekgjhkncmgbkeopjebofdoid
+: 1445598533:0;ls
+: 1445598534:0;cd 0.5.6_0
+: 1445598535:0;pwd
+: 1445598557:0;..
+: 1445598560:0;cd chklaanhfefbnpoihckbnefhakgolnmc
+: 1445598561:0;ls
+: 1445598563:0;cd 0.0.32.2_0
+: 1445598564:0;pwd
+: 1445598587:0;..
+: 1445598589:0;cd mgehijmpijagbigfgckjidhkpbckmegc
+: 1445598590:0;ls
+: 1445598592:0;cd 1.1_0
+: 1445598592:0;ls
+: 1445598593:0;pwd
+: 1445598627:0;..
+: 1445598629:0;cd pflgjjogbmmcmfhfcnlohagkablhbpmg
+: 1445598632:0;cd 2.1_0
+: 1445598633:0;pwd
+: 1445598660:0;..
+: 1445598662:0;cd peddmpbdeelbhgfjnmlkfgeddigonncm
+: 1445598663:0;ls
+: 1445598666:0;cd 1.2.7_0
+: 1445598668:0;pwd
+: 1445598699:0;..
+: 1445598701:0;cd jkpgdhjannjpnmpkiaeapdcklnmoklgn
+: 1445598702:0;ls
+: 1445598703:0;cd 1.4.4_0
+: 1445598704:0;pwd
+: 1445598728:0;..
+: 1445598734:0;cd iaebjamgfeimndfmoaddgocnhddjhgfd
+: 1445598735:0;ls
+: 1445598736:0;cd 5.0.1_0
+: 1445598737:0;pwd
+: 1445598765:0;..
+: 1445598767:0;cd goppkfbpdcohaknmoabhnfclcepcjlda
+: 1445598768:0;ls
+: 1445598771:0;cd 8.5_0
+: 1445598772:0;pwd
+: 1445598800:0;..
+: 1445598802:0;cd cnbddbpnpodecpebocgglpagialniepj
+: 1445598804:0;cd 2.3_0
+: 1445598805:0;pwd
+: 1445598819:0;..
+: 1445598830:0;cd fmcfkdaobigbkopahamahckjnifmmolc
+: 1445598830:0;ls
+: 1445598832:0;cd 1.1.3_0
+: 1445598833:0;pwd
+: 1445598848:0;..
+: 1445598862:0;ls
+: 1445598879:0;cp -r  Extensions /Users/toshiba/Downloads
+: 1445599167:0;j ordercollection
+: 1445599169:0;git status
+: 1445599172:0;git add 
+: 1445599175:0;git add .
+: 1445599182:0;git commit -m "update "
+: 1445599188:0;git push origin master
+: 1445599200:0;ls
+: 1445828646:0;git status
+: 1445828664:0;j studycollection
+: 1445828666:0;ls
+: 1445828668:0;git status
+: 1445833165:0;j downloads
+: 1445833166:0;ls
+: 1445833169:0;pwd
+: 1445833176:0;cd /Users
+: 1445833177:0;ls
+: 1445833179:0;cd toshiba
+: 1445833180:0;la
+: 1445833202:0;cp -r .m2 /Users/toshiba/Downloads/m2
+: 1445846294:0;git status
+: 1445846297:0;git add .
+: 1445846306:0;git commit -m "update selectedlistservice"
+: 1445846309:0;git status
+: 1445846315:0;git pull origin develop
+: 1445846318:0;git status
+: 1445846321:0;git checkout develop
+: 1445846324:0;git merge local
+: 1445846326:0;git status
+: 1445846329:0;git push origin develop
+: 1445846335:0;git checkout local
+: 1445846337:0;git status
+: 1445846532:0;git add . 
+: 1445846554:0;git commit -m "update selectedlistservice to old version"
+: 1445846556:0;git status
+: 1445846561:0;git checkout develop
+: 1445846563:0;git merge local
+: 1445846566:0;git status
+: 1445846571:0;git checkout local
+: 1445850189:0;tmux ls
+: 1445850203:0;j ordercollection
+: 1445850205:0;ls
+: 1445850217:0;tmux session-list
+: 1445850220:0;tmux
+: 1445850227:0;git status
+: 1445850232:0;tmux ls
+: 1445850241:0;tmux new-session -s github
+: 1445850246:0;git status
+: 1445850256:0;j studycollection
+: 1445850259:0;git status
+: 1445850268:0;tmux ls
+: 1445850279:0;tmux --help
+: 1445850294:0;tmux delete-session -t 0
+: 1445850300:0;tmux remove-session -t 0
+: 1445850329:0;tmux kill-session -t 0
+: 1445850331:0;tmux ls
+: 1445850342:0;tmux new-session -s mongo
+: 1445850345:0;j mongo
+: 1445850346:0;ls
+: 1445850349:0;bin
+: 1445850349:0;ls
+: 1445850352:0;mongod
+: 1445850359:0;j mongo
+: 1445850360:0;ls
+: 1445850362:0;bin
+: 1445850362:0;ls
+: 1445850364:0;mongo
+: 1445850384:0;tmux new-session -t redis
+: 1445850390:0;tmux new-session -s redis
+: 1445850393:0;j redis
+: 1445850394:0;ls
+: 1445850396:0;src
+: 1445850396:0;ls
+: 1445850401:0;redis-server
+: 1445850407:0;j redis
+: 1445850408:0;ls
+: 1445850410:0;src
+: 1445850410:0;ls
+: 1445850417:0;redis-cli
+: 1445851524:0;git status
+: 1445851532:0;git add .
+: 1445851537:0;git commit -m "update"
+: 1445851539:0;git status
+: 1445851543:0;git push origin master
+: 1445851556:0;git status
+: 1445851568:0;git pull origin develop
+: 1445851591:0;git checkout develop
+: 1445851594:0;git merge local
+: 1445851595:0;git status
+: 1445851601:0;git push origin develop
+: 1445851604:0;git status
+: 1445915408:0;curl http://www.longdai.com/tianmangyun/bangwoyacps.do\?startday\=20151001\&endday\=20151027\&key\=2YHQPrpFNM3T\&sign\=fa2fb61088aad7442e47dd81405c38c9
+: 1445916497:0;git status
+: 1445916532:0;git add .
+: 1445916539:0;git commit -m "udpate selected"
+: 1445916548:0;git pull origin develop
+: 1445916558:0;git status
+: 1445916563:0;git push origin develop
+: 1445916569:0;git checkout local
+: 1445916573:0;git pull origin develop
+: 1445916606:0;git status
+: 1445916620:0;git add .
+: 1445916634:0;git commit -m "update selectedlistservice to old version"
+: 1445916637:0;git status
+: 1445917908:0;j Extensions
+: 1445917911:0;ls
+: 1445917915:0;cd mkhojklkhkdaghjjfdnphfphiaiohkef
+: 1445917916:0;ls
+: 1445917929:0;cd 0.8.4.8_0
+: 1445917930:0;pwd
+: 1445917950:0;ls
+: 1445917954:0;..
+: 1445917956:0;ls
+: 1445917972:0;j downloads
+: 1445917974:0;pwd
+: 1445917983:0;cp 0.8.4.8_0.crx  /Users/toshiba/Downloads
+: 1445917987:0;ls
+: 1445936872:0;j ordercollection
+: 1445936876:0;git status
+: 1445936879:0;git add .
+: 1445936886:0;git commit -m "update"
+: 1445936890:0;git push origin master
+: 1445936921:0;j studycollection
+: 1445936924:0;git status
+: 1445936965:0;git add .
+: 1445936967:0;git status
+: 1445936974:0;git commit -m "add new file"
+: 1445936977:0;git status
+: 1445936986:0;git checkout develop
+: 1445936993:0;git checkout local
+: 1445936998:0;git pull origin develop
+: 1445937020:0;git checkout develop
+: 1445937022:0;git merge local
+: 1445937024:0;git status
+: 1445937030:0;git push origin develop
+: 1445937519:0;cd ~/
+: 1445937522:0;ls
+: 1445937534:0;cd /Users
+: 1445937534:0;ls
+: 1445937540:0;cd toshiba
+: 1445937541:0;ls
+: 1445937546:0;la
+: 1445937561:0;cd .autojump
+: 1445937562:0;ls
+: 1445937564:0;..
+: 1445937577:0;cd ~
+: 1445937578:0;ls
+: 1445937581:0;cd /etc
+: 1445937581:0;ls
+: 1445937591:0;vi profile
+: 1445937697:0;git checkout local
+: 1445937709:0;git pull origin develop
+: 1445938411:0;ls
+: 1445938412:0;la
+: 1445938433:0;cd /Users
+: 1445938433:0;ls
+: 1445938437:0;cd toshiba
+: 1445938438:0;ls
+: 1445938439:0;la
+: 1445938447:0;vi .bash_history
+: 1445938550:0;vi .vimrc
+: 1445938602:0;vi .zsh_history
+: 1445938659:0;vi .zshrc
+: 1445939364:0;pwd
+: 1445939905:0;sudo su
+: 1445939963:0;cd /Users/toshiba
+: 1445939963:0;ls
+: 1445939965:0;ls- a
+: 1445939967:0;ls -a
+: 1445939977:0;vi .zshrc
+: 1445940023:0;j downloads
+: 1445940024:0;ls
+: 1445940025:0;pwd
+: 1445940039:0;cp .zshrc /Users/toshiba/Downloads
+: 1445940053:0;ls -a
+: 1445940066:0;cp .zshrc /Users/toshiba/Downloads/zshrc
+: 1445940209:0;j toshiba
+: 1445940212:0;ls -a
+: 1445940333:0;vi .vimrc
+: 1445940486:0;ls
+: 1445940487:0;ls -a
+: 1445940512:0;vi ~/.zshrc
+: 1445940560:0;vi ~/.zshrc.orig
+: 1445940792:0;ls -a
+: 1445940803:0;vi .zshrc
+: 1445940818:0;vi .zshrc.orig
+: 1445940863:0;cp .zshrc.orig /Users/toshiba/Downloads/zshrc.orig
+: 1445941136:0;vi .zsh-update
+: 1445941146:0;vi .zsh_history
+: 1445941189:0;cp .zsh_history /Users/toshiba/Downloads/zsh_history

@@ -1,8 +1,10 @@
 mac下 chrome Extensions所在位置
 /Users/toshiba/Library/Application Support/Google/chrome/Default/Extensions/fmcfkdaobigbkopahamahckjnifmmolc/1.1.3_0
 
+ HEAD
 access_token  08d1fe538981103e44eda493b8db327a    cc2be21be2f728f894dc7e9adf19c5f0
 
+ e48cbb86459f750779ff80f927fe856df7201011
 http://www.longdai.com/tianmangyun/bangwoyacps.do?startday=20151001&endday=20151027&key=2YHQPrpFNM3T&sign=fa2fb61088aad7442e47dd81405c38c9
 
 http://api.longdai.com/api/fundplan/getSalesPlanList?platform=mI831ZmttZ8%3D&version=VFf7yqTyVFE%3D&access_token=cc2be21be2f728f894dc7e9adf19c5f0
