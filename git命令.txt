@@ -1,6 +1,10 @@
 git命令大全 repository
 
 
+如果一个文件已经add到暂存区，还没有commit，此时如果不想要这个文件了，有两种方法：
+1，用版本库内容清空暂存区，git reset HEAD
+2，只把特定文件从暂存区删除，git rm --cache
+
 
 具体操作
 1.git add <FILE>
