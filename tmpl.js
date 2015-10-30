@@ -1,3 +1,5 @@
+http://dohko.wms.ezhe.com/toshiba
+
 mac下 chrome Extensions所在位置
 /Users/toshiba/Library/Application Support/Google/chrome/Default/Extensions/fmcfkdaobigbkopahamahckjnifmmolc/1.1.3_0
 

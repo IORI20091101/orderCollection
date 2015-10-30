@@ -50,7 +50,7 @@
 * [Java,c++,js,etc各种电子书](http://www.jb51.net/books/list422_1.html)
 * [meld版本控制](http://www.thefarsideoffailure.com/blog/brew_installed_meld)
 * [retrofit java框架](https://github.com/IORI20091101/retrofit)
-* []()
+* [Shell脚本编程](http://my.oschina.net/quanpower/blog/211701)
 * []()
 
 
@@ -141,7 +141,7 @@
 * [Cloud9 IDE nodejs在线ide](https://c9.io/iori20091101)
 * [AMAZON web服务](http://aws.amazon.com/)
 * [rackspace云](http://www.rackspace.com/cloud)
-* []()
+* [mongolab云端寄存服务商](https://mongolab.com/login/)
 
 ##其他
 * [获取hosts访问google](http://go.netsh.org/link/gethosts)
