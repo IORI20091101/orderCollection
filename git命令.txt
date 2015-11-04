@@ -1,6 +1,42 @@
 git命令大全 repository
 
 
+怎样删除 branch -a 存在而 branch 和 GitHub 上都不存在的分支?
+git fetch origin --prune
+
+或者
+git branch -d -r origin/branch_name
+
+
+与远程分支建立连接两两种情况
+一： 在本地新建分支将整个分支推送到远程分支 这种没问题
+二： 先在远程建立分支，在本地新建分支并建立联系通过一下方法
+
+    一哥们将分支push到库中，我怎么获取到他的分支信息呢？
+
+    如果安装了git客户端，直接选择fetch一下，就可以获取到了。
+
+    如果用命令行，运行 git fetch，可以将远程分支信息获取到本地，再运行 git checkout -b local-branchname origin/remote_branchname  就可以将远程分支映射到本地命名为local-branchname  的一分支。
+
+
+这种方式向线上分支推送代码汇报错
+    error: src refspec dongzhi-ms-local does not match any.
+    error: failed to push some refs to 'git@172.16.1.143:longdai/longdai.git'
+
+    可以通过方法 git push origin local-ms:dongzhi-ms-local解决但是每次提交都会有这个问题都需要这样写
+    通过以下方法来一劳永逸经实验还是不能解决问题， 只能通过上面一条命令来推送
+    git show-ref
+    git push --set-upstream origin refs/heads/the_remote_branch
+***以上错误完全可以避免 只要使用方法2新建分支时 名字与远程分支保持一致即可 类似git checkout -b local-ms origin/local-ms
+
+
+
+推送分支的时候建立当前分支与远程分支的上传连接
+git push --set-upstream origin dongzhi-ms-local
+
+
+
+
 如果一个文件已经add到暂存区，还没有commit，此时如果不想要这个文件了，有两种方法：
 1，用版本库内容清空暂存区，git reset HEAD
 2，只把特定文件从暂存区删除，git rm --cache
@@ -47,7 +83,7 @@ git push origin --delete develop  删除远程develop分支
 
 $ git branch --track (--set-upstream-to) dev origin/dev  指定本地dev分支与远程origin/dev分支的链接，根据提示，设置dev和origin/dev的链接
 Consider using --track or --set-upstream-to
-Branch dev set up to track 
+Branch dev set up to track
 
 
 git remote set-url origin git@git.gozap.com:longdai/longdai.git   将http 协议改为ssh认证
@@ -123,7 +159,7 @@ $ ssh -T git@github.com
 
 1.在执行
 
-$ git remote addorigin git@github.com:defnngj/hello-world.git
+$ git remote add origin git@github.com:defnngj/hello-world.git
 
 错误提示：fatal: remote origin already exists.
 
@@ -159,8 +195,8 @@ $ git clone git@github.com:IORI20091101/learGit.git 从远程库克隆
 
 git checkout -b dev 创建并切换分支
 
-git branch -d dev 删除dev分支
-git branch -D dev 强行删除dev分支
+git branch -d dev 删除本地dev分支
+git branch -D dev 强行删除本地dev分支
 
 git branch 查看现在所处的分支
 
