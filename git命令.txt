@@ -45,7 +45,7 @@ git push origin :develop 删除远程develop分支
 git push origin --delete develop  删除远程develop分支
 
 
-$ git branch --set-upstream dev origin/dev  指定本地dev分支与远程origin/dev分支的链接，根据提示，设置dev和origin/dev的链接
+$ git branch --track (--set-upstream-to) dev origin/dev  指定本地dev分支与远程origin/dev分支的链接，根据提示，设置dev和origin/dev的链接
 Consider using --track or --set-upstream-to
 Branch dev set up to track 
 
