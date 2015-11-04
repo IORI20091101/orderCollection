@@ -1,4 +1,6 @@
 git命令大全 repository
+git push.default设置
+http://www.kaiyuanba.cn/html/1/131/227/8029.htm
 
 
 怎样删除 branch -a 存在而 branch 和 GitHub 上都不存在的分支?
