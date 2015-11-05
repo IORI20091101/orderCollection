@@ -1,3 +1,36 @@
+MySQL查询优化之explain的深入解析
+
+/*select * from t_person where idNoAuthStatus = 2;
+
+select * from t_user where createTime>'2014-12-31 23:59:59';
+
+select a.email,a.createTime, a.id, a.mobilePhone,b.userId, b.idNoAuthStatus from t_user a join t_person b on a.id=b.userId and createTime>'2014-12-31 23:59:59' and idNoAuthStatus=2;
+
+select distinct a.* from t_user a join t_invest b on b.investor=a.id;
+
+*/
+
+-- 所有的今年实名认证的用户ID
+(select a.id from t_user a join t_person b on a.id=b.userId and createTime>'2014-12-31 23:59:59' and idNoAuthStatus=2);
+
+-- 有今年实名且为投资的用户ID
+explain select distinct investor  from t_invest where investor not in (select a.id from t_user a join t_person b on a.id=b.userId and createTime>'2014-12-31 23:59:59' and idNoAuthStatus=2);
+
+-- 所有今年实名认证 并且 已经投资的
+select count(distinct investor) from t_invest as a left join (select a.id from t_user a join t_person b on a.id=b.userId and createTime>'2014-12-31 23:59:59' and idNoAuthStatus=2) as b on (a.investor = b.id) where b.id is null;
+
+
+-- select * from xxxx where id in (1,2,3,4)
+
+-- select * from xxxd where id = 1 or id =2 or id =3 or id=4
+
+
+
+
+
+
+
+
 mysql命令大全
 
 一、MySQL 连接本地数据库，用户名为“root”，密码“123”（注意：“-p”和“123” 之间不能有空格）

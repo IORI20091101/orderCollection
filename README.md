@@ -188,6 +188,7 @@
 * [Mac装机](http://www.iplaysoft.com/osx-yosemite-usb-install-drive.html)
 * [EChart制作各种图表](http://echarts.baidu.com/index.html)
 * [fzf搜索插件](https://github.com/junegunn/fzf)
+* [MySQL查询优化之explain的深入解析](http://www.jb51.net/article/38357.htm)
 
 ###Mac需要掌握的知识，iterm2  zsh+tmux+vim  curl brew ，系统级命令
 
