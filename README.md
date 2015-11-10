@@ -51,7 +51,8 @@
 * [meld版本控制](http://www.thefarsideoffailure.com/blog/brew_installed_meld)
 * [retrofit java框架](https://github.com/IORI20091101/retrofit)
 * [Shell脚本编程](http://my.oschina.net/quanpower/blog/211701)
-* []()
+* [JetBrains注册码计算](http://idea.lanyus.com/)
+* [IntelliJ IDEA开源社区](http://www.ideajava.org/)
 
 
 
@@ -86,6 +87,7 @@
 * [页面滑动特效](http://www.yyyweb.com/demo/nivo-slider/)
 * [视察滚动](http://www.yyyweb.com/demo/parallax-slider/)
 * [jqery滚屏onepagescroll](http://www.dowebok.com/demo/118/)
+* [jQuery1.9+ 废弃的函数和方法 升级Jquery版本遇到的问题](http://www.ppblog.cn/javascripthtml/)
 
 ##css相关
 * [bootstrap](http://www.bootcss.com/)
