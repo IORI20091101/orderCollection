@@ -209,7 +209,7 @@ http://localhost:8080/tianmangyun/report.do?startday=20150918&endday=20150923&si
 http://localhost:8080/tianmangyun/bangwoyacps.do?startday=20150918&endday=20150923&sign=ae4194f41fcdbed692746e7d0e4c2044
 
 
-http://localhost:8080/payEasySyncAccountNotify.do
+http://localhost:8080/payEasySyncAccountNotify.do/www/p/longdai_proxy/729YL2X
 
 舒依玉 430211197608058844
 
