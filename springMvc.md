@@ -178,3 +178,204 @@ private int b;
  System.out.println(a);
  return " helloWorld " ;}
 ```
+
+###### 如果post请求请求头是application/x-www-form-urlencoded都可以取到值，但如果是application/json格式可以通过这两种方法取
+##### 方法一 可以取到但是不够优雅
+```
+@RequestMapping(value= " /requestParam " , method= RequestMethod.POST)
+ BufferedReader reader=request.getReader();
+        StringBuilder builder=new StringBuilder();
+        String a;
+        while ((a=reader.readLine()) != null ){
+            builder.append(a);
+        }
+        // DEBUG
+        //System.out.println(builder.toString());
+        String req = URLDecoder.decode(builder.toString(), "UTF-8");
+
+
+        System.out.println((JSONObject) JSONObject.parseObject(req));
+}
+```
+
+###### 方法二 自定义一个注解
+### 第一步自定义注解
+```
+package com.longdai.core;
+
+
+import java.lang.annotation.*;
+
+/**
+ * Created by sundongzhi on 15/11/20.
+ */
+@Documented
+@Inherited
+@Retention(RetentionPolicy.RUNTIME)
+@Target(ElementType.PARAMETER)
+public @interface JsonArg {
+
+    public String value() default "";
+
+}
+```
+###第二步HandlerMethodArgumentResolver
+```
+package com.longdai.core;
+
+import org.apache.commons.io.IOUtils;
+import org.springframework.core.MethodParameter;
+import org.springframework.util.StringUtils;
+import org.springframework.web.bind.support.WebDataBinderFactory;
+import org.springframework.web.context.request.NativeWebRequest;
+import org.springframework.web.method.support.HandlerMethodArgumentResolver;
+import org.springframework.web.method.support.ModelAndViewContainer;
+
+import javax.servlet.http.HttpServletRequest;
+import java.io.IOException;
+
+import com.jayway.jsonpath.JsonPath;
+
+
+public class JsonPathArgumentResolver implements HandlerMethodArgumentResolver{
+
+    private static final String JSONBODYATTRIBUTE = "JSON_REQUEST_BODY";
+    @Override
+    public boolean supportsParameter(MethodParameter parameter) {
+        return parameter.hasParameterAnnotation(JsonArg.class);
+    }
+
+    @Override
+    public Object resolveArgument(MethodParameter parameter, ModelAndViewContainer mavContainer, NativeWebRequest webRequest, WebDataBinderFactory binderFactory) throws Exception {
+        String body = getRequestBody(webRequest);
+        String arg = parameter.getParameterAnnotation(JsonArg.class).value();
+        if (StringUtils.isEmpty(arg)) {
+            arg = parameter.getParameterName();
+        }
+        Object val = JsonPath.parse(body).read(arg);
+        return val;
+    }
+
+    private String getRequestBody(NativeWebRequest webRequest){
+        HttpServletRequest servletRequest = webRequest.getNativeRequest(HttpServletRequest.class);
+
+        String jsonBody = (String) webRequest.getAttribute(JSONBODYATTRIBUTE, NativeWebRequest.SCOPE_REQUEST);
+        if (jsonBody==null){
+            try {
+                jsonBody = IOUtils.toString(servletRequest.getInputStream());
+                webRequest.setAttribute(JSONBODYATTRIBUTE, jsonBody, NativeWebRequest.SCOPE_REQUEST);
+            } catch (IOException e) {
+                throw new RuntimeException(e);
+            }
+        }
+        return jsonBody;
+    }
+
+}
+```
+
+### 第三步spring-mvc中声明如果是基于注解的配置需要下面的addArgumentResolvers配置方法
+
+```
+<mvc:annotation-driven>
+    <mvc:argument-resolvers>
+        <beans:bean class="com.redcollar.bl.commons.extension.JsonArgumentResolver" />
+    </mvc:argument-resolvers>
+</mvc:annotation-driven>
+
+
+
+
+@Configuration
+public class StaticResource extends WebMvcConfigurerAdapter {
+
+
+    private static final String[] RESOURCE_LOCATIONS = {
+            "classpath:/resources/",
+            "classpath:/WebRoot/",};
+    @Autowired
+    private Environment environment;
+
+    @Override
+    public void addResourceHandlers(ResourceHandlerRegistry registry) {
+
+
+        if (!registry.hasMappingForPattern("/**")) {
+            registry.addResourceHandler("/**").addResourceLocations(
+                    RESOURCE_LOCATIONS);
+        }
+
+        //如果是本地调试就用代码连接一下映射
+        if (environment.getProperty("app.profile").equals("dohko")) {
+            String currentPath = this.getClass().getResource("/").getPath();
+            String projectPath = currentPath + "../../WebRoot/";
+            System.out.println(projectPath);
+
+            registry.addResourceHandler("/vendor/**").addResourceLocations("file://" + projectPath + "/vendor/");
+
+            registry.addResourceHandler("/**").addResourceLocations("file://" + projectPath + "/dist/");
+        }
+        System.out.println(this.getClass().getResource("/").getPath());
+        //如果本地
+    }
+
+//    @Override
+//    public void configureContentNegotiation(ContentNegotiationConfigurer configurer) {
+//        configurer.defaultContentType(MediaType.TEXT_HTML);
+////        configurer.ignoreAcceptHeader(true);
+//        super.configureContentNegotiation(configurer);
+//    }
+
+    @Override
+    public void addViewControllers(ViewControllerRegistry registry) {
+        //设置默认页面
+//        registry.addViewController("/").setViewName("forward:/index.html");
+//        registry.setOrder(Ordered.HIGHEST_PRECEDENCE);
+        super.addViewControllers(registry);
+    }
+
+
+    @Override
+    public void addArgumentResolvers(List<HandlerMethodArgumentResolver> argumentResolvers) {
+        argumentResolvers.add(new JsonPathArgumentResolver());
+        super.addArgumentResolvers(argumentResolvers);
+    }
+}
+
+
+```
+### 第四步使用
+
+```
+public void addAdminUser(
+            @JsonArg("userName") String userName,
+            @JsonArg("realName") String realName,
+            @JsonArg("phone") String phone,
+            @JsonArg("email") String email,
+            @JsonArg("password") String password,
+            HttpServletResponse response
+        ) throws Exception {
+
+        ValidateUtil.assertNotEmpty(userName, new AddAdminUserException("用户名不能为空！"));
+        ValidateUtil.assertNotEmpty(realName, new AddAdminUserException("真实姓名不能为空！"));
+        ValidateUtil.assertNotEmpty(phone, new AddAdminUserException("电话号码不能为空！"));
+        ValidateUtil.assertNotEmpty(email, new AddAdminUserException("邮箱不能为空！"));
+        ValidateUtil.assertNotEmpty(password, new AddAdminUserException("密码不能为空！"));
+        Admin admin = new Admin();
+
+        admin.setUserName(userName);
+        admin.setRealName(realName);
+        admin.setPhone(phone);
+        admin.setEmail(email);
+        boolean flag = adminService.addAdminUser(admin, password);
+
+
+        if (flag) {
+            try {
+                response.getWriter().write("200");
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+    }
+```
