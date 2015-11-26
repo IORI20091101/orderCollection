@@ -35,3 +35,23 @@ var a = 4,b = 3
 a = a ^ b // 7
 b = a ^ b // 4
 a = b ^ a // 3
+
+
+
+
+
+{
+    "auto_complete": true,
+    "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+    "font_size": 16.0,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "ignored_packages":
+    [
+    ],
+    "open_files_in_new_window": false,
+    "save_on_focus_lost": true,
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true
+}
