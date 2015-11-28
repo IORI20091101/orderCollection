@@ -38,8 +38,6 @@ a = b ^ a // 3
 
 
 
-
-
 {
     "auto_complete": true,
     "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
