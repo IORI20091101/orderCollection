@@ -62,3 +62,5 @@ Linux下复制粘贴快捷键
 
           粘贴命令：Shift + Insert  组合键　　或　　单击鼠标滚轮即为粘贴。
 
+
+sudo uget-gtk
