@@ -3,6 +3,12 @@ http://dohko.wms.ezhe.com/toshiba
 mac下 chrome Extensions所在位置
 /Users/toshiba/Library/Application Support/Google/chrome/Default/Extensions/fmcfkdaobigbkopahamahckjnifmmolc/1.1.3_0
 
+
+线上新加的三台机器
+192.168.2.27 28 29
+root gozapk8s
+
+
  HEAD
 access_token  08d1fe538981103e44eda493b8db327a    cc2be21be2f728f894dc7e9adf19c5f0
 
