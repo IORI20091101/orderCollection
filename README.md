@@ -112,6 +112,7 @@
 
 ##HTML5
 * [HTML5教程&知识点](http://www.html5cn.com.cn/html5/index.html)
+* [使用Emmet(以前的zen-coding)来加快开发的效率](http://emmet.io/)
 
 ##nodejs相关
 * [NodeJS中文文档](http://nodeapi.ucdok.com/#/api/)
@@ -144,6 +145,8 @@
 * [AMAZON web服务](http://aws.amazon.com/)
 * [rackspace云](http://www.rackspace.com/cloud)
 * [mongolab云端寄存服务商](https://mongolab.com/login/)
+* [七牛云服务](http://www.qiniu.com/cdnjiangjia?utm_campaign=cdnjiangjia&utm_source=baidu&utm_medium=advposition&utm_content=png)
+* [upan云加速服务](https://www.upyun.com/zh/index.html)
 
 ##其他
 * [获取hosts访问google](http://go.netsh.org/link/gethosts)
@@ -191,6 +194,8 @@
 * [EChart制作各种图表](http://echarts.baidu.com/index.html)
 * [fzf搜索插件](https://github.com/junegunn/fzf)
 * [MySQL查询优化之explain的深入解析](http://www.jb51.net/article/38357.htm)
+* [sublimetext2安装packageControl](https://packagecontrol.io/installation#st2)
+* [sublime安装插件](https://www.qianduan.net/essential-to-sublime-the-text-2-plugins/)
 
 ###Mac需要掌握的知识，iterm2  zsh+tmux+vim  curl brew ，系统级命令
 

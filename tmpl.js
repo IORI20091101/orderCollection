@@ -58,7 +58,7 @@ rc 和 svc 的配置文件
 
 
 //用来看日志跳板机器
-ssh sundongzhi@223.202.52.182  // 跳板机器
+ssh sundongzhi@223.202.52.182  // 跳板机器 ZLY722
 
 /home/nginx/conf/vhost/longdai_com
 
