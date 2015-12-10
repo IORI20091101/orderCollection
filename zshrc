@@ -112,6 +112,10 @@ export M2_HOME=/Users/toshiba/Documents/myApp/apache-maven-3.2
 
 export CATALINA_HOME=/Users/toshiba/Documents/myapp/apache-tomcat-7.0.61
 
+export M2_HOME=/home/sundongzhi/Documents/myApp/apache-maven-3.2.3
+
+export CATALINA_HOME=/home/sundongzhi/Documents/myApp/apache-tomcat-7.0.40
+
 export PATH=$PATH:$M2_HOME/bin
 
 export LSCOLORS=gxfxbEaEBxxEhEhBaDaCaD
