@@ -1,5 +1,12 @@
 http://dohko.wms.ezhe.com/toshiba
 
+
+//longdai
+longdai2015
+
+//admin  oyCtq7EJmYitM6
+
+
 mac下 chrome Extensions所在位置
 /Users/toshiba/Library/Application Support/Google/chrome/Default/Extensions/fmcfkdaobigbkopahamahckjnifmmolc/1.1.3_0
 
@@ -238,5 +245,7 @@ kubectl get pods
 ps aux | grep fl
 
 kubectl describe pods/ezhe-m-bea44d955ad56cbb3c462b6d8c25ab2f-rqm3u
+
+http://docs.upyun.com/download/#sdk
 
 
