@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE generatorConfiguration PUBLIC
+        "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
+        "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" >
+<generatorConfiguration>
+
+    <!-- Class Driver Path -->
+
+    <classPathEntry
+            location="/Users/sundongzhi/.m2/repository/mysql/mysql-connector-java/5.1.36/mysql-connector-java-5.1.36.jar"/>
+
+    <context id="context" targetRuntime="MyBatis3">
+        <commentGenerator>
+            <!-- This property is used to specify whether MBG will include any coments in the generated code -->
+            <property name="suppressAllComments" value="false"/>
+            <!-- This property is used to specify whether MBG will include the generation timestamp in the generated comments -->
+            <property name="suppressDate" value="true"/>
+        </commentGenerator>
+
+        <!--这个是数据库的连接url和用户名密码-->
+        <jdbcConnection driverClass="com.mysql.jdbc.Driver"
+                        connectionURL="jdbc:mysql://172.16.0.10:3300/longdai_p2p_admin?characterEncoding=UTF-8"
+                        userId="root" password="gozapdev"/>
+
+        <javaTypeResolver>
+            <!-- This property is used to specify whether MyBatis Generator should force the use of java.math.BigDecimal
+      for DECIMAL and NUMERIC fields, rather than substituting integral types when possible -->
+            <property name="forceBigDecimals" value="false"/>
+        </javaTypeResolver>
+
+        <!--只需要修改 targetPackage java model定义的包名儿 -->
+        <javaModelGenerator targetPackage="com.longdai.mybatis.model" targetProject="src/main/java">
+            <!-- This property is used to select whether MyBatis Generator will generate different Java packages for
+      the objects based on the catalog and schema of the introspected table -->
+            <property name="enableSubPackages" value="false"/>
+            <!-- This property is used to select whether MyBatis Generator adds code to trim the white space from character fields returned from the database -->
+            <property name="trimStrings" value="true"/>
+        </javaModelGenerator>
+
+        <!--只需要修改 targetPackage java sqlMap定义的包名儿 -->
+        <sqlMapGenerator targetPackage="com.longdai.mybatis.mapper.xml" targetProject="src/main/java">
+            <!-- This property is used to select whether MyBatis Generator will generate different Java packages for
+      the objects based on the catalog and schema of the introspected table -->
+            <property name="enableSubPackages" value="false"/>
+        </sqlMapGenerator>
+
+        <!--只需要修改 targetPackage 这个就是那个interface 包名儿  -->
+        <!-- type字段是 客户端代码，生成易于使用的针对Model对象和XML配置文件 的代码
+               type="ANNOTATEDMAPPER",生成Java Model 和基于注解的Mapper对象
+               type="MIXEDMAPPER",生成基于注解的Java Model 和相应的Mapper对象
+               type="XMLMAPPER",生成SQLMap XML文件和独立的Mapper接口
+       -->
+        <javaClientGenerator targetPackage="com.longdai.mybatis.mapper" targetProject="src/main/java"
+                             type="MIXEDMAPPER">
+            <!-- This property is used to select whether MyBatis Generator will generate different Java packages for
+      the objects based on the catalog and schema of the introspected table -->
+            <property name="enableSubPackages" value="false"/>
+        </javaClientGenerator>
+
+        <!--具体的表 domainObjectName 是你自己定义的文件名-->
+        <table tableName="tbl_admin_employee" domainObjectName="AdminEmployee" enableCountByExample="false"
+               enableDeleteByExample="false" enableSelectByExample="false"
+               enableUpdateByExample="false"/>
+    </context>
+</generatorConfiguration>
