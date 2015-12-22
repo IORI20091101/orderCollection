@@ -36,6 +36,7 @@
 * [MacTalk By 池建强](http://macshuo.com/)
 * [百度一个前端](http://qingbob.com/tags/)
 * [金哲博客](http://jinzhe.net/category/2/)
+* [geek100](http://geek100.com/category/fed/)
 
 ##java相关
 * [使用gradle替代maven项目构建](http://www.infoq.com/cn/news/2011/04/xxb-maven-6-gradle/)
@@ -199,6 +200,7 @@
 * [MySQL查询优化之explain的深入解析](http://www.jb51.net/article/38357.htm)
 * [sublimetext2安装packageControl](https://packagecontrol.io/installation#st2)
 * [sublime安装插件](https://www.qianduan.net/essential-to-sublime-the-text-2-plugins/)
+* [天狗图片api文档](http://www.tngou.net/doc/gallery)
 
 ###Mac需要掌握的知识，iterm2  zsh+tmux+vim  curl brew ，系统级命令
 
