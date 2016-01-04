@@ -202,6 +202,9 @@
 * [sublime安装插件](https://www.qianduan.net/essential-to-sublime-the-text-2-plugins/)
 * [天狗图片api文档](http://www.tngou.net/doc/gallery)
 
+## 系统
+* [windows系统镜像下载](http://www.msdn.hk/6/209/)
+
 ###Mac需要掌握的知识，iterm2  zsh+tmux+vim  curl brew ，系统级命令
 
 ##各大公司招聘要求
