@@ -37,6 +37,7 @@
 * [百度一个前端](http://qingbob.com/tags/)
 * [金哲博客](http://jinzhe.net/category/2/)
 * [geek100](http://geek100.com/category/fed/)
+* [Axb的自我修养](http://blog.2baxb.me/)
 
 ##java相关
 * [使用gradle替代maven项目构建](http://www.infoq.com/cn/news/2011/04/xxb-maven-6-gradle/)
@@ -159,6 +160,7 @@
 * [菜鸟教程](http://www.runoob.com/)
 * [各种实用教程](http://www.w3cschool.cc/mongodb/mongodb-connections.html)
 * [在线各种文档javajdk](http://tool.oschina.net/)
+* [我的macbook应用清单](http://blog.2baxb.me/archives/1250#comments)
 * [Mac 键盘快捷键](https://support.apple.com/zh-cn/HT201236)
 * [Mac OS X Terminal 101：终端使用初级教程](http://www.renfei.org/blog/mac-os-x-terminal-101.html)
 * [Mac终端Solarized配色方案](http://www.vpsee.com/2013/09/use-the-solarized-color-theme-on-mac-os-x-terminal/)
