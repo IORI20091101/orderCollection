@@ -39,6 +39,7 @@
 * [geek100](http://geek100.com/category/fed/)
 * [Axb的自我修养](http://blog.2baxb.me/)
 * [小胡子哥的个人网站](http://www.barretlee.com/)
+* [云轩](http://www.jeffjade.com/)
 
 ##java相关
 * [使用gradle替代maven项目构建](http://www.infoq.com/cn/news/2011/04/xxb-maven-6-gradle/)
