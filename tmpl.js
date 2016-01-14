@@ -249,3 +249,10 @@ kubectl describe pods/ezhe-m-bea44d955ad56cbb3c462b6d8c25ab2f-rqm3u
 http://docs.upyun.com/download/#sdk
 
 
+
+
+解决node-gyp抱错问题
+
+cd /usr/local/lib sudo ln -s ../../lib/libSystem.B.dylib libgcc_s.10.5.dylib
+
+
