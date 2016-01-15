@@ -4,6 +4,7 @@
 
 ##技术网站
 * [github](https://github.com/IORI20091101/orderCollection)
+* [GitBook](https://www.gitbook.com/book/yeasy/docker_practice/details)
 * [stackoverflow](http://stackoverflow.com/)
 * [博客园](http://www.cnblogs.com/)
 * [CSDN](http://www.csdn.net/)
