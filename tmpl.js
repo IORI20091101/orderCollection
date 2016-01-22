@@ -256,3 +256,7 @@ http://docs.upyun.com/download/#sdk
 cd /usr/local/lib sudo ln -s ../../lib/libSystem.B.dylib libgcc_s.10.5.dylib
 
 
+http://10.10.1.164:8085/
+http://172.16.0.19:8983/solr/#/forum/query
+
+

@@ -22,6 +22,7 @@
 ##大牛
 * [Github上最受关注的前端大牛](http://code.csdn.net/news/2820990)
 * [20位活跃在Github上的国内技术大牛](http://blog.csdn.net/yaoxtao/article/details/38518933)
+* [Way Lau](http://www.waylau.com/)
 * [梦想天空](http://www.cnblogs.com/lhb25/)
 * [阮一峰](http://www.ruanyifeng.com/blog/)
 * [张鑫旭](http://www.zhangxinxu.com/wordpress/)
@@ -116,7 +117,7 @@
 * [css3矩阵变换测试](http://www.useragentman.com/matrix/)
 * [icon ui](http://huaban.com/favorite/web_app_icon/)
 * [素材库-知乎](http://www.zhihu.com/question/21757507#answer-18263202)
-
+* [flex 弹性布局](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?utm_source=tuicool)
 
 ##HTML5
 * [HTML5教程&知识点](http://www.html5cn.com.cn/html5/index.html)
