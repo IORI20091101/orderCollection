@@ -18,6 +18,11 @@
 * [Quora](http://www.quora.com/)
 * [前端外刊评论](http://zhuanlan.zhihu.com/FrontendMagazine)
 * [编程网志](http://www.codeweblog.com/category/javascript%E6%8A%80%E5%B7%A7/)
+* [前端程序员：月薪5K到5万，我干了啥](http://developer.51cto.com/art/201601/504446.htm)
+* [淘宝UED官方博客](http://ued.taobao.org/blog/2014/04/full-stack-development-with-nodejs/)
+
+
+
 
 ##大牛
 * [Github上最受关注的前端大牛](http://code.csdn.net/news/2820990)
@@ -42,6 +47,7 @@
 * [Axb的自我修养](http://blog.2baxb.me/)
 * [小胡子哥的个人网站](http://www.barretlee.com/)
 * [云轩](http://www.jeffjade.com/)
+* [WEBDESIGNER](http://www.1stwebdesigner.com/best-modern-fonts/)
 
 ##java相关
 * [使用gradle替代maven项目构建](http://www.infoq.com/cn/news/2011/04/xxb-maven-6-gradle/)
@@ -118,6 +124,8 @@
 * [icon ui](http://huaban.com/favorite/web_app_icon/)
 * [素材库-知乎](http://www.zhihu.com/question/21757507#answer-18263202)
 * [flex 弹性布局](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?utm_source=tuicool)
+* [微信ui](http://weui.github.io/weui/)
+* [微信平台api文档](http://mp.weixin.qq.com/wiki/2/ae9782fb42e47ad79eb7b361c2149d16.html)
 
 ##HTML5
 * [HTML5教程&知识点](http://www.html5cn.com.cn/html5/index.html)
@@ -160,6 +168,7 @@
 ##其他
 * [获取hosts访问google](http://go.netsh.org/link/gethosts)
 * [BootCDN稳定、快速、免费的开源项目 CDN 服务](http://www.bootcdn.cn/)
+* [Google CDN](https://developers.google.com/speed/libraries/?csw=1#angularjs)
 * [各种实用教程包括mongodb，java ，mysql ruby，python](http://www.yiibai.com/)
 * [菜鸟教程](http://www.runoob.com/)
 * [各种实用教程](http://www.w3cschool.cc/mongodb/mongodb-connections.html)
@@ -210,6 +219,7 @@
 
 ## 系统
 * [windows系统镜像下载](http://www.msdn.hk/6/209/)
+* [ps软件资源](http://www.cgown.com/mac/mac-software/17517.html?plg_nld=1&plg_uin=1&plg_auth=1&plg_nld=1&plg_usr=1&plg_vkey=1&plg_dev=1)
 
 ###Mac需要掌握的知识，iterm2  zsh+tmux+vim  curl brew ，系统级命令
 
