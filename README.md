@@ -217,6 +217,14 @@
 * [sublime安装插件](https://www.qianduan.net/essential-to-sublime-the-text-2-plugins/)
 * [天狗图片api文档](http://www.tngou.net/doc/gallery)
 
+## 工具(图片优化工具）
+* [mac工具图片无损压缩工具](https://imageoptim.com/)
+* [跨平台png图片优化工具支持命令行](http://optipng.sourceforge.net/)
+* [windows下png的图片压缩工具](http://advsys.net/ken/util/pngout.htm)
+* [gif转换成png图片](http://imagemagick.org/script/binary-releases.php)
+* [jpeg图片压缩工具](http://jpegclub.org/)
+* [gif图片优化工具](http://www.lcdf.org/gifsicle/)
+
 ## 系统
 * [windows系统镜像下载](http://www.msdn.hk/6/209/)
 * [ps软件资源](http://www.cgown.com/mac/mac-software/17517.html?plg_nld=1&plg_uin=1&plg_auth=1&plg_nld=1&plg_usr=1&plg_vkey=1&plg_dev=1)
