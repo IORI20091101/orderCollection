@@ -102,6 +102,7 @@
 * [jQuery1.9+ 废弃的函数和方法 升级Jquery版本遇到的问题](http://www.ppblog.cn/javascripthtml/)
 * [jsfiddle js代码验证](http://jsfiddle.net/sundongzhi/v77x8dre/3/)
 * [plunker js代码验证](http://plnkr.co/edit/CW1OaoFiGCST6WulSVxb?p=preview)
+* [sweetAlert弹出框](http://t4t5.github.io/sweetalert/)
 
 ##css相关
 * [bootstrap](http://www.bootcss.com/)
