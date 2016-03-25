@@ -48,6 +48,7 @@
 * [小胡子哥的个人网站](http://www.barretlee.com/)
 * [云轩](http://www.jeffjade.com/)
 * [WEBDESIGNER](http://www.1stwebdesigner.com/best-modern-fonts/)
+* [又一个码农站点](http://www.cnphp6.com/archives/137018)
 
 ##java相关
 * [使用gradle替代maven项目构建](http://www.infoq.com/cn/news/2011/04/xxb-maven-6-gradle/)
