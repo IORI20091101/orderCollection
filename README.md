@@ -66,6 +66,7 @@
 * [Shell脚本编程](http://my.oschina.net/quanpower/blog/211701)
 * [JetBrains注册码计算](http://idea.lanyus.com/)
 * [IntelliJ IDEA开源社区](http://www.ideajava.org/)
+* [使用Thymeleaf 代替jsp， thymeleaf中文教程](http://www.cnblogs.com/vinphy/p/4674247.html)
 
 
 
@@ -230,6 +231,8 @@
 ## 系统
 * [windows系统镜像下载](http://www.msdn.hk/6/209/)
 * [ps软件资源](http://www.cgown.com/mac/mac-software/17517.html?plg_nld=1&plg_uin=1&plg_auth=1&plg_nld=1&plg_usr=1&plg_vkey=1&plg_dev=1)
+* [mac如何将hdd ssd 组合成funsion混合硬盘装机](http://www.macuknow.com/node/21313)
+
 
 ###Mac需要掌握的知识，iterm2  zsh+tmux+vim  curl brew ，系统级命令
 
