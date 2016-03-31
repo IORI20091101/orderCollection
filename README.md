@@ -156,6 +156,7 @@
 * [jade语法](http://jade-syntax.coffee-js.org/)
 * [phantomjs](http://www.tuicool.com/articles/beeMNj)
 * [nodejs框架](http://www.csdn.net/article/2014-02-24/2818519-node-js-mvc-frameworks-for-javascript-developers)
+* [阮一峰测试mocha](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
 
 ##专供Node的云主机和IDE服务
 * [heroku](http://www.heroku.com/)
