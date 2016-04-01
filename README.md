@@ -236,6 +236,9 @@
 * [mac如何将hdd ssd 组合成funsion混合硬盘装机](http://www.macuknow.com/node/21313)
 
 
+## 网络
+* [ShadowSocks+ 推荐vpn和socket购买](http://www.jianshu.com/p/08ba65d1f91a)
+
 ###Mac需要掌握的知识，iterm2  zsh+tmux+vim  curl brew ，系统级命令
 
 ##各大公司招聘要求
