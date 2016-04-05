@@ -237,6 +237,8 @@
 
 
 ## 网络
+* [shadowsocks账户管理](https://portal.shadowsocks.com/clientarea.php)
+* [shadowsocks官网](https://shadowsocks.com/)
 * [ShadowSocks+ 推荐vpn和socket购买](http://www.jianshu.com/p/08ba65d1f91a)
 
 ###Mac需要掌握的知识，iterm2  zsh+tmux+vim  curl brew ，系统级命令
