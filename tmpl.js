@@ -260,3 +260,6 @@ http://10.10.1.164:8085/
 http://172.16.0.19:8983/solr/#/forum/query
 
 
+解决 Error: No provider for "framework:jasmine"! (Resolving: framework:jasmine)
+https://github.com/karma-runner/karma/issues/880
+
