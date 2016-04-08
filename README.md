@@ -3,6 +3,7 @@
 #目前所有有用网站大集合
 
 ##技术网站
+* [前端大牛们都学过哪些东西？](http://wx.shenchuang.com/article/2015-09-05/1176147.html)
 * [github](https://github.com/IORI20091101/orderCollection)
 * [GitBook](https://www.gitbook.com/book/yeasy/docker_practice/details)
 * [stackoverflow](http://stackoverflow.com/)
