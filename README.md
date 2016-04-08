@@ -67,7 +67,8 @@
 * [JetBrains注册码计算](http://idea.lanyus.com/)
 * [IntelliJ IDEA开源社区](http://www.ideajava.org/)
 * [使用Thymeleaf 代替jsp， thymeleaf中文教程](http://www.cnblogs.com/vinphy/p/4674247.html)
-
+* [在线各种文档javajdk](http://tool.oschina.net/)
+* [Ant](http://www.cnblogs.com/xionghui/archive/2012/03/13/2393679.html)
 
 
 
@@ -105,6 +106,9 @@
 * [jsfiddle js代码验证](http://jsfiddle.net/sundongzhi/v77x8dre/3/)
 * [plunker js代码验证](http://plnkr.co/edit/CW1OaoFiGCST6WulSVxb?p=preview)
 * [sweetAlert弹出框](http://t4t5.github.io/sweetalert/)
+* [multipage](https://github.com/requirejs/example-multipage/blob/master/tools/build.js)
+
+
 
 ##css相关
 * [bootstrap](http://www.bootcss.com/)
@@ -124,11 +128,20 @@
 * [css3代码验证类似jsfiddler](http://dabblet.com/)
 * [css3小图标网站](http://fico.lensco.be/)
 * [css3矩阵变换测试](http://www.useragentman.com/matrix/)
+
+
+##ui素材&设计
+* [Matrix Admin](http://themedesigner.in/demo/matrix-admin/index.html)
+* [扁平化设计文章1](http://uxc.360.cn/archives/1430.html)
+* [扁平化设计文章2](http://www.csdn.net/article/2013-05-29/2815475-flat-design-principles)--[原文链接](http://designmodo.com/flat-design-principles/)
+* [视差滚动](http://www.yixieshi.com/ucd/13609.html)
+* [easyicon素材](http://www.easyicon.net/language.zh-cn/)
 * [icon ui](http://huaban.com/favorite/web_app_icon/)
 * [素材库-知乎](http://www.zhihu.com/question/21757507#answer-18263202)
 * [flex 弹性布局](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?utm_source=tuicool)
 * [微信ui](http://weui.github.io/weui/)
 * [微信平台api文档](http://mp.weixin.qq.com/wiki/2/ae9782fb42e47ad79eb7b361c2149d16.html)
+
 
 ##HTML5
 * [HTML5教程&知识点](http://www.html5cn.com.cn/html5/index.html)
@@ -158,26 +171,41 @@
 * [nodejs框架](http://www.csdn.net/article/2014-02-24/2818519-node-js-mvc-frameworks-for-javascript-developers)
 * [阮一峰测试mocha](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
 
-##专供Node的云主机和IDE服务
-* [heroku](http://www.heroku.com/)
-* [nodejitsu](https://www.nodejitsu.com/)
-* [VMware的CoundFoundry](http://pivotal.io/platform)
-* [Microsoft的nodejs Azure SDK](https://azure.microsoft.com/en-us/develop/nodejs/)
-* [Cloud9 IDE nodejs在线ide](https://c9.io/iori20091101)
-* [AMAZON web服务](http://aws.amazon.com/)
-* [rackspace云](http://www.rackspace.com/cloud)
-* [mongolab云端寄存服务商](https://mongolab.com/login/)
-* [七牛云服务](http://www.qiniu.com/cdnjiangjia?utm_campaign=cdnjiangjia&utm_source=baidu&utm_medium=advposition&utm_content=png)
-* [upan云加速服务](https://www.upyun.com/zh/index.html)
 
-##其他
+
+
+
+## 各种工具(图片优化工具+ui）
+* [mac工具图片无损压缩工具](https://imageoptim.com/)
+* [跨平台png图片优化工具支持命令行](http://optipng.sourceforge.net/)
+* [windows下png的图片压缩工具](http://advsys.net/ken/util/pngout.htm)
+* [gif转换成png图片](http://imagemagick.org/script/binary-releases.php)
+* [jpeg图片压缩工具](http://jpegclub.org/)
+* [gif图片优化工具](http://www.lcdf.org/gifsicle/)
+* [天狗图片api文档](http://www.tngou.net/doc/gallery)
+* [在线生成favicon.ico图标](http://www.faviconico.org/favicon)
+* [画流程图工具](https://www.processon.com/)
+
+
+## 系统
+* [windows系统镜像下载](http://www.msdn.hk/6/209/)
+* [ps软件资源](http://www.cgown.com/mac/mac-software/17517.html?plg_nld=1&plg_uin=1&plg_auth=1&plg_nld=1&plg_usr=1&plg_vkey=1&plg_dev=1)
+* [mac如何将hdd ssd 组合成funsion混合硬盘装机](http://www.macuknow.com/node/21313)
+
+
+## 网络
 * [获取hosts访问google](http://go.netsh.org/link/gethosts)
+* [shadowsocks账户管理](https://portal.shadowsocks.com/clientarea.php)
+* [shadowsocks官网](https://shadowsocks.com/)
+* [ShadowSocks+ 推荐vpn和socket购买](http://www.jianshu.com/p/08ba65d1f91a)
+
+
+##CDN
 * [BootCDN稳定、快速、免费的开源项目 CDN 服务](http://www.bootcdn.cn/)
 * [Google CDN](https://developers.google.com/speed/libraries/?csw=1#angularjs)
-* [各种实用教程包括mongodb，java ，mysql ruby，python](http://www.yiibai.com/)
-* [菜鸟教程](http://www.runoob.com/)
-* [各种实用教程](http://www.w3cschool.cc/mongodb/mongodb-connections.html)
-* [在线各种文档javajdk](http://tool.oschina.net/)
+
+
+##Mac相关
 * [我的macbook应用清单](http://blog.2baxb.me/archives/1250#comments)
 * [Mac 键盘快捷键](https://support.apple.com/zh-cn/HT201236)
 * [Mac OS X Terminal 101：终端使用初级教程](http://www.renfei.org/blog/mac-os-x-terminal-101.html)
@@ -193,10 +221,8 @@
 * [文本三巨头：zsh、tmux 和 vim](http://blog.jobbole.com/86571/)
 * [教你用WordPress搭建一个简单的个人博客](http://www.jianshu.com/p/d4beb61fc3c0)
 * [配置LINUX下DIRCOLORS,LS命令和MAC下ITERM2的颜色,让终端(ITERM2或TERMINAL)也色彩缤纷](http://blog.bbkanba.com/%E9%85%8D%E7%BD%AElinux%E4%B8%8Bdircolorsls%E5%91%BD%E4%BB%A4%E5%92%8Cmac%E4%B8%8Biterm2%E7%9A%84%E9%A2%9C%E8%89%B2%E8%AE%A9%E7%BB%88%E7%AB%AFiterm2%E6%88%96terminal%E4%B9%9F%E8%89%B2%E5%BD%A9/)
-* [社工库](http://www.wamima.com/)
-* [SQL注入之SQLmap入门](http://www.freebuf.com/articles/web/29942.html)
-* [安全漏洞检测平台](http://www.wooyun.org/)
-* [超过130个你需要了解的vim命令](http://www.oschina.net/news/43167/130-essential-vim-commands)
+* [Retina屏幕的mac令人神清目爽的壁纸](https://www.desktoppr.co/)
+* [Mac装机](http://www.iplaysoft.com/osx-yosemite-usb-install-drive.html)
 * [vi命令大全](http://www.cnblogs.com/welkinwalker/archive/2010/05/14/1735805.html)
 * [vim命令](http://www.cnblogs.com/softwaretesting/archive/2011/07/12/2104435.html)
 * [git教程](http://www.nutzam.com/core/committer/git_project.html)
@@ -204,42 +230,38 @@
 * [git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000#0)
 * [CURL命令](http://www.thegeekstuff.com/2012/04/curl-examples/)
 * [markedown](http://markable.in/editor/)
-* [画流程图工具](https://www.processon.com/)
+
+##专供Node的云主机和IDE服务
+* [heroku](http://www.heroku.com/)
+* [nodejitsu](https://www.nodejitsu.com/)
+* [VMware的CoundFoundry](http://pivotal.io/platform)
+* [Microsoft的nodejs Azure SDK](https://azure.microsoft.com/en-us/develop/nodejs/)
+* [Cloud9 IDE nodejs在线ide](https://c9.io/iori20091101)
+* [AMAZON web服务](http://aws.amazon.com/)
+* [rackspace云](http://www.rackspace.com/cloud)
+* [mongolab云端寄存服务商](https://mongolab.com/login/)
+* [七牛云服务](http://www.qiniu.com/cdnjiangjia?utm_campaign=cdnjiangjia&utm_source=baidu&utm_medium=advposition&utm_content=png)
+* [upan云加速服务](https://www.upyun.com/zh/index.html)
+
+
+
+##其他
+* [各种实用教程包括mongodb，java ，mysql ruby，python](http://www.yiibai.com/)
+* [菜鸟教程](http://www.runoob.com/)
+* [各种实用教程](http://www.w3cschool.cc/mongodb/mongodb-connections.html)
+* [社工库](http://www.wamima.com/)
+* [SQL注入之SQLmap入门](http://www.freebuf.com/articles/web/29942.html)
+* [安全漏洞检测平台](http://www.wooyun.org/)
+* [超过130个你需要了解的vim命令](http://www.oschina.net/news/43167/130-essential-vim-commands)
 * [Chrome 使用技巧](http://www.yyyweb.com/3604.html)
-* [Ant](http://www.cnblogs.com/xionghui/archive/2012/03/13/2393679.html)
 * [公司代码](http://git.gozap.com/)
-* [multipage](https://github.com/requirejs/example-multipage/blob/master/tools/build.js)
-* [Matrix Admin](http://themedesigner.in/demo/matrix-admin/index.html)
-* [扁平化设计文章1](http://uxc.360.cn/archives/1430.html)
-* [扁平化设计文章2](http://www.csdn.net/article/2013-05-29/2815475-flat-design-principles)--[原文链接](http://designmodo.com/flat-design-principles/)
-* [视差滚动](http://www.yixieshi.com/ucd/13609.html)
-* [Retina屏幕的mac令人神清目爽的壁纸](https://www.desktoppr.co/)
-* [Mac装机](http://www.iplaysoft.com/osx-yosemite-usb-install-drive.html)
 * [EChart制作各种图表](http://echarts.baidu.com/index.html)
 * [fzf搜索插件](https://github.com/junegunn/fzf)
 * [MySQL查询优化之explain的深入解析](http://www.jb51.net/article/38357.htm)
 * [sublimetext2安装packageControl](https://packagecontrol.io/installation#st2)
 * [sublime安装插件](https://www.qianduan.net/essential-to-sublime-the-text-2-plugins/)
-* [天狗图片api文档](http://www.tngou.net/doc/gallery)
-
-## 工具(图片优化工具）
-* [mac工具图片无损压缩工具](https://imageoptim.com/)
-* [跨平台png图片优化工具支持命令行](http://optipng.sourceforge.net/)
-* [windows下png的图片压缩工具](http://advsys.net/ken/util/pngout.htm)
-* [gif转换成png图片](http://imagemagick.org/script/binary-releases.php)
-* [jpeg图片压缩工具](http://jpegclub.org/)
-* [gif图片优化工具](http://www.lcdf.org/gifsicle/)
-
-## 系统
-* [windows系统镜像下载](http://www.msdn.hk/6/209/)
-* [ps软件资源](http://www.cgown.com/mac/mac-software/17517.html?plg_nld=1&plg_uin=1&plg_auth=1&plg_nld=1&plg_usr=1&plg_vkey=1&plg_dev=1)
-* [mac如何将hdd ssd 组合成funsion混合硬盘装机](http://www.macuknow.com/node/21313)
 
 
-## 网络
-* [shadowsocks账户管理](https://portal.shadowsocks.com/clientarea.php)
-* [shadowsocks官网](https://shadowsocks.com/)
-* [ShadowSocks+ 推荐vpn和socket购买](http://www.jianshu.com/p/08ba65d1f91a)
 
 ###Mac需要掌握的知识，iterm2  zsh+tmux+vim  curl brew ，系统级命令
 
