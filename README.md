@@ -22,7 +22,7 @@
 * [前端程序员：月薪5K到5万，我干了啥](http://developer.51cto.com/art/201601/504446.htm)
 * [淘宝UED官方博客](http://ued.taobao.org/blog/2014/04/full-stack-development-with-nodejs/)
 * [Get社区](http://get.ftqq.com/#)
-
+* [blog.codding.net](https://blog.coding.net/technology/blogs)
 
 
 ##大牛
