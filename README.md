@@ -171,7 +171,7 @@
 * [phantomjs](http://www.tuicool.com/articles/beeMNj)
 * [nodejs框架](http://www.csdn.net/article/2014-02-24/2818519-node-js-mvc-frameworks-for-javascript-developers)
 * [阮一峰测试mocha](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
-
+* [前端构建之gulp与常用插件](http://www.mamicode.com/info-detail-517085.html)
 
 
 
