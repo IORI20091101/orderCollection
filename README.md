@@ -109,7 +109,8 @@
 * [plunker js代码验证](http://plnkr.co/edit/CW1OaoFiGCST6WulSVxb?p=preview)
 * [sweetAlert弹出框](http://t4t5.github.io/sweetalert/)
 * [multipage](https://github.com/requirejs/example-multipage/blob/master/tools/build.js)
-
+* [EChart制作各种图表](http://echarts.baidu.com/index.html)
+* [Chart.js 各种图表数据统计](http://www.chartjs.org/docs/)
 
 
 ##css相关
@@ -257,7 +258,6 @@
 * [超过130个你需要了解的vim命令](http://www.oschina.net/news/43167/130-essential-vim-commands)
 * [Chrome 使用技巧](http://www.yyyweb.com/3604.html)
 * [公司代码](http://git.gozap.com/)
-* [EChart制作各种图表](http://echarts.baidu.com/index.html)
 * [fzf搜索插件](https://github.com/junegunn/fzf)
 * [MySQL查询优化之explain的深入解析](http://www.jb51.net/article/38357.htm)
 * [sublimetext2安装packageControl](https://packagecontrol.io/installation#st2)
