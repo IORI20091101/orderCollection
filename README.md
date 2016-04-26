@@ -112,11 +112,16 @@
 * [EChart制作各种图表](http://echarts.baidu.com/index.html)
 * [Chart.js 各种图表数据统计](http://www.chartjs.org/docs/)
 
+##调试js
+* [移动端Web开发调试之Weinre调试教程](http://blog.csdn.net/freshlover/article/details/42640253)
+* [使用jsconsole调试](http://jsconsole.com/?%3Alisten)
+
 
 ##css相关
 * [bootstrap](http://www.bootcss.com/)
+* [Angular material 作为angularj后台标准配备](https://material.angularjs.org/latest/)
 * [Material Design ](http://wiki.jikexueyuan.com/project/material-design/)
-* [html5boilerplate](http://www.bootcss.com/p/html5boilerplate/)
+* [Foundation 前端css框架类似bootstrap](http://foundation.zurb.com/sites/getting-started.html)
 * [css参考手册](http://www.css88.com/book/css/)
 * [css参考手册V3.4.0](http://www.html5cn.com.cn/book/css/index.htm)
 * [less教程](http://less.bootcss.com/features/)
@@ -131,6 +136,8 @@
 * [css3代码验证类似jsfiddler](http://dabblet.com/)
 * [css3小图标网站](http://fico.lensco.be/)
 * [css3矩阵变换测试](http://www.useragentman.com/matrix/)
+* [css3线性渐变代码在线生成工具自带前缀](http://www.colorzilla.com/gradient-editor/)
+* [自动加前缀的css3工具](http://css3please.com/)
 
 
 ##ui素材&设计
@@ -147,6 +154,8 @@
 
 
 ##HTML5
+* [html5boilerplate](http://www.bootcss.com/p/html5boilerplate/)
+* [diveintohtml5 easy to handle html5](http://diveintohtml5.info/)
 * [HTML5教程&知识点](http://www.html5cn.com.cn/html5/index.html)
 * [使用Emmet(以前的zen-coding)来加快开发的效率](http://emmet.io/)
 
@@ -186,6 +195,7 @@
 * [jpeg图片压缩工具](http://jpegclub.org/)
 * [gif图片优化工具](http://www.lcdf.org/gifsicle/)
 * [天狗图片api文档](http://www.tngou.net/doc/gallery)
+* [获取小猫图片的service](http://placekitten.com/)
 * [在线生成favicon.ico图标](http://www.faviconico.org/favicon)
 * [画流程图工具](https://www.processon.com/)
 
