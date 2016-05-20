@@ -261,6 +261,8 @@
 
 
 ##其他
+* [大汇总](http://www.w3cfuns.com/notes/18186/714fccfb15f26c9858a163918b39a944.html)
+* [各种教程](http://www.runoob.com/)
 * [各种实用教程包括mongodb，java ，mysql ruby，python](http://www.yiibai.com/)
 * [菜鸟教程](http://www.runoob.com/)
 * [各种实用教程](http://www.w3cschool.cc/mongodb/mongodb-connections.html)
