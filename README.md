@@ -111,6 +111,8 @@
 * [multipage](https://github.com/requirejs/example-multipage/blob/master/tools/build.js)
 * [EChart制作各种图表](http://echarts.baidu.com/index.html)
 * [Chart.js 各种图表数据统计](http://www.chartjs.org/docs/)
+* [hammerjs 多手势触控](http://hammerjs.github.io/)
+* [使用Cordova封装webapp](http://cordova.apache.org/)
 
 ##调试js
 * [移动端Web开发调试之Weinre调试教程](http://blog.csdn.net/freshlover/article/details/42640253)
@@ -118,6 +120,7 @@
 
 
 ##css相关
+* [GreenSock页面动画以及游戏可以引入该库震撼效果。搜索TweenLite 和 TweenMax](http://greensock.com/)
 * [bootstrap](http://www.bootcss.com/)
 * [Angular material 作为angularj后台标准配备](https://material.angularjs.org/latest/)
 * [Material Design ](http://wiki.jikexueyuan.com/project/material-design/)
