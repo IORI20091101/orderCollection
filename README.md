@@ -199,6 +199,7 @@
 * [gif图片优化工具](http://www.lcdf.org/gifsicle/)
 * [天狗图片api文档](http://www.tngou.net/doc/gallery)
 * [获取小猫图片的service](http://placekitten.com/)
+* [获取天气信息的api接口](https://www.wunderground.com/weather/api/)
 * [在线生成favicon.ico图标](http://www.faviconico.org/favicon)
 * [画流程图工具](https://www.processon.com/)
 
@@ -262,6 +263,10 @@
 * [upan云加速服务](https://www.upyun.com/zh/index.html)
 
 
+## 其他语言
+* [zombie.js官网](http://zombie.js.org/)
+* [Zombie.js ](http://www.jianshu.com/p/0a0af07d95d1)
+* [PhantomJS > Selenium](http://phantomjs.org/)
 
 ##其他
 * [大汇总](http://www.w3cfuns.com/notes/18186/714fccfb15f26c9858a163918b39a944.html)
