@@ -21,3 +21,14 @@
 ### meta标签 <meta name="fragment" content="!"> 解决seo问题
 
 ### 防止ui抖动， ng-cloak ng-bind
+
+
+### 使用$interpolate服务来手动编译模板
+
+### 使用ng-messages 来进行表单验证错误处理
+
+### 使用Angular.module('myApp',[]).run(['$rootScope',function($rootScope) {}]) 来监听路由变化
+
+### resolve:{} 列表中的元素会被注入到控制器中
+
+### 使用行内注入声明不需要显示的调用$injector

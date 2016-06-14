@@ -105,8 +105,6 @@
 * [视察滚动](http://www.yyyweb.com/demo/parallax-slider/)
 * [jqery滚屏onepagescroll](http://www.dowebok.com/demo/118/)
 * [jQuery1.9+ 废弃的函数和方法 升级Jquery版本遇到的问题](http://www.ppblog.cn/javascripthtml/)
-* [jsfiddle js代码验证](http://jsfiddle.net/sundongzhi/v77x8dre/3/)
-* [plunker js代码验证](http://plnkr.co/edit/CW1OaoFiGCST6WulSVxb?p=preview)
 * [sweetAlert弹出框](http://t4t5.github.io/sweetalert/)
 * [multipage](https://github.com/requirejs/example-multipage/blob/master/tools/build.js)
 * [EChart制作各种图表](http://echarts.baidu.com/index.html)
@@ -117,7 +115,9 @@
 ##调试js
 * [移动端Web开发调试之Weinre调试教程](http://blog.csdn.net/freshlover/article/details/42640253)
 * [使用jsconsole调试](http://jsconsole.com/?%3Alisten)
-
+* [jsfiddle js代码验证](http://jsfiddle.net/sundongzhi/v77x8dre/3/)
+* [plunker js代码验证](http://plnkr.co/edit/CW1OaoFiGCST6WulSVxb?p=preview)
+* [jsbin js代码验证demo](http://jsbin.com/oDeFuCAW/1/edit?html,js,output)
 
 ##css相关
 * [GreenSock页面动画以及游戏可以引入该库震撼效果。搜索TweenLite 和 TweenMax](http://greensock.com/)
@@ -125,6 +125,8 @@
 * [Angular material 作为angularj后台标准配备](https://material.angularjs.org/latest/)
 * [Material Design ](http://wiki.jikexueyuan.com/project/material-design/)
 * [Foundation 前端css框架类似bootstrap](http://foundation.zurb.com/sites/getting-started.html)
+* [semantic-ui 类似bootstrap](http://semantic-ui.com/introduction/getting-started.html)
+* [useThePlatform to build a better web](https://www.polymer-project.org/1.0/)
 * [css参考手册](http://www.css88.com/book/css/)
 * [css参考手册V3.4.0](http://www.html5cn.com.cn/book/css/index.htm)
 * [less教程](http://less.bootcss.com/features/)
