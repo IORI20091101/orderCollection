@@ -113,11 +113,13 @@
 * [使用Cordova封装webapp](http://cordova.apache.org/)
 
 ##调试js
+* [根据网页变化自动更新页面无需刷新](http://livereload.com/)
 * [移动端Web开发调试之Weinre调试教程](http://blog.csdn.net/freshlover/article/details/42640253)
 * [使用jsconsole调试](http://jsconsole.com/?%3Alisten)
 * [jsfiddle js代码验证](http://jsfiddle.net/sundongzhi/v77x8dre/3/)
 * [plunker js代码验证](http://plnkr.co/edit/CW1OaoFiGCST6WulSVxb?p=preview)
 * [jsbin js代码验证demo](http://jsbin.com/oDeFuCAW/1/edit?html,js,output)
+* [codeopen js代码验证](http://codepen.io/pen/)
 
 ##css相关
 * [GreenSock页面动画以及游戏可以引入该库震撼效果。搜索TweenLite 和 TweenMax](http://greensock.com/)
