@@ -28,6 +28,8 @@
 ##大牛
 * [Github上最受关注的前端大牛](http://code.csdn.net/news/2820990)
 * [20位活跃在Github上的国内技术大牛](http://blog.csdn.net/yaoxtao/article/details/38518933)
+* [公司前端开发架构改造](http://oldli.net/)
+* [vajoy](http://www.cnblogs.com/vajoy/p/5341664.html)
 * [Way Lau](http://www.waylau.com/)
 * [梦想天空](http://www.cnblogs.com/lhb25/)
 * [阮一峰](http://www.ruanyifeng.com/blog/)
@@ -111,6 +113,8 @@
 * [Chart.js 各种图表数据统计](http://www.chartjs.org/docs/)
 * [hammerjs 多手势触控](http://hammerjs.github.io/)
 * [使用Cordova封装webapp](http://cordova.apache.org/)
+* [使用webpack来管理模块](http://webpack.github.io/docs/list-of-loaders.html)
+* [基于webpack搭建前端工程解决方案探索 #10](https://github.com/chemdemo/chemdemo.github.io/issues/10)
 
 ##调试js
 * [根据网页变化自动更新页面无需刷新](http://livereload.com/)
