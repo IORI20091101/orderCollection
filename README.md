@@ -115,6 +115,7 @@
 * [使用Cordova封装webapp](http://cordova.apache.org/)
 * [使用webpack来管理模块](http://webpack.github.io/docs/list-of-loaders.html)
 * [基于webpack搭建前端工程解决方案探索 #10](https://github.com/chemdemo/chemdemo.github.io/issues/10)
+* [根据javascript文件中注释信息，生成JavaScript应用程序或库、模块的API文档](http://www.css88.com/doc/jsdoc/index.html)
 
 ##调试js
 * [根据网页变化自动更新页面无需刷新](http://livereload.com/)
@@ -149,6 +150,8 @@
 * [css3矩阵变换测试](http://www.useragentman.com/matrix/)
 * [css3线性渐变代码在线生成工具自带前缀](http://www.colorzilla.com/gradient-editor/)
 * [自动加前缀的css3工具](http://css3please.com/)
+* [通过SVG / CSS / GIF打造Ajax加载图标！](http://loading.io/)
+* [令人愉快的和注重性能的纯CSS加载动画 Loaders.css](https://connoratherton.com/loaders)
 
 
 ##ui素材&设计
@@ -292,6 +295,7 @@
 * [MySQL查询优化之explain的深入解析](http://www.jb51.net/article/38357.htm)
 * [sublimetext2安装packageControl](https://packagecontrol.io/installation#st2)
 * [sublime安装插件](https://www.qianduan.net/essential-to-sublime-the-text-2-plugins/)
+* [iphone6奇怪分辨率的原因](https://www.paintcodeapp.com/news/iphone-6-screens-demystified)
 
 
 
