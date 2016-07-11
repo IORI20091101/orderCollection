@@ -303,6 +303,7 @@
 ###Mac需要掌握的知识，iterm2  zsh+tmux+vim  curl brew ，系统级命令
 
 ##各大公司招聘要求
+* 网页加载优化方案：bigpipe，bigrender，lazyrender
 * 优化性能：用BigRender、Ajax合并、静态化等先进技术让页面飞起来；
 * 推进自动化：从自动化浏览器测试、JavaScript主动预警，到基于Grunt的开发工具，不断地提高开发效率和代码质量；
 * 梳理通用UI：与UED一道，发现、沉淀通用视觉元素，输出一致、贴心、精细的产品体验；
