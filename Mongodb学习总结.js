@@ -177,3 +177,8 @@ mongo 程序启动时会默认选定 test 数据库。如果你希望知道当�
     等同mysql 的：select distinct name  from users  where age>30
 
 
+
+20. 链接mongoLab  https://mlab.com/home
+https://api.mlab.com/api/1/databases/mydb/collections/todos?apiKey=8fPm07m0sU6M-hDrOgREFy3cXy6uUxXo
+
+
