@@ -3,6 +3,7 @@
 #目前所有有用网站大集合
 
 ##技术网站
+* [前端JSer装逼手册](https://segmentfault.com/a/1190000005987011)
 * [前端大牛们都学过哪些东西？](http://wx.shenchuang.com/article/2015-09-05/1176147.html)
 * [github](https://github.com/IORI20091101/orderCollection)
 * [GitBook](https://www.gitbook.com/book/yeasy/docker_practice/details)
@@ -133,7 +134,10 @@
 * [Angular material 作为angularj后台标准配备](https://material.angularjs.org/latest/)
 * [Material Design ](http://wiki.jikexueyuan.com/project/material-design/)
 * [Foundation 前端css框架类似bootstrap](http://foundation.zurb.com/sites/getting-started.html)
+* [Ant Design](http://ant.design/)
 * [semantic-ui 类似bootstrap](http://semantic-ui.com/introduction/getting-started.html)
+* [uikit](http://www.getuikit.net/)
+* [Amaze Ui](http://amazeui.org/)
 * [useThePlatform to build a better web](https://www.polymer-project.org/1.0/)
 * [css参考手册](http://www.css88.com/book/css/)
 * [css参考手册V3.4.0](http://www.html5cn.com.cn/book/css/index.htm)
