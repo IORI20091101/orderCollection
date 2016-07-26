@@ -22,6 +22,7 @@
 * [编程网志](http://www.codeweblog.com/category/javascript%E6%8A%80%E5%B7%A7/)
 * [前端程序员：月薪5K到5万，我干了啥](http://developer.51cto.com/art/201601/504446.htm)
 * [淘宝UED官方博客](http://ued.taobao.org/blog/2014/04/full-stack-development-with-nodejs/)
+* [淘宝前端团队](http://taobaofed.org/)
 * [Get社区](http://get.ftqq.com/#)
 * [blog.codding.net](https://blog.coding.net/technology/blogs)
 * [前端资源大汇总](http://www.iwan0.com/web/index.html)
@@ -55,6 +56,7 @@
 * [WEBDESIGNER](http://www.1stwebdesigner.com/best-modern-fonts/)
 * [又一个码农站点](http://www.cnphp6.com/archives/137018)
 * [Stefan Imhoff](http://stefanimhoff.de/)
+* [blog of purplebamboo](http://purplebamboo.github.io/2014/05/24/koa-source-analytics-3/)
 
 ##java相关
 * [使用gradle替代maven项目构建](http://www.infoq.com/cn/news/2011/04/xxb-maven-6-gradle/)
