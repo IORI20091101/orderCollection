@@ -26,6 +26,7 @@
 * [Get社区](http://get.ftqq.com/#)
 * [blog.codding.net](https://blog.coding.net/technology/blogs)
 * [前端资源大汇总](http://www.iwan0.com/web/index.html)
+* [开发者头条](http://toutiao.io/)
 
 
 ##大牛
@@ -85,6 +86,7 @@
 * [jQuery中文文档](http://www.css88.com/jqapi-1.9/)
 * [underscore](http://www.css88.com/doc/underscore/)
 * [Backbone](http://www.css88.com/doc/backbone/)
+* [backbone 的扩展框架Marionette](http://marionettejs.com/)
 * [reactjs](http://www.reactjs.cn/)
 * [Angularjs](http://www.apjs.net/)
 * [juicer](http://juicer.name/)
