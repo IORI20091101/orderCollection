@@ -58,6 +58,10 @@ git push --set-upstream origin dongzhi-ms-local
 
 
 
+git 允许空提交  git commit --allow-empty -m "empty"
+
+longdai-p2p的分支m-dev push上自动触发部署。
+
 
 
 git config --global user.name "dongzhi"
