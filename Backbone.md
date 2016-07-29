@@ -23,3 +23,5 @@
 #### backbone.noConflict()
 
 #### backbone-super
+
+#### 测试 jasmine Qunit Sinonjs
