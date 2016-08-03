@@ -58,6 +58,7 @@
 * [又一个码农站点](http://www.cnphp6.com/archives/137018)
 * [Stefan Imhoff](http://stefanimhoff.de/)
 * [blog of purplebamboo](http://purplebamboo.github.io/2014/05/24/koa-source-analytics-3/)
+* [website](http://www.ccwebsite.com/flex-layout-old-and-new-compatible/)
 
 ##java相关
 * [使用gradle替代maven项目构建](http://www.infoq.com/cn/news/2011/04/xxb-maven-6-gradle/)
@@ -282,6 +283,14 @@
 * [七牛云服务](http://www.qiniu.com/cdnjiangjia?utm_campaign=cdnjiangjia&utm_source=baidu&utm_medium=advposition&utm_content=png)
 * [upan云加速服务](https://www.upyun.com/zh/index.html)
 
+## 发布网站
+* [自己购买域名和主机服务](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
+* [可以免费尝试，wordpress](https://zh-cn.wordpress.com/)
+* [可以免费尝试，neocities](https://neocities.org/)
+* [可以免费尝试，blogspot](https://www.blogger.com/switch-profile.g?switchProfileSource=3&continue=http://www.blogger.com/home-new.g)
+* [使用在线工具github Pages](https://pages.github.com/)
+* [使用在线工具Dropbox](http://www.dropboxwiki.com/tips-and-tricks/host-websites-with-dropbox)
+
 
 ## 其他语言
 * [zombie.js官网](http://zombie.js.org/)
@@ -305,6 +314,7 @@
 * [sublimetext2安装packageControl](https://packagecontrol.io/installation#st2)
 * [sublime安装插件](https://www.qianduan.net/essential-to-sublime-the-text-2-plugins/)
 * [iphone6奇怪分辨率的原因](https://www.paintcodeapp.com/news/iphone-6-screens-demystified)
+* [在线转换png，jpg各种格式成.ico文件](http://www.converticon.com/)
 
 
 
