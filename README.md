@@ -59,6 +59,7 @@
 * [Stefan Imhoff](http://stefanimhoff.de/)
 * [blog of purplebamboo](http://purplebamboo.github.io/2014/05/24/koa-source-analytics-3/)
 * [website](http://www.ccwebsite.com/flex-layout-old-and-new-compatible/)
+* [seanlook](http://seanlook.com/)
 
 ##java相关
 * [使用gradle替代maven项目构建](http://www.infoq.com/cn/news/2011/04/xxb-maven-6-gradle/)
