@@ -40,6 +40,129 @@ a = b ^ a // 3
 
 
 
+
+
+
+null 进行数值类型的环境中会被当做0  null+ 35 = 35
+
+"37" + 7 = "377"   +号运算会将数字转化成字符串
+
+"37" - 7 = 30      -号运算会将字符串转化成数字
+
+parseInt("100sd.sd") 100   parseInt会进行转换
+parseFloat("s100s")  ==>  NaN
+
+var unusualPropertyNames = {
+  "": "An empty string",
+  "!": "Bang!"
+}
+console.log(unusualPropertyNames."");   // 语法错误: Unexpected string
+console.log(unusualPropertyNames[""]);  // An empty string
+console.log(unusualPropertyNames.!);    // 语法错误: Unexpected token !
+console.log(unusualPropertyNames["!"]); // Bang!
+
+函数科里化
+
+
+var b = new Boolean(false);
+if (b) // this condition evaluates to true
+if (b == true) // this condition evaluates to false
+
+
+typeof NaN   "number"
+
+typeof null "object"
+
+<a href="javascript:void(0)">Click here to do nothing</a>
+<a href="javascript:void(document.form.submit())">
+Click here to submit</a>
+
+
+var s = "s"  typeof s   'string'
+
+var s = new Object('s') typeof s object
+
+'blue whale'.includes('blue');
+
+'concat'.concat('2456')  == "concat2456"
+
+String.fromCharCode(65,66,67)    ===> "ABC"
+
+"abc".repeat(2)
+
+
+理解数组
+
+var cats = ['Dusty', 'Misty', 'Twiggy'];
+console.log(cats.length); // 3
+
+cats.length = 2;
+console.log(cats); // logs "Dusty,Misty" - Twiggy has been removed
+
+cats.length = 0;
+console.log(cats); // logs nothing; the cats array is empty
+
+cats.length = 3;
+console.log(cats); // [undefined, undefined, undefined]
+
+
+
+
+function* anotherGenerator(i) {
+  yield i + 1;
+  yield i + 2;
+  yield i + 3;
+}
+
+function* generator(i){
+  yield i;
+  yield* anotherGenerator(i);
+  yield i + 10;
+}
+
+var gen = generator(10);
+
+console.log(gen.next().value); // 10
+console.log(gen.next().value); // 11
+console.log(gen.next().value); // 12
+console.log(gen.next().value); // 13
+console.log(gen.next().value); // 20
+
+
+"1,2" == [1,2]  ======》    true
+
+Object.is(NaN, NaN)  =====> true
+
+
+rand10 = Math.floor(Math.random()*10) // before
+rand10 = 0|Math.random()*10 // after
+rand10 = ~~(Math.random()*10); //或者这样
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {
     "auto_complete": true,
     "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
