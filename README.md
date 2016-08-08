@@ -23,6 +23,7 @@
 * [前端程序员：月薪5K到5万，我干了啥](http://developer.51cto.com/art/201601/504446.htm)
 * [淘宝UED官方博客](http://ued.taobao.org/blog/2014/04/full-stack-development-with-nodejs/)
 * [淘宝前端团队](http://taobaofed.org/)
+* [AlloyTeam腾讯全端](http://www.alloyteam.com/)
 * [Get社区](http://get.ftqq.com/#)
 * [blog.codding.net](https://blog.coding.net/technology/blogs)
 * [前端资源大汇总](http://www.iwan0.com/web/index.html)
@@ -60,6 +61,10 @@
 * [blog of purplebamboo](http://purplebamboo.github.io/2014/05/24/koa-source-analytics-3/)
 * [website](http://www.ccwebsite.com/flex-layout-old-and-new-compatible/)
 * [seanlook](http://seanlook.com/)
+* [feenan's blog](http://www.ifeenan.com/)
+* [csspod](https://csspod.com/)
+
+
 
 ##java相关
 * [使用gradle替代maven项目构建](http://www.infoq.com/cn/news/2011/04/xxb-maven-6-gradle/)
