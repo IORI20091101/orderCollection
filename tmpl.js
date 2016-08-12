@@ -263,3 +263,12 @@ http://172.16.0.19:8983/solr/#/forum/query
 解决 Error: No provider for "framework:jasmine"! (Resolving: framework:jasmine)
 https://github.com/karma-runner/karma/issues/880
 
+
+
+
+
+172.16.0.17 docker-ps 查看服务如果要调试本地rabbitmq，需要将该机器的服务停掉
+
+发送本地的rabbitmq  ssh -p 2000 longdai@127.0.0.1     longdai    命令行输入message 做测试 message sendEmail
+
+
