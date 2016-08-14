@@ -235,7 +235,8 @@
 * [windows系统镜像下载](http://www.msdn.hk/6/209/)
 * [ps软件资源](http://www.cgown.com/mac/mac-software/17517.html?plg_nld=1&plg_uin=1&plg_auth=1&plg_nld=1&plg_usr=1&plg_vkey=1&plg_dev=1)
 * [mac如何将hdd ssd 组合成funsion混合硬盘装机](http://www.macuknow.com/node/21313)
-
+* [鸟哥的私房菜](http://linux.vbird.org/new_linux.php)
+* [命令行的艺术](https://github.com/IORI20091101/the-art-of-command-line/blob/master/README-zh.md)
 
 ## 网络
 * [使用Charles来进行抓包手机页面](http://www.lxway.com/402850802.htm)
