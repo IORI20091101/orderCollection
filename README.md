@@ -63,7 +63,7 @@
 * [seanlook](http://seanlook.com/)
 * [feenan's blog](http://www.ifeenan.com/)
 * [csspod](https://csspod.com/)
-
+* [进击的马斯特](http://pinkyjie.com/)
 
 
 ##java相关
