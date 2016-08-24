@@ -28,7 +28,7 @@
 * [blog.codding.net](https://blog.coding.net/technology/blogs)
 * [前端资源大汇总](http://www.iwan0.com/web/index.html)
 * [开发者头条](http://toutiao.io/)
-
+* [Netman大哥](http://www.study-area.org/menu2.htm)
 
 ##大牛
 * [Github上最受关注的前端大牛](http://code.csdn.net/news/2820990)
@@ -64,7 +64,7 @@
 * [feenan's blog](http://www.ifeenan.com/)
 * [csspod](https://csspod.com/)
 * [进击的马斯特](http://pinkyjie.com/)
-
+* [Orange](http://orangexc.xyz/)
 
 ##java相关
 * [使用gradle替代maven项目构建](http://www.infoq.com/cn/news/2011/04/xxb-maven-6-gradle/)
@@ -237,6 +237,10 @@
 * [mac如何将hdd ssd 组合成funsion混合硬盘装机](http://www.macuknow.com/node/21313)
 * [鸟哥的私房菜](http://linux.vbird.org/new_linux.php)
 * [命令行的艺术](https://github.com/IORI20091101/the-art-of-command-line/blob/master/README-zh.md)
+* [linux 学习手册,牛人博客和总结](http://www.study-area.org/2freebsd/)
+* [鳥哥的 Linux 私房菜-新手討論區](http://phorum.vbird.org/)
+* [酷!學園](http://phorum.study-area.org/)
+
 
 ## 网络
 * [使用Charles来进行抓包手机页面](http://www.lxway.com/402850802.htm)
