@@ -326,8 +326,8 @@
 * [sublime安装插件](https://www.qianduan.net/essential-to-sublime-the-text-2-plugins/)
 * [iphone6奇怪分辨率的原因](https://www.paintcodeapp.com/news/iphone-6-screens-demystified)
 * [在线转换png，jpg各种格式成.ico文件](http://www.converticon.com/)
-
-
+* [文档大全](http://devdocs.io/http/)
+* [python 的一个库](http://zesty.ca/python/)
 
 ###Mac需要掌握的知识，iterm2  zsh+tmux+vim  curl brew ，系统级命令
 
