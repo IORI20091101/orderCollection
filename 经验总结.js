@@ -145,24 +145,6 @@ rand10 = ~~(Math.random()*10); //或者这样
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 {
     "auto_complete": true,
     "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
@@ -178,6 +160,40 @@ rand10 = ~~(Math.random()*10); //或者这样
     "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true
 }
+
+
+
+
+
+
+
+
+
+
+——————————————————————————————————————————————————————————————————————————
+
+sublimetext 安装插件
+
+/*Sublime Text 2 代码*/
+import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')
+
+/*Sublime Text 3 代码*/
+import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)
+
+
+
+ Ctrl + Shift + P 调出面板，然后输入 pci ，选中“Package Control: Install Package”并回车，然后通过输入插件的名字找到插件并回车安装即可。
+
+
+
+1. Emmet
+Emmet的前身是大名鼎鼎的Zen coding，如果你从事Web前端开发的话，对该插件一定不会陌生。它使用仿CSS选择器的语法来生成代码，大大提高了HTML/CSS代码编写的速度。
+
+
+
+
+
+
 
 
 
@@ -559,3 +575,4 @@ sublime 配置
 // 删除你想要忽略的插件，需要重启
 "ignored_packages": ["Vintage"]
 }
+

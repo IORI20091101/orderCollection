@@ -67,6 +67,7 @@
 * [csspod](https://csspod.com/)
 * [进击的马斯特](http://pinkyjie.com/)
 * [Orange](http://orangexc.xyz/)
+* [Spaecs's Blog sublimeText插件安装以及配置](http://9iphp.com/web/html/1260.html)
 
 ##java相关
 * [使用gradle替代maven项目构建](http://www.infoq.com/cn/news/2011/04/xxb-maven-6-gradle/)

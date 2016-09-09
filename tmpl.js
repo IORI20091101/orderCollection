@@ -271,4 +271,5 @@ https://github.com/karma-runner/karma/issues/880
 
 发送本地的rabbitmq  ssh -p 2000 longdai@127.0.0.1     longdai    命令行输入message 做测试 message sendEmail
 
-
+****2010260892******
+****yuan123456*********
