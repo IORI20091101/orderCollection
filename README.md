@@ -195,6 +195,7 @@
 * [使用Emmet(以前的zen-coding)来加快开发的效率](http://emmet.io/)
 
 ##nodejs相关
+* [各种package.json,bower.json用途](http://json.is/)
 * [淘宝Npm镜像可以使用cnpm安装插件](https://npm.taobao.org)
 * [NodeJS中文文档](http://nodeapi.ucdok.com/#/api/)
 * [从零开始nodejs系列文章](http://blog.fens.me/series-nodejs/)
