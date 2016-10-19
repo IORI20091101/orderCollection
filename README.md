@@ -31,6 +31,7 @@
 * [Netman大哥](http://www.study-area.org/menu2.htm)
 * [移动web解决方案-支付宝](http://am-team.github.io/amg/dev-exp-doc.html#javascript)
 * [全栈开发者](http://www.admin10000.com/)
+* [静静寻觅生活的美好](http://cuiqingcai.com/1052.html)
 
 ##大牛
 * [Github上最受关注的前端大牛](http://code.csdn.net/news/2820990)
