@@ -7,6 +7,7 @@
 * [前端大牛们都学过哪些东西？](http://wx.shenchuang.com/article/2015-09-05/1176147.html)
 * [github](https://github.com/IORI20091101/orderCollection)
 * [GitBook](https://www.gitbook.com/book/yeasy/docker_practice/details)
+* [APEBOO在线图书馆](http://apebook.org/library)
 * [stackoverflow](http://stackoverflow.com/)
 * [博客园](http://www.cnblogs.com/)
 * [CSDN](http://www.csdn.net/)
