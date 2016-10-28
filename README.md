@@ -257,7 +257,7 @@
 * [shadowsocks官网](https://shadowsocks.com/)
 * [ShadowSocks+ 推荐vpn和socket购买](http://www.jianshu.com/p/08ba65d1f91a)
 * [简书vpn推荐](http://www.jianshu.com/p/6551db7bfc39)
-
+* [精解http](https://i5ting.github.io/oh-http/#1)
 ##CDN
 * [BootCDN稳定、快速、免费的开源项目 CDN 服务](http://www.bootcdn.cn/)
 * [Google CDN](https://developers.google.com/speed/libraries/?csw=1#angularjs)
