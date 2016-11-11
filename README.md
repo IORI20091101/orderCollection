@@ -4,6 +4,8 @@
 
 ##技术网站
 * [前端JSer装逼手册](https://segmentfault.com/a/1190000005987011)
+* [假装黑客的页面，用到日志输出](http://hackertyper.net/)
+* [假装黑客的页面，用到日志输出](http://hackcode.ishoulu.com/combine/)
 * [前端大牛们都学过哪些东西？](http://wx.shenchuang.com/article/2015-09-05/1176147.html)
 * [github](https://github.com/IORI20091101/orderCollection)
 * [GitBook](https://www.gitbook.com/book/yeasy/docker_practice/details)
@@ -188,7 +190,7 @@
 * [flex 弹性布局](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?utm_source=tuicool)
 * [微信ui](http://weui.github.io/weui/)
 * [微信平台api文档](http://mp.weixin.qq.com/wiki/2/ae9782fb42e47ad79eb7b361c2149d16.html)
-
+* [iconfont.cn很好用](http://www.iconfont.cn/plus)
 
 ##HTML5
 * [html5boilerplate](http://www.bootcss.com/p/html5boilerplate/)
