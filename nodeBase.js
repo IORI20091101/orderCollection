@@ -6,6 +6,11 @@ node --debug app2.js
 node-inspector
 
 
+registry = "https://registry.npmjs.org/"
+
+$ npm config set registry https://registry.npm.taobao.org/
+
+
 
 //命令
 npm publish  //发布模块

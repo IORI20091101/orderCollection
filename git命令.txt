@@ -2,12 +2,36 @@ git命令大全 repository
 git push.default设置
 http://www.kaiyuanba.cn/html/1/131/227/8029.htm
 
+学会使用git rebase命令
+git checkout feature
+git checkout -b temporary-branch
+git rebase -i master
+# [清理目录]
+git checkout master
+git merge temporary-branch
+
 
 怎样删除 branch -a 存在而 branch 和 GitHub 上都不存在的分支?
+删除本地在远程不存在的分支
 git fetch origin --prune
+$ git pull -p
+# 等同于下面的命令
+$ git fetch --prune origin 
+$ git fetch -p
 
 或者
 git branch -d -r origin/branch_name
+
+
+删除远程分支：
+ git push origin :master
+# 等同于
+$ git push origin --delete master
+
+
+git 允许空提交  git commit --allow-empty -m "empty"
+
+longdai-p2p的分支m-dev push上自动触发部署。
 
 
 与远程分支建立连接两两种情况
@@ -57,10 +81,6 @@ git push --set-upstream origin dongzhi-ms-local
 5.git push
 
 
-
-git 允许空提交  git commit --allow-empty -m "empty"
-
-longdai-p2p的分支m-dev push上自动触发部署。
 
 
 

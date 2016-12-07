@@ -72,6 +72,7 @@
 * [进击的马斯特](http://pinkyjie.com/)
 * [Orange](http://orangexc.xyz/)
 * [Spaecs's Blog sublimeText插件安装以及配置](http://9iphp.com/web/html/1260.html)
+* [sublimeText3 插件快捷键](http://bubkoo.com/2014/01/04/sublime-text-3-plugins/)
 * [俊民的博客](http://spxiaomin.github.io/)
 * [玉伯](https://lifesinger.wordpress.com/)
 
@@ -105,6 +106,7 @@
 * [backbone 的扩展框架Marionette](http://marionettejs.com/)
 * [reactjs](http://www.reactjs.cn/)
 * [Angularjs](http://www.apjs.net/)
+* [Angular2](https://angular.cn/docs/ts/latest/quickstart.html)
 * [juicer](http://juicer.name/)
 * [Handlebars](http://handlebarsjs.com/)
 * [artTemplate](http://aui.github.io/artTemplate/)
@@ -197,6 +199,7 @@
 * [diveintohtml5 easy to handle html5](http://diveintohtml5.info/)
 * [HTML5教程&知识点](http://www.html5cn.com.cn/html5/index.html)
 * [使用Emmet(以前的zen-coding)来加快开发的效率](http://emmet.io/)
+* [兼容各种移动端需要注意的问题](https://github.com/IORI20091101/mobileTech)
 
 ##nodejs相关
 * [各种package.json,bower.json用途](http://json.is/)
