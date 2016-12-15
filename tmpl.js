@@ -1,7 +1,7 @@
 http: //dohko.wms.ezhe.com/toshiba
 
 
-  //longdai
+  longdai
   longdai2015
 
 //admin  oyCtq7EJmYitM6
