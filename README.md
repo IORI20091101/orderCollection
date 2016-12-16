@@ -95,8 +95,7 @@
 * [使用Thymeleaf 代替jsp， thymeleaf中文教程](http://www.cnblogs.com/vinphy/p/4674247.html)
 * [在线各种文档javajdk](http://tool.oschina.net/)
 * [Ant](http://www.cnblogs.com/xionghui/archive/2012/03/13/2393679.html)
-
-
+* [MAC破解软件](http://www.waitsun.com/)
 
 ##js相关
 * [web技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
