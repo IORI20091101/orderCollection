@@ -293,6 +293,7 @@
 * [git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000#0)
 * [CURL命令](http://www.thegeekstuff.com/2012/04/curl-examples/)
 * [markedown](http://markable.in/editor/)
+* [使用git的时候在window下特别慢所以使用ss代理git](http://elmagnificogi.github.io/2015/12/03/Git-Proxy/)
 
 ##专供Node的云主机和IDE服务
 * [heroku](http://www.heroku.com/)
