@@ -295,6 +295,7 @@
 * [markedown](http://markable.in/editor/)
 * [使用git的时候在window下特别慢所以使用ss代理git](http://elmagnificogi.github.io/2015/12/03/Git-Proxy/)
 * [关于使用shadow代理git的一篇好文章](https://segmentfault.com/q/1010000000118837)
+* [关于PAC自动代理和ios翻墙](http://tyr.gift/pac-proxy.html)
 
 ##专供Node的云主机和IDE服务
 * [heroku](http://www.heroku.com/)
