@@ -75,6 +75,7 @@
 * [sublimeText3 插件快捷键](http://bubkoo.com/2014/01/04/sublime-text-3-plugins/)
 * [俊民的博客](http://spxiaomin.github.io/)
 * [玉伯](https://lifesinger.wordpress.com/)
+* [崔庆才的个人博客爬虫](http://cuiqingcai.com/2577.html)
 
 ##java相关
 * [使用gradle替代maven项目构建](http://www.infoq.com/cn/news/2011/04/xxb-maven-6-gradle/)
