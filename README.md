@@ -35,6 +35,7 @@
 * [移动web解决方案-支付宝](http://am-team.github.io/amg/dev-exp-doc.html#javascript)
 * [全栈开发者](http://www.admin10000.com/)
 * [静静寻觅生活的美好](http://cuiqingcai.com/1052.html)
+* [V2EX](https://www.v2ex.com/?tab=jobs)
 
 ##大牛
 * [Github上最受关注的前端大牛](http://code.csdn.net/news/2820990)
@@ -260,14 +261,17 @@
 * [使用Charles来进行抓包手机页面](http://www.lxway.com/402850802.htm)
 * [Charles教程](http://my.oschina.net/u/2340880/blog/508688#OSC_h3_4)
 * [获取hosts访问google](http://go.netsh.org/link/gethosts)
-* [shadowsocks账户管理](https://portal.shadowsocks.com/clientarea.php)
-* [shadowsocks官网](https://shadowsocks.com/)
+* [shadowsocks账户管理](https://portal.shadowsocks.com.hk/clientarea.php)
+* [shadowsocks官网](https://shadowsocks.com.hk/)
 * [ShadowSocks+ 推荐vpn和socket购买](http://www.jianshu.com/p/08ba65d1f91a)
 * [简书vpn推荐](http://www.jianshu.com/p/6551db7bfc39)
 * [精解http](https://i5ting.github.io/oh-http/#1)
 ##CDN
 * [BootCDN稳定、快速、免费的开源项目 CDN 服务](http://www.bootcdn.cn/)
 * [Google CDN](https://developers.google.com/speed/libraries/?csw=1#angularjs)
+* [微软cdn](https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview#jQuery_Releases_on_the_CDN_0)
+* [cdnjs](https://cdnjs.com/libraries/jquery/)
+* [jsdelivr](https://www.jsdelivr.com/projects/jquery)
 
 
 ##Mac相关
