@@ -141,6 +141,7 @@
 * [使用webpack来管理模块](http://webpack.github.io/docs/list-of-loaders.html)
 * [基于webpack搭建前端工程解决方案探索 #10](https://github.com/chemdemo/chemdemo.github.io/issues/10)
 * [根据javascript文件中注释信息，生成JavaScript应用程序或库、模块的API文档](http://www.css88.com/doc/jsdoc/index.html)
+* [Redux 有很好的文档，还有配套的小视频](https://egghead.io/courses/getting-started-with-redux)
 
 ##调试js
 * [根据网页变化自动更新页面无需刷新](http://livereload.com/)
