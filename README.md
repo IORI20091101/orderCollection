@@ -4,9 +4,12 @@
 
 ##技术网站
 * [前端JSer装逼手册](https://segmentfault.com/a/1190000005987011)
+* [假装黑客的页面，用到日志输出](http://hackertyper.net/)
+* [假装黑客的页面，用到日志输出](http://hackcode.ishoulu.com/combine/)
 * [前端大牛们都学过哪些东西？](http://wx.shenchuang.com/article/2015-09-05/1176147.html)
 * [github](https://github.com/IORI20091101/orderCollection)
 * [GitBook](https://www.gitbook.com/book/yeasy/docker_practice/details)
+* [APEBOO在线图书馆](http://apebook.org/library)
 * [stackoverflow](http://stackoverflow.com/)
 * [博客园](http://www.cnblogs.com/)
 * [CSDN](http://www.csdn.net/)
@@ -31,6 +34,8 @@
 * [Netman大哥](http://www.study-area.org/menu2.htm)
 * [移动web解决方案-支付宝](http://am-team.github.io/amg/dev-exp-doc.html#javascript)
 * [全栈开发者](http://www.admin10000.com/)
+* [静静寻觅生活的美好](http://cuiqingcai.com/1052.html)
+* [V2EX](https://www.v2ex.com/?tab=jobs)
 
 ##大牛
 * [Github上最受关注的前端大牛](http://code.csdn.net/news/2820990)
@@ -68,8 +73,10 @@
 * [进击的马斯特](http://pinkyjie.com/)
 * [Orange](http://orangexc.xyz/)
 * [Spaecs's Blog sublimeText插件安装以及配置](http://9iphp.com/web/html/1260.html)
+* [sublimeText3 插件快捷键](http://bubkoo.com/2014/01/04/sublime-text-3-plugins/)
 * [俊民的博客](http://spxiaomin.github.io/)
 * [玉伯](https://lifesinger.wordpress.com/)
+* [崔庆才的个人博客爬虫](http://cuiqingcai.com/2577.html)
 * [颜开的博客](http://www.yankay.com/)
 
 ##java相关
@@ -91,8 +98,7 @@
 * [使用Thymeleaf 代替jsp， thymeleaf中文教程](http://www.cnblogs.com/vinphy/p/4674247.html)
 * [在线各种文档javajdk](http://tool.oschina.net/)
 * [Ant](http://www.cnblogs.com/xionghui/archive/2012/03/13/2393679.html)
-
-
+* [MAC破解软件](http://www.waitsun.com/)
 
 ##js相关
 * [web技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
@@ -102,6 +108,7 @@
 * [backbone 的扩展框架Marionette](http://marionettejs.com/)
 * [reactjs](http://www.reactjs.cn/)
 * [Angularjs](http://www.apjs.net/)
+* [Angular2](https://angular.cn/docs/ts/latest/quickstart.html)
 * [juicer](http://juicer.name/)
 * [Handlebars](http://handlebarsjs.com/)
 * [artTemplate](http://aui.github.io/artTemplate/)
@@ -135,6 +142,7 @@
 * [使用webpack来管理模块](http://webpack.github.io/docs/list-of-loaders.html)
 * [基于webpack搭建前端工程解决方案探索 #10](https://github.com/chemdemo/chemdemo.github.io/issues/10)
 * [根据javascript文件中注释信息，生成JavaScript应用程序或库、模块的API文档](http://www.css88.com/doc/jsdoc/index.html)
+* [Redux 有很好的文档，还有配套的小视频](https://egghead.io/courses/getting-started-with-redux)
 
 ##调试js
 * [根据网页变化自动更新页面无需刷新](http://livereload.com/)
@@ -177,6 +185,7 @@
 
 
 ##ui素材&设计
+* [Ant-Design十大设计原则](https://ant.design/docs/spec/principle-cn)
 * [Matrix Admin](http://themedesigner.in/demo/matrix-admin/index.html)
 * [扁平化设计文章1](http://uxc.360.cn/archives/1430.html)
 * [扁平化设计文章2](http://www.csdn.net/article/2013-05-29/2815475-flat-design-principles)--[原文链接](http://designmodo.com/flat-design-principles/)
@@ -187,13 +196,15 @@
 * [flex 弹性布局](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?utm_source=tuicool)
 * [微信ui](http://weui.github.io/weui/)
 * [微信平台api文档](http://mp.weixin.qq.com/wiki/2/ae9782fb42e47ad79eb7b361c2149d16.html)
-
+* [iconfont.cn很好用](http://www.iconfont.cn/plus)
+* [http://git.io/icono](http://codepen.io/saeedalipoor/pen/fgiwK)
 
 ##HTML5
 * [html5boilerplate](http://www.bootcss.com/p/html5boilerplate/)
 * [diveintohtml5 easy to handle html5](http://diveintohtml5.info/)
 * [HTML5教程&知识点](http://www.html5cn.com.cn/html5/index.html)
 * [使用Emmet(以前的zen-coding)来加快开发的效率](http://emmet.io/)
+* [兼容各种移动端需要注意的问题](https://github.com/IORI20091101/mobileTech)
 
 ##nodejs相关
 * [各种package.json,bower.json用途](http://json.is/)
@@ -253,15 +264,20 @@
 * [使用Charles来进行抓包手机页面](http://www.lxway.com/402850802.htm)
 * [Charles教程](http://my.oschina.net/u/2340880/blog/508688#OSC_h3_4)
 * [获取hosts访问google](http://go.netsh.org/link/gethosts)
-* [shadowsocks账户管理](https://portal.shadowsocks.com/clientarea.php)
-* [shadowsocks官网](https://shadowsocks.com/)
+* [shadowsocks账户管理](https://portal.shadowsocks.com.hk/clientarea.php)
+* [shadowsocks官网](https://shadowsocks.com.hk/)
 * [ShadowSocks+ 推荐vpn和socket购买](http://www.jianshu.com/p/08ba65d1f91a)
 * [简书vpn推荐](http://www.jianshu.com/p/6551db7bfc39)
 * [gozapTestdev-del](https://zybuluo.com/mritd/note/627609)
+* [精解http](https://i5ting.github.io/oh-http/#1)
+
 
 ##CDN
 * [BootCDN稳定、快速、免费的开源项目 CDN 服务](http://www.bootcdn.cn/)
 * [Google CDN](https://developers.google.com/speed/libraries/?csw=1#angularjs)
+* [微软cdn](https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview#jQuery_Releases_on_the_CDN_0)
+* [cdnjs](https://cdnjs.com/libraries/jquery/)
+* [jsdelivr](https://www.jsdelivr.com/projects/jquery)
 
 
 ##Mac相关
@@ -289,6 +305,10 @@
 * [git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000#0)
 * [CURL命令](http://www.thegeekstuff.com/2012/04/curl-examples/)
 * [markedown](http://markable.in/editor/)
+* [使用git的时候在window下特别慢所以使用ss代理git](http://elmagnificogi.github.io/2015/12/03/Git-Proxy/)
+* [关于使用shadow代理git的一篇好文章](https://segmentfault.com/q/1010000000118837)
+* [关于PAC自动代理和ios翻墙](http://tyr.gift/pac-proxy.html)
+* [网易开源镜像站](http://mirrors.163.com/)
 
 ##专供Node的云主机和IDE服务
 * [heroku](http://www.heroku.com/)
