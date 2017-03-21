@@ -70,6 +70,7 @@
 * [Spaecs's Blog sublimeText插件安装以及配置](http://9iphp.com/web/html/1260.html)
 * [俊民的博客](http://spxiaomin.github.io/)
 * [玉伯](https://lifesinger.wordpress.com/)
+* [颜开的博客](http://www.yankay.com/)
 
 ##java相关
 * [使用gradle替代maven项目构建](http://www.infoq.com/cn/news/2011/04/xxb-maven-6-gradle/)
@@ -256,6 +257,7 @@
 * [shadowsocks官网](https://shadowsocks.com/)
 * [ShadowSocks+ 推荐vpn和socket购买](http://www.jianshu.com/p/08ba65d1f91a)
 * [简书vpn推荐](http://www.jianshu.com/p/6551db7bfc39)
+* [gozapTestdev-del](https://zybuluo.com/mritd/note/627609)
 
 ##CDN
 * [BootCDN稳定、快速、免费的开源项目 CDN 服务](http://www.bootcdn.cn/)
