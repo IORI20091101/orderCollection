@@ -1,10 +1,10 @@
 # orderCollection
 
-#目前所有有用网站大集合
+# 目前所有有用网站大集合
 
-##技术相关社区
+## 技术相关社区
 
-###国内
+### 国内
 * [V2EX](https://www.v2ex.com/?tab=jobs)
 * [InfoQ](http://www.infoq.com/cn/)
 * [CSDN](http://www.csdn.net/)
@@ -35,7 +35,7 @@
 * [LaravelChina](https://laravel-china.org/)
 * [PHP100](http://www.php100.com/)
 
-###国外 
+### 国外 
 * [stackoverflow](http://stackoverflow.com/)
 * [github](https://github.com/IORI20091101/orderCollection)
 * [GitBook](https://www.gitbook.com/book/yeasy/docker_practice/details)
@@ -43,7 +43,7 @@
 
 ## 论坛咨询社区
 
-###国内
+### 国内
 * [猫扑](http://www.mop.com/)
 * [天涯社区](http://focus.tianya.cn/)
 * [水木社区](http://www.newsmth.net/)
@@ -91,7 +91,7 @@
 * [静静寻觅生活的美好](http://cuiqingcai.com/1052.html)
 
 
-##大牛
+## 大牛
 * [Github上最受关注的前端大牛](http://code.csdn.net/news/2820990)
 * [20位活跃在Github上的国内技术大牛](http://blog.csdn.net/yaoxtao/article/details/38518933)
 * [公司前端开发架构改造](http://oldli.net/)
@@ -133,7 +133,7 @@
 * [崔庆才的个人博客爬虫](http://cuiqingcai.com/2577.html)
 * [颜开的博客](http://www.yankay.com/)
 
-##java相关
+## java相关
 * [使用gradle替代maven项目构建](http://www.infoq.com/cn/news/2011/04/xxb-maven-6-gradle/)
 * [maven实战](http://www.juvenxu.com/mvn-in-action/)
 * [java模拟http请求](http://kevinsawicki.github.io/http-request/)
@@ -154,7 +154,7 @@
 * [Ant](http://www.cnblogs.com/xionghui/archive/2012/03/13/2393679.html)
 * [MAC破解软件](http://www.waitsun.com/)
 
-##js相关
+## js相关
 * [web技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
 * [jQuery中文文档](http://www.css88.com/jqapi-1.9/)
 * [underscore](http://www.css88.com/doc/underscore/)
@@ -198,7 +198,7 @@
 * [根据javascript文件中注释信息，生成JavaScript应用程序或库、模块的API文档](http://www.css88.com/doc/jsdoc/index.html)
 * [Redux 有很好的文档，还有配套的小视频](https://egghead.io/courses/getting-started-with-redux)
 
-##调试js
+## 调试js
 * [根据网页变化自动更新页面无需刷新](http://livereload.com/)
 * [移动端Web开发调试之Weinre调试教程](http://blog.csdn.net/freshlover/article/details/42640253)
 * [使用jsconsole调试](http://jsconsole.com/?%3Alisten)
@@ -207,7 +207,7 @@
 * [jsbin js代码验证demo](http://jsbin.com/oDeFuCAW/1/edit?html,js,output)
 * [codeopen js代码验证](http://codepen.io/pen/)
 
-##css相关
+## css相关
 * [GreenSock页面动画以及游戏可以引入该库震撼效果。搜索TweenLite 和 TweenMax](http://greensock.com/)
 * [bootstrap](http://www.bootcss.com/)
 * [Angular material 作为angularj后台标准配备](https://material.angularjs.org/latest/)
@@ -238,7 +238,7 @@
 * [令人愉快的和注重性能的纯CSS加载动画 Loaders.css](https://connoratherton.com/loaders)
 
 
-##ui素材&设计
+## ui素材&设计
 * [Ant-Design十大设计原则](https://ant.design/docs/spec/principle-cn)
 * [Matrix Admin](http://themedesigner.in/demo/matrix-admin/index.html)
 * [扁平化设计文章1](http://uxc.360.cn/archives/1430.html)
@@ -253,14 +253,14 @@
 * [iconfont.cn很好用](http://www.iconfont.cn/plus)
 * [http://git.io/icono](http://codepen.io/saeedalipoor/pen/fgiwK)
 
-##HTML5
+## HTML5
 * [html5boilerplate](http://www.bootcss.com/p/html5boilerplate/)
 * [diveintohtml5 easy to handle html5](http://diveintohtml5.info/)
 * [HTML5教程&知识点](http://www.html5cn.com.cn/html5/index.html)
 * [使用Emmet(以前的zen-coding)来加快开发的效率](http://emmet.io/)
 * [兼容各种移动端需要注意的问题](https://github.com/IORI20091101/mobileTech)
 
-##nodejs相关
+## nodejs相关
 * [各种package.json,bower.json用途](http://json.is/)
 * [淘宝Npm镜像可以使用cnpm安装插件](https://npm.taobao.org)
 * [NodeJS中文文档](http://nodeapi.ucdok.com/#/api/)
@@ -326,7 +326,7 @@
 * [精解http](https://i5ting.github.io/oh-http/#1)
 
 
-##CDN
+## CDN
 * [BootCDN稳定、快速、免费的开源项目 CDN 服务](http://www.bootcdn.cn/)
 * [Google CDN](https://developers.google.com/speed/libraries/?csw=1#angularjs)
 * [微软cdn](https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview#jQuery_Releases_on_the_CDN_0)
@@ -334,7 +334,7 @@
 * [jsdelivr](https://www.jsdelivr.com/projects/jquery)
 
 
-##Mac相关
+## Mac相关
 * [我的macbook应用清单](http://blog.2baxb.me/archives/1250#comments)
 * [Mac 键盘快捷键](https://support.apple.com/zh-cn/HT201236)
 * [Mac OS X Terminal 101：终端使用初级教程](http://www.renfei.org/blog/mac-os-x-terminal-101.html)
@@ -364,7 +364,7 @@
 * [关于PAC自动代理和ios翻墙](http://tyr.gift/pac-proxy.html)
 * [网易开源镜像站](http://mirrors.163.com/)
 
-##专供Node的云主机和IDE服务
+## 专供Node的云主机和IDE服务
 * [heroku](http://www.heroku.com/)
 * [nodejitsu](https://www.nodejitsu.com/)
 * [VMware的CoundFoundry](http://pivotal.io/platform)
@@ -390,7 +390,7 @@
 * [Zombie.js ](http://www.jianshu.com/p/0a0af07d95d1)
 * [PhantomJS > Selenium](http://phantomjs.org/)
 
-##其他
+## 其他
 * [大汇总](http://www.w3cfuns.com/notes/18186/714fccfb15f26c9858a163918b39a944.html)
 * [各种教程](http://www.runoob.com/)
 * [各种实用教程包括mongodb，java ，mysql ruby，python](http://www.yiibai.com/)
@@ -411,9 +411,9 @@
 * [文档大全](http://devdocs.io/http/)
 * [python 的一个库](http://zesty.ca/python/)
 
-###Mac需要掌握的知识，iterm2  zsh+tmux+vim  curl brew ，系统级命令
+### Mac需要掌握的知识，iterm2  zsh+tmux+vim  curl brew ，系统级命令
 
-##各大公司招聘要求
+## 各大公司招聘要求
 * 网页加载优化方案：bigpipe，bigrender，lazyrender
 * 优化性能：用BigRender、Ajax合并、静态化等先进技术让页面飞起来；
 * 推进自动化：从自动化浏览器测试、JavaScript主动预警，到基于Grunt的开发工具，不断地提高开发效率和代码质量；
