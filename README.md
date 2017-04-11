@@ -2,8 +2,9 @@
 
 #目前所有有用网站大集合
 
-## 技术相关社区
-    * ### 国内
+##技术相关社区
+    * ###国内
+
         * [V2EX](https://www.v2ex.com/?tab=jobs)
         * [InfoQ](http://www.infoq.com/cn/)
         * [CSDN](http://www.csdn.net/)
@@ -34,14 +35,17 @@
         * [LaravelChina](https://laravel-china.org/)
         * [PHP100](http://www.php100.com/)
 
-    * ### 国外 
+    * ###国外 
+
         * [stackoverflow](http://stackoverflow.com/)
         * [github](https://github.com/IORI20091101/orderCollection)
         * [GitBook](https://www.gitbook.com/book/yeasy/docker_practice/details)
         * [Hacker News](https://news.ycombinator.com/)
 
 ## 论坛咨询社区
-    * ### 国内
+
+    * ###国内
+
         * [猫扑](http://www.mop.com/)
         * [天涯社区](http://focus.tianya.cn/)
         * [水木社区](http://www.newsmth.net/)
@@ -52,18 +56,14 @@
         * [中华论坛](http://club.china.com/data/threads/1011/)
         * [人民网强国社区](http://bbs1.people.com.cn/)
         * [西祠胡同](http://www.xici.net/)
-        
         * [凤凰网](http://www.ifeng.com/)
         * [西陆社区](http://www.xilu.com/)
-        * []()
-        * []()
-        * []()
-        * []()
         * [千龙社区](http://club.qianlong.com/)
         * [tom社区](http://www.tom.com/)
         * [新浪社区](http://bbs.sina.com.cn/)
 
     * ### 国外   
+
         * [Reddit](https://www.reddit.com/)
         * [wired](https://www.wired.com/)
         * [Techmeme科技新闻](https://www.techmeme.com/)
