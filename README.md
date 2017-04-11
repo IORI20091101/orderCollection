@@ -2,25 +2,82 @@
 
 #目前所有有用网站大集合
 
-##技术网站
+## 技术相关社区
+    * ### 国内
+        * [V2EX](https://www.v2ex.com/?tab=jobs)
+        * [InfoQ](http://www.infoq.com/cn/)
+        * [CSDN](http://www.csdn.net/)
+        * [UDN](http://udn.yyuap.com/)
+        * [ITPUB](http://www.itpub.net/)
+        * [ITEYE](http://www.iteye.com/)
+        * [北风网](http://q.ibeifeng.com/)
+        * [博客园](http://www.cnblogs.com/)
+        * [51cto.com](http://www.51cto.com/)
+        * [开源中国](http://www.oschina.net/)
+        * [Microsoft Developer Network](https://msdn.microsoft.com/zh-cn)
+        * [极乐](http://www.dreawer.com/home.html)
+        * [极客标签](http://www.gbtags.com/gb/syslogin.htm)
+        * [APEBOO在线图书馆](http://apebook.org/library)
+        * [segmentfault](http://segmentfault.com/blogs)
+        * [推酷](http://www.tuicool.com/a/)
+        * [w3school](http://www.w3school.com.cn/)
+        * [W3cteach](https://www.w3ctech.com/)
+        * [cnodejs](http://cnodejs.org/)
+        * [Quora](http://www.quora.com/)
+        * [CODEProject](https://www.codeproject.com/)
+        * [CocoaChina](http://www.cocoachina.com/)
+        * [Code4App](http://code4app.com/forum-2-1.html)
+        * [chinaUnix](http://www.chinaunix.net/)
+        * [ruby中国](https://ruby-china.org/)
+        * [DOIT中国数据经济资讯与服务平台](http://www.doit.com.cn/)
+        * [PHP中国](http://www.phpchina.com/)
+        * [LaravelChina](https://laravel-china.org/)
+        * [PHP100](http://www.php100.com/)
+
+    * ### 国外 
+        * [stackoverflow](http://stackoverflow.com/)
+        * [github](https://github.com/IORI20091101/orderCollection)
+        * [GitBook](https://www.gitbook.com/book/yeasy/docker_practice/details)
+        * [Hacker News](https://news.ycombinator.com/)
+
+## 论坛咨询社区
+    * ### 国内
+        * [猫扑](http://www.mop.com/)
+        * [天涯社区](http://focus.tianya.cn/)
+        * [水木社区](http://www.newsmth.net/)
+        * [知乎](https://www.zhihu.com/)
+        * [豆瓣](https://www.douban.com/)
+        * [搜狐社区](http://club.sohu.com/index.php)
+        * [21CN](http://www.21cn.com/)
+        * [中华论坛](http://club.china.com/data/threads/1011/)
+        * [人民网强国社区](http://bbs1.people.com.cn/)
+        * [西祠胡同](http://www.xici.net/)
+        
+        * [凤凰网](http://www.ifeng.com/)
+        * [西陆社区](http://www.xilu.com/)
+        * []()
+        * []()
+        * []()
+        * []()
+        * [千龙社区](http://club.qianlong.com/)
+        * [tom社区](http://www.tom.com/)
+        * [新浪社区](http://bbs.sina.com.cn/)
+
+    * ### 国外   
+        * [Reddit](https://www.reddit.com/)
+        * [wired](https://www.wired.com/)
+        * [Techmeme科技新闻](https://www.techmeme.com/)
+
+## 其他技术网站社区前端个人网址
 * [前端JSer装逼手册](https://segmentfault.com/a/1190000005987011)
 * [假装黑客的页面，用到日志输出](http://hackertyper.net/)
 * [假装黑客的页面，用到日志输出](http://hackcode.ishoulu.com/combine/)
 * [前端大牛们都学过哪些东西？](http://wx.shenchuang.com/article/2015-09-05/1176147.html)
-* [github](https://github.com/IORI20091101/orderCollection)
-* [GitBook](https://www.gitbook.com/book/yeasy/docker_practice/details)
-* [APEBOO在线图书馆](http://apebook.org/library)
-* [stackoverflow](http://stackoverflow.com/)
-* [博客园](http://www.cnblogs.com/)
-* [CSDN](http://www.csdn.net/)
-* [极客标签](http://www.gbtags.com/gb/syslogin.htm)
-* [segmentfault](http://segmentfault.com/blogs)
-* [推酷](http://www.tuicool.com/a/)
 * [前端里](http://www.yyyweb.com)
 * [前端观察](http://www.qianduan.net/)
 * [大前端](http://www.daqianduan.com/)
 * [web前端开发](http://www.css88.com/)
-* [Quora](http://www.quora.com/)
+
 * [前端外刊评论](http://zhuanlan.zhihu.com/FrontendMagazine)
 * [编程网志](http://www.codeweblog.com/category/javascript%E6%8A%80%E5%B7%A7/)
 * [前端程序员：月薪5K到5万，我干了啥](http://developer.51cto.com/art/201601/504446.htm)
@@ -35,7 +92,7 @@
 * [移动web解决方案-支付宝](http://am-team.github.io/amg/dev-exp-doc.html#javascript)
 * [全栈开发者](http://www.admin10000.com/)
 * [静静寻觅生活的美好](http://cuiqingcai.com/1052.html)
-* [V2EX](https://www.v2ex.com/?tab=jobs)
+
 
 ##大牛
 * [Github上最受关注的前端大牛](http://code.csdn.net/news/2820990)
