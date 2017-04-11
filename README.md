@@ -39,6 +39,8 @@
 * [stackoverflow](http://stackoverflow.com/)
 * [github](https://github.com/IORI20091101/orderCollection)
 * [GitBook](https://www.gitbook.com/book/yeasy/docker_practice/details)
+* [lowendtalk](https://www.lowendtalk.com/discussions)
+* [qiita](http://qiita.com/)
 * [Hacker News](https://news.ycombinator.com/)
 
 ## 论坛咨询社区
