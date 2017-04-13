@@ -66,8 +66,12 @@
 * [Reddit](https://www.reddit.com/)
 * [wired](https://www.wired.com/)
 * [Techmeme科技新闻](https://www.techmeme.com/)
+* [Twitter](https://twitter.com/)
+* [youtube](https://www.youtube.com/)
+* [facebook](https://www.facebook.com/)
 
 ## 其他技术网站社区前端个人网址
+* [小众软件](http://www.appinn.com/surge-for-ios/)
 * [前端JSer装逼手册](https://segmentfault.com/a/1190000005987011)
 * [假装黑客的页面，用到日志输出](http://hackertyper.net/)
 * [假装黑客的页面，用到日志输出](http://hackcode.ishoulu.com/combine/)
@@ -134,6 +138,7 @@
 * [玉伯](https://lifesinger.wordpress.com/)
 * [崔庆才的个人博客爬虫](http://cuiqingcai.com/2577.html)
 * [颜开的博客](http://www.yankay.com/)
+* [Vitrum Blog](http://vitrum.github.io/)
 
 ## java相关
 * [使用gradle替代maven项目构建](http://www.infoq.com/cn/news/2011/04/xxb-maven-6-gradle/)
