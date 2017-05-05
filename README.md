@@ -17,7 +17,7 @@
 * [通过一些浏览器小项目学习 HTML, CSS, 和 Javascript](https://dash.generalassemb.ly/)
 * [用小视频教你写code。但是网站很丑。](http://thecodeplayer.com/)
 
-####youtube集合
+#### youtube集合
 * [麻省理工学院有着数以万计、涵盖编程语言到技术，不一而足的优质视频讲座](https://www.youtube.com/user/mit)
 * [一个非常流行的频道，在上面能提供关于 Java、C、JavaScript 和其他语言的截屏教程。如果你喜欢长视频教程，这可以作为你一个不错的开始。](https://www.youtube.com/user/thenewboston)
 * [我（原作者）最喜欢的频道之一！它涵盖非常广泛的技术概念，比如数据库和信息安全等](https://www.youtube.com/user/Computerphile)
