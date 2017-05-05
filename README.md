@@ -4,7 +4,35 @@
 
 ## 技术相关社区
 
+### 各种关于提升编程技能的教学
+* [编程一小时](https://hourofcode.com/cn/learn)
+* [免费代码学院可以免费学习编程，并且可以为公益组织提供自己的服务](https://www.freecodecamp.com/)
+* [麻省理工学院开放式课程计划是以网站为架构](https://ocw.mit.edu/index.htm)
+* [CodeSchool无需安装，告别繁琐，轻轻松松即可学习。教程包括：视频教程、编码挑战以及屏幕截屏等多种学习方式](https://www.codeschool.com/)
+* [edX是麻省理工和哈佛大学于2012年4月联手创建的大规模开放在线课堂平台。它免费给大众提供大学教育水平的在线课堂](https://www.edx.org/)
+* [Coursera是免费大型公开在线课程项目，由美国斯坦福大学两名计算机科学教授创办。旨在同世界顶尖大学合作，在线提供免费的网络公开课程](https://www.coursera.org/)
+* [Bentobox是一个关于如何学习多门编程语言和web基础的综合性的计划安排。](https://bento.io/)
+* [Codecademy为用户提供了一种学习编程的新方式，是一种基于网络的交互式编程教程，手把手帮助用户了解JavaScript的一些基本原理，号称是“学习编程最简单的方法](https://www.codecademy.com/)
+* [可汗学院的一些关于编程的小课程](https://www.khanacademy.org/computing/computer-programming)
+* [通过一些浏览器小项目学习 HTML, CSS, 和 Javascript](https://dash.generalassemb.ly/)
+* [用小视频教你写code。但是网站很丑。](http://thecodeplayer.com/)
+
+####youtube集合
+* [麻省理工学院有着数以万计、涵盖编程语言到技术，不一而足的优质视频讲座](https://www.youtube.com/user/mit)
+* [一个非常流行的频道，在上面能提供关于 Java、C、JavaScript 和其他语言的截屏教程。如果你喜欢长视频教程，这可以作为你一个不错的开始。](https://www.youtube.com/user/thenewboston)
+* [我（原作者）最喜欢的频道之一！它涵盖非常广泛的技术概念，比如数据库和信息安全等](https://www.youtube.com/user/Computerphile)
+* [Travis Neilson 的这个频道主要聚焦于前端开发和一些优秀的 CSS 教程。此外，他最近入职谷歌并详细地记录了他的面试历程](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
+* [Matthew Tran 刚从工程专业毕业，他现在正在帮助工程师们学习编程。他曾与许多开发者有过面谈交流，其中就包括 Travis Neilson](https://www.youtube.com/user/EngineeredTruth/videos)
+* [这里有许多关于 JavaScript 技术的视频教程，比如 React 和 Redux。](https://www.youtube.com/user/learncodeacademy/videos)
+* [这个频道包括 PHP 和 MySQL，同时有诸如如何搭建一个商业网站的教学例子。](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g)
+* [Quora 上的作者 Mattias Petter Johansson 有个 YouTube 频道专门讲解 JavaScript 和函数式编程。](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+* [这个频道对如何完成诸如 Free Code Camp 上的代码挑战有截屏演示。](https://www.youtube.com/user/pizzapokerguy87/playlists?sort=dd&view=50&shelf_id=12)
+* [Daniel Shiffman 的这个频道覆盖 Python 和数据可视化研究，而且他的频道看起来还蛮有趣的。](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+* [这里有许多两分钟带白板讲解的短视频，内容不仅有软件开发工具相关知识，也有各种名词概念讲解](https://www.youtube.com/freecodecamp)
+
+
 ### 国内
+* [创造狮导航](http://chuangzaoshi.com/index)
 * [V2EX](https://www.v2ex.com/?tab=jobs)
 * [InfoQ](http://www.infoq.com/cn/)
 * [CSDN](http://www.csdn.net/)
@@ -398,6 +426,7 @@
 * [PhantomJS > Selenium](http://phantomjs.org/)
 
 ## 其他
+* [Python全栈之路](https://blog.ansheng.me/article/python-full-stack-way/)
 * [大汇总](http://www.w3cfuns.com/notes/18186/714fccfb15f26c9858a163918b39a944.html)
 * [各种教程](http://www.runoob.com/)
 * [各种实用教程包括mongodb，java ，mysql ruby，python](http://www.yiibai.com/)
