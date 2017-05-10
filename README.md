@@ -354,7 +354,7 @@
 * [Charles教程](http://my.oschina.net/u/2340880/blog/508688#OSC_h3_4)
 * [获取hosts访问google](http://go.netsh.org/link/gethosts)
 * [shadowsocks账户管理](https://portal.shadowsocks.com.hk/clientarea.php)
-* [shadowsocks官网](https://shadowsocks.com.hk/)
+* [shadowsocks官网](https://www.shadowsocks.com.hk/)
 * [ShadowSocks+ 推荐vpn和socket购买](http://www.jianshu.com/p/08ba65d1f91a)
 * [简书vpn推荐](http://www.jianshu.com/p/6551db7bfc39)
 * [gozapTestdev-del](https://zybuluo.com/mritd/note/627609)
