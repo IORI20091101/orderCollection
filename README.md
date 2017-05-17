@@ -446,6 +446,9 @@
 * [在线转换png，jpg各种格式成.ico文件](http://www.converticon.com/)
 * [文档大全](http://devdocs.io/http/)
 * [python 的一个库](http://zesty.ca/python/)
+* [SPF 记录：原理、语法及配置方法简介](http://www.renfei.org/blog/introduction-to-spf.html)
+* [邮箱伪造详解](http://www.2cto.com/article/201308/239873.html)
+* [伪造邮件](https://emkei.cz/)
 
 ### Mac需要掌握的知识，iterm2  zsh+tmux+vim  curl brew ，系统级命令
 
