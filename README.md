@@ -287,6 +287,7 @@
 * [微信平台api文档](http://mp.weixin.qq.com/wiki/2/ae9782fb42e47ad79eb7b361c2149d16.html)
 * [iconfont.cn很好用](http://www.iconfont.cn/plus)
 * [http://git.io/icono](http://codepen.io/saeedalipoor/pen/fgiwK)
+* [loading.io](https://loading.io/)
 
 ## HTML5
 * [html5boilerplate](http://www.bootcss.com/p/html5boilerplate/)
