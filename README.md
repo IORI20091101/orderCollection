@@ -288,6 +288,7 @@
 * [iconfont.cn很好用](http://www.iconfont.cn/plus)
 * [http://git.io/icono](http://codepen.io/saeedalipoor/pen/fgiwK)
 * [loading.io](https://loading.io/)
+* [懒人图库](http://www.lanrentuku.com/gif/a/loading.html)
 
 ## HTML5
 * [html5boilerplate](http://www.bootcss.com/p/html5boilerplate/)
